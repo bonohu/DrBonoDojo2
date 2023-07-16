@@ -1,0 +1,534 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      ------------------------------------------------------MEG-AG
+Q9XTA5      ------------------------------------------------------MEG-AG
+Q61221      ------------------------------------------------------ME-GAG
+Q9YIB9      -------------------------------------------------------MDSPG
+Q16665      ------------------------------------------------------MEG-AG
+Q309Z6      ------------------------------------------------------MEGAAG
+O35800      ------------------------------------------------------ME-GAG
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ----------------------------------------------------------MA
+Q99814      ----------------------------------------------------------MT
+Q98SW2      -------------------------------------------------------MDTGV
+P97481      ----------------------------------------------------------MT
+Q9JHS1      ----------------------------------------------------------MT
+Q24167      MVSLIDTIEAAAEKQKQSQAVVTNTSASSSSCSSSFSSSPPSSSVGSPSPGAPKTNLTAS
+Q9I8A9      -------------------------------------------------------MEGSV
+                                                                        
+
+G5EGD2      -MEDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAA
+Q0PGG7      GANDKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+Q9XTA5      GANDKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+Q61221      GENEKKKMSSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+Q9YIB9      GVTDKKRISSERRKEKSRDAARCRRSKESEVFYELAHQLPLP-HTVSAHLDKASIMRLTI
+Q16665      GANDKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+Q309Z6      GEEKKNRMSSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+O35800      GENEKKKMSSERRKEKSRDAARSRRSKESEVFYELAHQLPLP-HNVSSHLDKASVMRLTI
+Q9JHS2      MDWDQDRSSTELRKEKSRDAARSRRSQETEVLYQLAHTLPFA-RGVSAHLDKASIMRLTI
+Q0VBL6      MDWDQDRSNTELRKEKSRDAARSRRSQETEVLYQLAHTLPFA-RGVSAHLDKASIMRLTI
+Q9Y2N7      LGLQRARSTTELRKEKSRDAARSRRSQETEVLYQLAHTLPFA-RGVSAHLDKASIMRLTI
+Q99814      ADKEKKRSSSERRKEKSRDAARCRRSKETEVFYELAHELPLP-HSVSSHLDKASIMRLAI
+Q98SW2      VPEKKSRVSSDRRKEKSRDAARCRRGKESEVFYELAQELPLP-HSVTSNLDKASIMRLAI
+P97481      ADKEKKRSSSELRKEKSRDAARCRRSKETEVFYELAHELPLP-HSVSSHLDKASIMRLAI
+Q9JHS1      ADKEKKRSSSELRKEKSRDAARCRRSKETEVFYELAHELPLP-HSVSSHLDKASIMRLAI
+Q24167      GKPKEKRRNNEKRKEKSRDAARCRRSKETEIFMELSAALPLK-TDDVNQLDKASVMRITI
+Q9I8A9      VVSEKKRISSERRKEKSRDAARCRRSNESEVFYELSHELPLP-HNVSSHLDKASIMRLDH
+               .. : . : *:*.**.*** **.:*:::: :*   :*:       :**: :::*:  
+
+G5EGD2      TICRLRKTAGNVLENN-L-------------------DNEITNEVWTED-----TIAECL
+Q0PGG7      SYLRVRKLLDAGD--LDIEDEM--------------------------KAQMNCFYLKAL
+Q9XTA5      SYLRVRKLLDAGD--LDIEDEM--------------------------KAQMNCFYLKAL
+Q61221      SYLRVRKLLDAGG--LDSEDEM--------------------------KAQMDCFYLKAL
+Q9YIB9      SYLRMRKLLDAGE--LETEANM--------------------------EKELNCFYLKAL
+Q16665      SYLRVRKLLDAGD--LDIEDDM--------------------------KAQMNCFYLKAL
+Q309Z6      SYLRVRKLLDAGD--LDIEDDM--------------------------KAQMNCFYLKAL
+O35800      SYLRVRKLLDAGD--LDIEDEM--------------------------KAQMNCFYLKAP
+Q9JHS2      SYLRMHRLCAAGE--WNQVRKE--------------------------GEPLDACYLKAL
+Q0VBL6      SYLRMHRLCAAGE--WNQVEKG--------------------------GEPLDACYLKAL
+Q9Y2N7      SYLRMHRLCAAGE--WNQVGAG--------------------------GEPLDACYLKAL
+Q99814      SFLRTHKLLSSVCSENESEAEA--------------------------DQQMDNLYLKAL
+Q98SW2      SYLHMRNLLSTDNEEEQEEREM--------------------------DSQLNGSYLKAI
+P97481      SFLRTHKLLSSVCSENESEAEA--------------------------DQQMDNLYLKAL
+Q9JHS1      SFLRTHKLLSSVCSENESEAEA--------------------------DQQMDNLYLKAL
+Q24167      AFLKIREMLQFVPSLRDCNDDIKQDIETAEDQQEVKPKLEVGTEDWLNGAEARELLKQTM
+Q9I8A9      QLPAVEKVADAGD--LDGETEL--------------------------DKQLNCFYLKAL
+                 ..                                                  :  
+
+G5EGD2      DGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--
+Q0PGG7      DGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGL--
+Q9XTA5      DGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGL--
+Q61221      DGFVMVLTDDGDMVYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGP--
+Q9YIB9      DGFVMVLSEDGDMIYMSENVNKCMGLTQFDLTGHSVFDFTHPCDHEELREMLTHRNGP--
+Q16665      DGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGL--
+Q309Z6      DGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGP--
+O35800      DGFVMVLTDDGDMIYISDNVNKYMGLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGP--
+Q9JHS2      EGFVMVLTAEGDMAYLSENVSKHLGLSQLELIGHSIFDFIHPCDQEELQDALTPRPSL--
+Q0VBL6      EGFVMVLTAEGDMAYLSENVSKHLGLSQLELIGHSIFDFIHPCDQEELQDALTPRPNL--
+Q9Y2N7      EGFVMVLTAEGDMAYLSENVSKHLGLSQLELIGHSIFDFIHPCDQEELQDALTPQQTL--
+Q99814      EGFIAVVTQDGDMIFLSENISKFMGLTQVELTGHSIFDFTHPCDHEEIRENLSLKNGSGF
+Q98SW2      EGFLMVLSEDGDMIYLSENVNKCLGLAQIDLTGLSVFEYTHPCDHEELREMLVHRTGT--
+P97481      EGFIAVVTQDGDMIFLSENISKFMGLTQVELTGHSIFDFTHPCDHEEIRENLTLKNGSGF
+Q9JHS1      EGFIAVVTQDGDMIFLSENISKFMGLTQVELTGHSIFDFTHPCDHEEIRENLTLKTGSGF
+Q24167      DGFLLVLSHEGDITYVSENVVEYLGITKIDTLGQQIWEYSHQCDHAEIKEALSLKREL--
+Q9I8A9      EGFVLVLTEEGDMIYLSENVNKCMGLTQFELTGHSVFDFTHPCDHEELREMLTFRNGP--
+            :**: ::  :..: ::::.:   :*::: :  *  : :: * .*  *: .          
+
+G5EGD2      ----R-----GEDTDTTGINMVLRMKTVISPRGRCLNLKSALYKSVSF------LVHSKV
+Q0PGG7      VKKGK--------EQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+Q9XTA5      VKKGK--------EQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+Q61221      VRKGK--------ELNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+Q9YIB9      VKKGK--------EQNTERSFFLRMKCTLTSRGRTVNIKSATWKVLHC------TGHIRV
+Q16665      VKKGK--------EQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+Q309Z6      IKKGK--------EQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+O35800      VRKGK--------EQNTQRSFFLRMKCTLTSRGRTMNIKSATWKVLHC------TGHIHV
+Q9JHS2      SKKKS--------EAATGRHFSLRMKSTLTSRGRALNLKAATWKVLHC------SGHMRA
+Q0VBL6      SKKKL--------EAPTERHFSLRMKSTLTSRGRTLNLKAATWKVLHC------SGHMRA
+Q9Y2N7      SRRKV--------EAPTERCFSLRMKSTLTSRGRTLNLKAATWKVLNC------SGHMRA
+Q99814      GKKSK--------DMSTERDFFMRMKCTVTNRGRTVNLKSATWKVLHC------TGQVKV
+Q98SW2      SKKSK--------EPNTERSFFLRMKCTLTNRGRTVNVKSATWKVLHC------SDHVRV
+P97481      GKKSK--------DVSTERDFFMRMKCTVTNRGRTVNLKSATWKVLHC------TGQVRV
+Q9JHS1      GKKNK--------DRSTERDFFMRMKCTVTNRGRTVNLKSATWKVLHC------TGQVRV
+Q24167      AQKVKDEPQQNSGVSTHHRDLFVRLKCTLTSRGRSINIKSASYKVIHI------TGHLVV
+Q9I8A9      AKKRK--------RTNHREKFLPSYEMYINQS-----WKNREYKVSHMEGPSLYRTHACI
+                                :    :  :.        *   :*            :   
+
+G5EGD2      STGGHVSFMQGITIPAGQGTTNANASA---------MTKYTESP--MGAFTTRHTCDMRI
+Q0PGG7      YDTNS-------NQSQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+Q9XTA5      YDTNS-------NQSQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+Q61221      YDTNS-------NQPQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+Q9YIB9      YDTCN-------NQTH-CGYKKPPMTCLVLICEPIPHPSNIEVPLDSKTFLSRHSLDMKF
+Q16665      YDTNS-------NQPQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+Q309Z6      YDTNS-------NQPQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+O35800      YDTSS-------NQPQ-CGYKKPPMTCLVLICEPIPHPSNIEIPLDSKTFLSRHSLDMKF
+Q9JHS2      YKPPAQ------TSPAGSPRSEPPLQCLVLICEAIPHPASLEPPLGRGAFLSRHSLDMKF
+Q0VBL6      YKPPAQ------TSPAGSPRSEPPLQCLVLICEAIPHPASLEPPLGRGAFLSRHSLDMKF
+Q9Y2N7      YKPPAQ------TSPAGSPDSEPPLQCLVLICEAIPHPGSLEPPLGRGAFLSRHSLDMKF
+Q99814      YNNCPP------HNSL-CGYKEPLLSCLIIMCEPIQHPSHMDIPLDSKTFLSRHSMDMKF
+Q98SW2      HESPA-------EQIP-GGHKEPSVPYLVLVCDPIPHPSNIEAPLDTKTFLSRHTLDMKF
+P97481      YNNCPP------HSSL-CGSKEPLLSCLIIMCEPIQHPSHMDIPLDSKTFLSRHSMDMKF
+Q9JHS1      YNNCPP------HSSL-CGYKEPLLSCLIIMCEPIQHPSHMDIPLDSKTFLSRHSMDMKF
+Q24167      NAKGE--------------------RLLMAIGRPIPHPSNIEIPLGTSTFLTKHSLDMRF
+Q9I8A9      YDNAN-------NQNH-CGYKKPPMTCMVVICEPIPHPSNIEFPLDSKTFLSRHSLDMKF
+                                                     : *    :* ::*: **::
+
+G5EGD2      TFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAAND
+Q0PGG7      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKKG
+Q9XTA5      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRG
+Q61221      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRG
+Q9YIB9      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKQG
+Q16665      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRG
+Q309Z6      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRG
+O35800      SYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRG
+Q9JHS2      TYCDERIAEVAGYSPDDLIGCSAYEYIHALDSDAVSRSIHTLLSKGQAVTGQYRFLARTG
+Q0VBL6      TYCDERIAEVAGYSPDDLIGCSAYEYIHALDSDAVSRSIHTLLSKGQAVTGQYRFLARTG
+Q9Y2N7      TYCDDRIAEVAGYSPDDLIGCSAYEYIHALDSDAVSKSIHTLLSKGQAVTGQYRFLARSG
+Q99814      TYCDDRITELIGYHPEELLGRSAYEFYHALDSENMTKSHQNLCTKGQVVSGQYRMLAKHG
+Q98SW2      TYCDERITELMGYDPEDLLNRSVYEYYHALDSDHLMKTHHNLFAKGQVSTGQYRMLAKRG
+P97481      TYCDDRILELIGYHPEELLGRSAYEFYHALDSENMTKSHQNLCTKGQVVSGQYRMLAKHG
+Q9JHS1      TYCDDRILELVGYHPEELLGRSAYEFYHALDSENMTKSHQNLCTKGQVVSGQYRMLAKHG
+Q24167      TYVDDKMHDLLGYSPKDLLDTSLFSCQHGADSERLMATFKSVLSKGQGETSRYRFLGKYG
+Q9I8A9      SYCDERVTELVGYEPDELLGRSVYEYYHALDSDHLTKPNYNMFTKGQVTTGQYRMLAKKG
+            :: .::.  :     . *:. * :.  *  *   :      : :**:  :  **::.  .
+
+G5EGD2      TLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPAGMQVDIKKEVD
+Q0PGG7      GYVWIETQATVIY-NTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTECV-----------
+Q9XTA5      GYVWIETQATVIY-NTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTECV-----------
+Q61221      GYVWVETQATVIY-NTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTESV-----------
+Q9YIB9      GYVWVETQATVIY-NTKNSQPQCIVCVNYVLSGIVQKDLIFSLGQTECM-----------
+Q16665      GYVWVETQATVIY-NTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTECV-----------
+Q309Z6      GYVWVETQATVIY-NTKNSQPQCIVCVNYVVSGIIQHDLIFSLQQTECV-----------
+O35800      GYVWVETQATVIY-NTKDSQPQCIVCVNYVVSGIIQHDLIFSLQQTESV-----------
+Q9JHS2      GYLWTQTQATVVS-GGRGPQSESIICVHFLISRVEENGVVLSLEQTEQHTRRPPQLG---
+Q0VBL6      GYLWTQTQATVVS-GGRGPQSESIICVHFLISRVEETGVVLSLEQTEQHTRRPPRLS---
+Q9Y2N7      GYLWTQTQATVVS-GGRGPQSESIVCVHFLISQVEETGVVLSLEQTEQHSRRPIQRG---
+Q99814      GYVWLETQGTVIY-NPRNLQPQCIMCVNYVLSEIEKNDVVFSMDQTESL-----------
+Q98SW2      GFVWVETQATVIY-NNKNSQPQCVVCVNYVLSGIEEEKMMLSLEQTEDMRPVKKELEEE-
+P97481      GYVWLETQGTVIY-NPRNLQPQCIMCVNYVLSEIEKNDVVFSMDQTESL-----------
+Q9JHS1      GYVWLETQGTVVY-NPRNLQPQCIMCVNYVLSEIEKNDVVVSMDQTESC-----------
+Q24167      GYCWILSQATIVY-DK--LKPQSVVCVNYVISNLENKHEIYSLAQQTAASEQKEQHHQAA
+Q9I8A9      GYVWVETQATVIY-NSKNSQPQCIVCVNYVLSEVVEKDLILSLGQTASV-----------
+               *  ::.* :       : : ::**::::.       :    :               
+
+G5EGD2      DT--RDYIGRQPEIVECVD----FT------------------------------PLIEP
+Q0PGG7      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSSLFDKLKKE
+Q9XTA5      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSSLFDKLKKE
+Q61221      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSCLFDKLKKE
+Q9YIB9      -----------------------LKPVESPEMKMTKIFS---KDDW-DDTNSLFEKLKQE
+Q16665      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSSLFDKLKKE
+Q309Z6      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSCLFDKLKKE
+O35800      -----------------------LKPVESSDMKMTQLFT---KVES-EDTSCLFDKLKKE
+Q9JHS2      --------------------------------------TSSKKG---IPGNSLD---PPA
+Q0VBL6      --------------------------------------ASSQKG---IPGNSVD---SPA
+Q9Y2N7      --------------------------------------APSQKDT-PNPGDSLD---TPG
+Q99814      -----------------------FKPH---LMAMNSIFDSSGKGAVSEKSNFLFTKLKEE
+Q98SW2      -------ESSEPEVSPV-----LLKEEKSPELDVIKLFT---RAVETQPLSSLYDRLKEE
+P97481      -----------------------FKPH---LMAMNSIFDSSDDVAVTEKSNYLFTKLKEE
+Q9JHS1      -----------------------SSHT---LMAMNSIFDTSDDVALSEKSNYLFTNLKEE
+Q24167      ETEKEPEKAADPEIIAQETKETVNTPIHTSELQAKPLQLESEKAE----------KTIEE
+Q9I8A9      -----------------------LIPVESQEIKMPEIFT---ELNEENNSECLFDKLKQE
+                                                                        
+
+G5EGD2      EDPFDTVIEPVVG--GEEPVKQADMGAR-----------KNSYDDVLQ-----WLFRD-Q
+Q0PGG7      PDA-LTLLAPAA----GDTIISLDFGSNDTETDDQQLEEVPLYNDVMLPSSNEKLQNINL
+Q9XTA5      PDA-LTLLAPAA----GDTIISLDFGSNDTETDDQQLEEVPLYNDVMLPSSNEKLQNINL
+Q61221      PDA-LTLLAPAA----GDTIISLDFGSDDTETEDQQLEDVPLYNDVMFPSSNEKL-NINL
+Q9YIB9      PDA-LTVLAPAA----GDTIISLDFSSNE--SDEQQCDEVPLYNDVMLPSSSEKLQNINI
+Q16665      PDA-LTLLAPAA----GDTIISLDFGSNDTETDDQQLEEVPLYNDVMLPSPNEKLQNINL
+Q309Z6      PDA-LTLLAPAA----GDTIISLDFGSDDTETEDQQLEDVPLYNDVMFPSSDDKLTSINL
+O35800      PDA-LTLLAPAA----GDTIISLDFGSDDTETEDQQLEDVPLYNDVMFPSSNEKL-NINL
+Q9JHS2      PRI-LAFLHPPA----L--------------------------SEASLAAD---------
+Q0VBL6      PRI-LAFLHPPA----L--------------------------SEASLAAD---------
+Q9Y2N7      PRI-LAFLHPPS----L--------------------------SEAALAAD---------
+Q99814      PEE-LAQLAPTP----GDAIISLDFGNQNF-------EESSAYGKAILPPSQPWATEL--
+Q98SW2      PEA-LTLLAPAA----GDTIISLDFSSPDS---DILQKEVPLYKDVMLPSTSDKLAL---
+P97481      PEE-LAQLAPTP----GDAIISLDFGSQNF-------DEPSAYGKAILPPGQPWVSGL--
+Q9JHS1      PED-LAQLAPTP----GDAIISLDFGSQNF-------DESSTYGKAILPPGQPWATEL--
+Q24167      TKT-IATIPPVTATSTADQIKQL--------------PESNPYKQILQAEL---------
+Q9I8A9      PES-LTVLAPDA----GDEIIPLDFSSGDS---DKPYEDVPLYNDVMLHSTSNKLEST--
+                 : : *                                  .               
+
+G5EGD2      PSSPPPARYR--SADRFRTTEPSNFGSALASPDFMDSSSRTSRPKTSYGRRAQS------
+Q0PGG7      AMSPLPASETPKPLRSSADPALN-----QEVALKLEPNPESLGLSFTMPQIQDQP-----
+Q9XTA5      AMSPLPASETPKPLRSSADPALN-----QEVALKLEPNPESLELSFTMPQIQDQP-----
+Q61221      AMSPLPSSETPKPLRSSADPALN-----QEVALKLESSPESLGLSFTMPQIQDQP-----
+Q9YIB9      AMSPLPASETTKPLRSNADPALN-----REVVSKLEPNTETLELSFTMPQVQEQP-----
+Q16665      AMSPLPTAETPKPLRSSADPALN-----QEVALKLEPNPESLELSFTMPQIQDQT-----
+Q309Z6      AMSPLPASETPKPLRSNADPALN-----QEVALKLEPNAESLELSFTMPQIQDQP-----
+O35800      AMSPLPASETPKPLRSSADPALN-----QEVALKLESSPESLGLSFTMPQIQDQP-----
+Q9JHS2      -------------PRRFCSPDLR-----RLMAPILDGPPTAATP--STPQAARR------
+Q0VBL6      -------------PRRFCSPDLR-----RLMAPILDGPPPAATP--STPQATRR------
+Q9Y2N7      -------------PRRFCSPDLR-----RLLGPILDGASVAATP--STPLATRH------
+Q99814      --------------RSHSTQ-----------------SEAGSLPAFTVPQAAAPG-----
+Q98SW2      PLSLLPPSDQHLVPNTSVD----------------------------TTEVS--------
+P97481      --------------RSHSAQ-----------------SESGSLPAFTVPQADTPG-----
+Q9JHS1      --------------RSHSAQ-----------------SESRSLPAFTVPQAGSPG-----
+Q24167      ----L-------IKRENHSPGPR-----TITAQLLSGSSSGLRPEEKRPKSVTASVLRPS
+Q9I8A9      PITPLPAPEMPKPLRSNVDPALN-----REVVIKMESNPRTTCASIHHSTAIQA------
+                                                                        
+
+G5EGD2      ------------------QGSRT-TGSSSTSASATLPHSANYSPLAEGISQCGLNSPPSI
+Q0PGG7      ------------------------ASPSDGSTR--QSSPE--------------PNSP--
+Q9XTA5      ------------------------ASPSDGSTR--QSSPE--------------PNSP--
+Q61221      ------------------------ASPSDGSTR--QSSPERLLQENVNTPNFSQPNSP--
+Q9YIB9      ------------------------TSPSDASTS--QSSPE--------------PSSP--
+Q16665      ------------------------PSPSDGSTR--QSSPE--------------PNSP--
+Q309Z6      ------------------------ASPSDGSTR--QSSPE--------------PNSP--
+O35800      ------------------------ASPSDGSTR--QSSPE--------------PNSP--
+Q9JHS2      ------------------------------------------------------PQSP--
+Q0VBL6      ------------------------------------------------------PQSP--
+Q9Y2N7      ------------------------------------------------------PQSP--
+Q99814      -----------------------STTPSA----------------TSSSSSCSTPNSP--
+Q98SW2      ------------------------TGPDSS------S--------TPGSHSFTEPDSP--
+P97481      -----------------------NTTPSA----------------S-SSSSCSTPSSP--
+Q9JHS1      -----------------------NATPSA----------------T-SSSSCSTPSSP--
+Q24167      PAPPLTPPPTAVLCKKTPLGVEPNLPPTTTATAAIISSSNQQLQI-AQQTQLQNPQQPAQ
+Q9I8A9      ------------------------------------RQPFRY---QFQSEP-STEPNT--
+                                                                        
+
+G5EGD2      KSGQVV----YGDARS------------------------------------MG------
+Q0PGG7      ---SEYCFDVDGDMV---------------------------------------------
+Q9XTA5      ---SEYCFDVDSDMV---------------------------------------------
+Q61221      ---SEYCFDVDSDMV---------------------------------------------
+Q9YIB9      ---NDYCFDVDNDMA---------------------------------------------
+Q16665      ---SEYCFYVDSDMV---------------------------------------------
+Q309Z6      ---SEYCFDVDSDMV---------------------------------------------
+O35800      ---SEYCFDVDSDMV---------------------------------------------
+Q9JHS2      ---L------PADLP---------------------------------------------
+Q0VBL6      ---L------PADLP---------------------------------------------
+Q9Y2N7      ---L------SADLP---------------------------------------------
+Q99814      ---EDYYTSL----D---------------------------------------------
+Q98SW2      ---LDFCFPMESDIN---------------------------------------------
+P97481      ---EDYYSSL----E---------------------------------------------
+Q9JHS1      ---EDYYSSL----E---------------------------------------------
+Q24167      DMSKGFCSLFADDGRGLTMLKEEPDDLSHHLASTNCIQLDEMTPFSDMLVGLMGTCLLPE
+Q9I8A9      ---PEYCFDVDSEMA---------------------------------------------
+                                                                        
+
+G5EGD2      -------RSCDPSDSSRRFS--------------------------ALSPSDTL------
+Q0PGG7      ------------------------------------------------------------
+Q9XTA5      ------------------------------------------------------------
+Q61221      ------------------------------------------------------------
+Q9YIB9      ------------------------------------------------------------
+Q16665      ------------------------------------------------------------
+Q309Z6      ------------------------------------------------------------
+O35800      ------------------------------------------------------------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      ------------------------------------------------------------
+Q98SW2      ------------------------------------------------------------
+P97481      ------------------------------------------------------------
+Q9JHS1      ------------------------------------------------------------
+Q24167      DINSLDSTTCSTTASGQHYQSPSSSSTSAPSNTSSSNNSYANSPLSPLTPNSTATASNPS
+Q9I8A9      ------------------------------------------------------------
+                                                                        
+
+G5EGD2      --------------------------NVSSTRGINPVIGSNDVFSTMPFADSIAIAERID
+Q0PGG7      --------------------------NEFKLELVEKLFAEDTEAK---------------
+Q9XTA5      --------------------------NEFKLELVEKLFAEDTEAK---------------
+Q61221      --------------------------NVFKLELVEKLFAEDTEAK---------------
+Q9YIB9      --------------------------NEFKLELVEKLFAIDTEAK---------------
+Q16665      --------------------------NEFKLELVEKLFAEDTEAK---------------
+Q309Z6      --------------------------NVFKLELVEKLFAEDTEAK---------------
+O35800      --------------------------NVFKLELVEKLFAEDTEAK---------------
+Q9JHS2      ------------------------DQLAVGLENAHRLSTARK-NK---------------
+Q0VBL6      ------------------------DKLTVGLENAHRLSTAQK-NK---------------
+Q9Y2N7      ------------------------DELPVGTENVHRLFTSGKDTE---------------
+Q99814      --------------------------NDLKIEVIEKLFAMDTEAK---------------
+Q98SW2      --------------------------AEFKLDMVETLFAINPEPK---------------
+P97481      --------------------------NPLKIEVIEKLFAMDTEPR---------------
+Q9JHS1      --------------------------NHLKIEVIEKLFAMDTEAK---------------
+Q24167      HQQQQQHHNQQQQQQQQQQHHPQHHDNSNSSSNIDPLFNYREESNDTSCSQHL-HSPSIT
+Q9I8A9      --------------------------SEFKLDLVEKLFAIDTEAK---------------
+                                              . :                       
+
+G5EGD2      SSPTLTSGEPILCDD------LQWEEPDLSCLAPFVDTYD-MMQMDEGLPPELQALYDLP
+Q0PGG7      ---------------NPFSTQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q9XTA5      ---------------NPFSTQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q61221      ---------------NPFSTQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q9YIB9      ---------------NPFSTQ-E-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q16665      ---------------NPFSTQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q309Z6      ---------------NPFSTQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+O35800      ---------------NPFSAQ-D-TDLDLEMLAPYIPMDD-DFQLRS--------FDQL-
+Q9JHS2      ----------T--METDLDIAQDPDTPDLEMLAPYISMDD-DFQLNS--------SEQL-
+Q0VBL6      ----------T--VETDLDIAQDPDTLDLEMLAPYISMDD-DFQLNS--------SEQL-
+Q9Y2N7      ----------A--VETDLDIAQDADALDLEMLAPYISMDD-DFQLNA--------SEQL-
+Q99814      ---------------DQCSTQTDFNELDLETLAPYIPMDGEDFQLSP--------ICPE-
+Q98SW2      ---------------TPFTLQ-AMEDLDLEMLAPYIPMDD-DFQLRT--------LSPE-
+P97481      ---------------DPGSTQTDFSELDLETLAPYIPMDGEDFQLSP--------ICPE-
+Q9JHS1      ---------------DQCSTQTDFNELDLETLAPYIPMDGEDFQLSP--------ICPE-
+Q24167      SKSPEDSSLPSLCSPNSLTQEDDFSFEAFAMRAPYIPIDD-DMPLLT--------ETDL-
+Q9I8A9      ---------------APFYYP-G-NDLDLEMLAPYIPMDD-DFQLRT--------FDQL-
+                                        :   **::   .  : :               
+
+G5EGD2      DFTPAVPQAPAARPVHIDRSPPAKRMHQSGPSDLDF-------MYTQHYQPFQQDETYWQ
+Q0PGG7      --SPLENSST-------------SPQSAS---TNTVFQPTQMQEPPIATVTT-----TAT
+Q9XTA5      --SPLENSST-------------SPQSAS---TNTVFQPTQMQKPPIATVTT-----TAT
+Q61221      --SPLESNSP-------------SPPSM---STVTGFQQTQLQKPTITATA---TT-TAT
+Q9YIB9      --SPLESSSS-------------GSQNAATI---TILQQTQT--P------------STA
+Q16665      --SPLESSSA-------------SPESASPQSTVTVFQQTQIQEPTANATTT-----TAT
+Q309Z6      --SPLESSSP-------------NPP-----SVSTAFQQTQLQEPTIT---------TTT
+O35800      --SPLESNSP-------------SPPSV---STVTGFQQTQLQKPTITVTAATATT-ATT
+Q9JHS2      --PKVHRRPP-------------RTARRPRARSFHGLSPPIP------------------
+Q0VBL6      --PKVHRRPP-------------RVARRPRARSFHGLSPPIP------------------
+Q9Y2N7      --PRAYHRPL-------------GAVPRPRARSFHGLSPPAL------------------
+Q99814      --ERLLAENP-------------QSTPQHCFSAMTNIFQPLA--PVAPHSPFLLDK-FQQ
+Q98SW2      --EPLSCGPA-------------QPLECSSLCSSVRLTQ---------------------
+P97481      --EPLMPESP-------------QPTPQHCFSTMTSIFQPLT--PGATHGPFFLDK-YPQ
+Q9JHS1      --EPLVPESP-------------QPNPQHCFSTMSSIFQPLT--PGASQGTFFLDK-YPQ
+Q24167      --M--WCP-P-------------EDLQTMVPKEIDAIQQQLQQLQQQHHQQYAGNTGYQQ
+Q9I8A9      --SSLECDSS-------------IPQTLGSMTT--LFHQSLS----------------PS
+                                                                        
+
+G5EGD2      GQQQQNEQQPSSYSPFPMLS----------------------------------------
+Q0PGG7      SDE-LK-TVTKDGMKDIKILIAFPSPP---------------------------HV-PKE
+Q9XTA5      SDE-LK-TVTKDGMEDIKILIAFPSPP---------------------------HV-PKE
+Q61221      TDE-SK-TETKDNKEDIKILIASPSST---------------------------QV-PQE
+Q9YIB9      ADE-IK-PV-AERVDDVKALIVPSSPV---------------------------HV-IN-
+Q16665      TDE-LK-TVTKDRMEDIKILIASPSPT---------------------------HI-HKE
+Q309Z6      TEE-LK-TVTKDSTEDIKILITSPSST---------------------------HT-PKE
+O35800      TDE-SK-AVTKDNIEDIKILIASPPST---------------------------QV-PQE
+Q9JHS2      --E--A-TLLPRWGSDPRLNCSSPSKG---------------------------DPP---
+Q0VBL6      --E--P-SLLPRWGSDPRLNCSSPSRG---------------------------DRP---
+Q9Y2N7      --E--P-SLLPRWGSDPRLSCSSPSRG---------------------------DPS---
+Q99814      QLESKK-TEPEHR-PMSSIFFDAGSKA---------------------------SLPPCC
+Q98SW2      ------------------------------------------------------------
+P97481      QLESRK-TESEHW-PMSSIFFDAGSKG---------------------------SLSPCC
+Q9JHS1      QLESRK-TESEHW-PMSTIFFDAGSKG---------------------------SLPPCC
+Q24167      QQQ-QP-QLQQ--QHFSNSLCSSPASTVSSLSPSPVQQHHQQQQAAVFTSDSSELAALLC
+Q9I8A9      TSD-FK---PEDAMSDLKTIIQSP--V---------------------------HM-MK-
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      PPC-ATTSPYSDTGSRTASPSRA----GKG---VIEQT---------E---KSHPRSPNV
+Q9XTA5      PPC-ATTSPYSDTGSRTASPNRA----GKG---VIEQT---------E---KSHPRSPNV
+Q61221      TTTA-KASAYSGTHSRTASPDRA----GKR---VIEQT---------D---KAHPRSLN-
+Q9YIB9      DTSSAPASPYSGNRSRTASPIRA----GKG---TLEQT---------E---KSCPGAPSL
+Q16665      TTS-ATSSPYRDTQSRTASPNRA----GKG---VIEQT---------E---KSHPRSPNV
+Q309Z6      TTTATTSSPYSGTQSRTASPNRA----GQG---VIEQT---------E---KSHPRSPNV
+O35800      MTTA-KASAYSGTHSRTASPDRA----GKR---VIEKT---------D---KAHPRSLN-
+Q9JHS2      -----TAPLTPRTRKRALAQSS------------EDKGLELLETKPPKRSPRLEPGSVLL
+Q0VBL6      -----TASLMPGTRKRALAQSS------------EDKGLELLETKPPKRSPRLEPGSFLL
+Q9Y2N7      -----ASSPMAGARKRTLAQSSE----------DEDEGVELLGVRPPKRSPSPEHENFLL
+Q99814      GQASTPLSSMGG-RSNTQWPPDPPLHFGPTKWAVGDQRTEFLGAAPLG-----PPVSPPH
+Q98SW2      EVHSYPGSPFNAPGSLTASPALA----ASP---ALAAP------EPAD---SPCPASL--
+P97481      GQASTPLSSMGG-RSNTQWPPDPPLHFGPTKWPVGDQSAESLGALPVGSSQLEPPSAPPH
+Q9JHS1      GQASTPLSSMGG-RSNTPWPPDPPLHLGPTKWSVGNQSAEPLGPLPLGTSQLEPPSTPPH
+Q24167      GSGNGTLSILAGSGVTVAEECNE-----------------RLQQHQQQ----QQQTSGNE
+Q9I8A9      ESTSAPVSPYNGNRSRTSSPVRP----AKA---VVDKT---------E---KSRPGTPN-
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      LSV---A-LSQRTT---------------APEEELNPKILAL-QN-AQRKRKIEHDGSLF
+Q9XTA5      LSV---A-LSQRTT---------------APEEELNPKILAL-QN-AQRKRKIEHDGSLF
+Q61221      LSA---T-LNQRNT---------------VPEEELNPKTIAS-QN-AQRKRKMEHDGSLF
+Q9YIB9      ITV---T-LNKRST---------------AMDEELNPKMLAL-HN-AQRKRKMEHDGSLF
+Q16665      LSV---A-LSQRTT---------------VPEEELNPKILAL-QN-AQRKRKMEHDGSLF
+Q309Z6      LSV---T-LSQRNT---------------VPEEELNPKIIAL-QN-AQRKRKMEHDGSLF
+O35800      LSV---T-LNQRNT---------------VPEEELNPRTIAL-QN-AQRKRKMEHDGSLF
+Q9JHS2      PPL-SLSFLLQGRQLPGNQPDPRAPLVDSHEPLGLAPSLLSL-YQ---HEETIQS-RNHF
+Q0VBL6      PPL-SLSFLLQGRQLPGNQQDPRAPLVHSHEPLGLAPSLLSL-CQ---HEETVQP-RNRF
+Q9Y2N7      FPL-SLSFLLTGGPAPGSLQDPSTPLLNLNEPLGLGPSLLSP-YS---DEDTTQP-GGPF
+Q99814      VSTFKTRSAKGFGA---------------RGPDVLSPAMVAL-SNKLKLKRQLEYEEQAF
+Q98SW2      --------LTKTVP---------------QMDREISLRSLAS-QN-AQRKRKM----SLS
+P97481      VSMFKMRSAKDFGA---------------RGPYMMSPAMIAL-SNKLKLKRQLEYEEQAF
+Q9JHS1      VSMFKMRSAKDFGA---------------RGPYMMSPAMIAL-SNKLKLKRQLDYEEPAF
+Q24167      FRTFQQ--LQQELQLQEEQQQRQ-QQQQQQQQQQQQQQLLSLNIECKKEKYDVQMGGSLC
+Q9I8A9      LPV---P-LNKRCT---------------ILDEELNPKMICF-TQCTAEKRKMESDGPLF
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      QAVGIGTLLQQPDDRATTTSLSWKRVKGCKSSEQNGMEQKT-------------------
+Q9XTA5      QAVGIGTLLQQPDDRATTTSLSWKRVKGCKSSEQNGMEQKT-------------------
+Q61221      QAAGIGTLLQQPGDCAPTMSLSWKRVKGFISSEQNGTEQKT-------------------
+Q9YIB9      QAVGIGSLFQQTGDRGGNASLAWKRVKACKTNGHNGVEQKT-------------------
+Q16665      QAVGIGTLLQQPDDHAATTSLSWKRVKGCKSSEQNGMEQKT-------------------
+Q309Z6      QAAGIGTLLQQPDDRAPATSLSWKRVKGCKSSGQNGMEQKT-------------------
+O35800      QAAGIGTLLQQPGDRAPTMSLSWKRVKGYISSEQDGMEQKT-------------------
+Q9JHS2      LPAAGL--AQTH------------------------------------------------
+Q0VBL6      PPAAGL--GQTH------------------------------------------------
+Q9Y2N7      QPRAGS--AQAD------------------------------------------------
+Q99814      QDLSGGD-----PPGGSTSHLMWKRMKNLRGGSCPLMPDKPLS--ANVPNDK-------F
+Q98SW2      QAVGIGGLLQDHPGPGKKL-------KVSELSHADAPFNRT-------------------
+P97481      QDTSGGD-----PPGTSSSHLMWKRMKSLMGGTCPLMPDKTIS--ANMAPDE-------F
+Q9JHS1      QDTSGGD-----PPGTSSSHLMWKRMKSLMGGTCPLMPDKTVS--ASMAPDE-------F
+Q24167      HPME--DAFENDYSKDSANLDCWDLIQMQVVDTEPVSPNAASPTPCKVSAIQLLQQQQQL
+Q9I8A9      QAIGIGTLFQTNVDPGPNSSLQWKRVKGSDSERLSSAEQRT-------------------
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      ----------------------------------------------------II------
+Q9XTA5      ----------------------------------------------------II------
+Q61221      ----------------------------------------------------II------
+Q9YIB9      ----------------------------------------------------II------
+Q16665      ----------------------------------------------------II------
+Q309Z6      ----------------------------------------------------II------
+O35800      ----------------------------------------------------IF------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      TQNPMRGLGHPLRHLPLPQPPSAISPGENSKSRFPPQC---YATQYQDYSLSSA------
+Q98SW2      ----------------------------------------------------IL------
+P97481      TQKSMRGLGQPLRHLPPPQPPSTRSSGENAKTGFPPQC---YASQFQDYGPPGA------
+Q9JHS1      TQKSMRGLGQPLRHLPPSQPPSTRSPGENAKSGFPPQC---YASPFQDYSPPGA------
+Q24167      QQQQQQQQNIILNAVPLI----TIQ---NNKELMQQQQQQQQQQQQEQLQQPAIKLLNGA
+Q9I8A9      ----------------------------------------------------IL------
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      ---LIPSDLVCRLLG-----------------Q------------SMDESG---------
+Q9XTA5      ---LIPSDLACRLLG-----------------Q------------SMDESG---------
+Q61221      ---LIPSDLACRLLG-----------------Q------------SMDESG---------
+Q9YIB9      ---LLSTDIASKLLG-----------------Q------------SMDESG---------
+Q16665      ---LIPSDLACRLLG-----------------Q------------SMDESG---------
+Q309Z6      ---LIPSDLACRLLG-----------------Q------------SMDGSG---------
+O35800      ---LIPSDLACRLLG-----------------Q------------SMDESG---------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      ---HKVSGMASRLLG-----------------P------------SFE------------
+Q98SW2      ---LLPTDLASRLLG-----------------I------------SSEGSGS--------
+P97481      ---QKVSGVASRLLG-----------------P------------SFE------------
+Q9JHS1      ---QKGSGVASRLLG-----------------P------------SFE------------
+Q24167      SIAPVNTKATIRLVESKPPTTTQSRMAKVNLVPQQQQHGNKRHLNSATGAGNPVESKRLK
+Q9I8A9      ---LLSTDMASQLLG-----------------Q------------SFDGTV---------
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+Q9XTA5      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+Q61221      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+Q9YIB9      -------------LPQLTSYDCEVNAP----IQGNRN-LL------------QGEELLRA
+Q16665      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+Q309Z6      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+O35800      -------------LPQLTSYDCEVNAP----IQGSRN-LL------------QGEELLRA
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      ----------SYLLPELTRYDCEVNVP----VLGSST-LL------------QGGDLLRA
+Q98SW2      ----------PFTLPQLTRYDCEVNAP----VGGRQL-LL------------QGEELLSA
+P97481      ----------PYLLPELTRYDCEVNVP----VPGSST-LL------------QGRDLLRA
+Q9JHS1      ----------PYLLPELTRYDCEVNVP----EPGSST-LL------------QGRDLLRA
+Q24167      SGTLCLDVQSPQLLQQLIGKDPAQQQTQAAKRAGSERWQLSAESKQQKQQQQQSNSVLKN
+Q9I8A9      -------------LPQLTGYDCEVNAP----VHGTRN-LL------------QGEELLRA
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      L---------------DQVN----------------------------------------
+Q9XTA5      L---------------DQVN----------------------------------------
+Q61221      L---------------DQVN----------------------------------------
+Q9YIB9      L---------------DQVN----------------------------------------
+Q16665      L---------------DQVN----------------------------------------
+Q309Z6      L---------------DQVN----------------------------------------
+O35800      L---------------DQVN----------------------------------------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      L---------------DQAT----------------------------------------
+Q98SW2      L---------------DQVN----------------------------------------
+P97481      L---------------DQAT----------------------------------------
+Q9JHS1      L---------------DQAT----------------------------------------
+Q24167      LLVSGRDDDDSEAMIIDEDNSLVQPIPLGKYGLPLHCHTSTSSVLRDYHNNPLISGTNFQ
+Q9I8A9      L---------------DQAN----------------------------------------
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      ------------------------------------------------------------
+Q9XTA5      ------------------------------------------------------------
+Q61221      ------------------------------------------------------------
+Q9YIB9      ------------------------------------------------------------
+Q16665      ------------------------------------------------------------
+Q309Z6      ------------------------------------------------------------
+O35800      ------------------------------------------------------------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      ------------------------------------------------------------
+Q98SW2      ------------------------------------------------------------
+P97481      ------------------------------------------------------------
+Q9JHS1      ------------------------------------------------------------
+Q24167      LSPVFGGSDSSGGDGETGSVVSLDDSVPPGLTACDTDASSDSGIDENSLMDGASGSPRKR
+Q9I8A9      ------------------------------------------------------------
+                                                                        
+
+G5EGD2      ------------------------------------------------------------
+Q0PGG7      ------------------------------------------------------------
+Q9XTA5      ------------------------------------------------------------
+Q61221      ------------------------------------------------------------
+Q9YIB9      ------------------------------------------------------------
+Q16665      ------------------------------------------------------------
+Q309Z6      ------------------------------------------------------------
+O35800      ------------------------------------------------------------
+Q9JHS2      ------------------------------------------------------------
+Q0VBL6      ------------------------------------------------------------
+Q9Y2N7      ------------------------------------------------------------
+Q99814      ------------------------------------------------------------
+Q98SW2      ------------------------------------------------------------
+P97481      ------------------------------------------------------------
+Q9JHS1      ------------------------------------------------------------
+Q24167      LSSTSNSTNQAESAPPALDVETPVTQKSVEEEFEGGGSGSNAPSRKTSISFLDSSNPLLH
+Q9I8A9      ------------------------------------------------------------
+                                                                        
+
+G5EGD2      ------------------------------------
+Q0PGG7      ------------------------------------
+Q9XTA5      ------------------------------------
+Q61221      ------------------------------------
+Q9YIB9      ------------------------------------
+Q16665      ------------------------------------
+Q309Z6      ------------------------------------
+O35800      ------------------------------------
+Q9JHS2      ------------------------------------
+Q0VBL6      ------------------------------------
+Q9Y2N7      ------------------------------------
+Q99814      ------------------------------------
+Q98SW2      ------------------------------------
+P97481      ------------------------------------
+Q9JHS1      ------------------------------------
+Q24167      TPAMMDLVNDDYIMGEGGFEFSDNQLEQVLGWPEIA
+Q9I8A9      ------------------------------------
+                                                

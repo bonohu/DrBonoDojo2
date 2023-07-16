@@ -1,0 +1,17 @@
+G5EGD2	Caenorhabditis elegans
+Q0PGG7	Bos mutus
+Q9XTA5	Bos taurus
+Q61221	Mus musculus
+Q9YIB9	Gallus gallus
+Q16665	Homo sapiens
+Q309Z6	Eospalax fontanierii
+O35800	Rattus norvegicus
+Q9JHS2	Rattus norvegicus
+Q0VBL6	Mus musculus
+Q9Y2N7	Homo sapiens
+Q99814	Homo sapiens
+Q98SW2	Oncorhynchus mykiss
+P97481	Mus musculus
+Q9JHS1	Rattus norvegicus
+Q24167	Drosophila melanogaster
+Q9I8A9	Xenopus laevis

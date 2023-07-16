@@ -1,0 +1,77 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /hmmer/IACV01087655.1.p1.fa
+# target HMM database:             /hmmer/Pfam-A.hmm
+# output directed to file:         /hmmer/hmmscan-IACV01087655.1.p1.txt
+# profile reporting threshold:     E-value <= 1e-10
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       IACV01087655.1.p1  [L=272]
+Description: GENE.IACV01087655.1~~IACV01087655.1.p1  ORF type:3prime_partial len:273 (-),score=63.15 IACV01087655.1:1-816(-)
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------  -----------
+    2.9e-65  220.6   0.2    3.9e-65  220.2   0.2    1.2  1  Enolase_C  Enolase, C-terminal TIM barrel domain
+    1.1e-57  193.9   0.1    1.8e-57  193.3   0.1    1.3  1  Enolase_N  Enolase, N-terminal domain
+
+
+Domain annotation for each model (and alignments):
+>> Enolase_C  Enolase, C-terminal TIM barrel domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  220.2   0.2     4e-69   3.9e-65       2     130 ..     144     272 .]     143     272 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 220.2 bits;  conditional E-value: 4e-69
+                        -EE-EE-EEEEE-GGGSSSS--SSEEEEE-TT-SSHHHHHHHHHHHHHHHHHHHHHCC-GGGG-B-TTS-B----SSHHHHHHHHHHHHHHC CS
+          Enolase_C   2 lvlPvPalnvlnGGshadnklalqefmilPvgassfkealrlGaevyhklksvlkkkygqsatnvGdeGGfaPdlqsnkealdliveaieka 93 
+                        +vlPvP++nvlnGGsha+++la+qefmi+P++a++f+ea+r+Gaevy++lks++kkkygqsa+nvGdeGG+aPd+q+++ealdli+eaieka
+  IACV01087655.1.p1 144 YVLPVPFMNVLNGGSHAGGRLAFQEFMIVPSEAPTFSEAMRQGAEVYQQLKSLAKKKYGQSAGNVGDEGGVAPDIQTAAEALDLITEAIEKA 235
+                        89****************************************************************************************** PP
+
+                        T-TCTBEEEEE--GGGCEETCTTEEECTTTTTT--GG CS
+          Enolase_C  94 Gykgkvkialdvassefykekdkkydldfkeeesdks 130
+                        Gy+gk++ia+dvassefyke +kkydldfk+++sd+s
+  IACV01087655.1.p1 236 GYTGKMNIAMDVASSEFYKESEKKYDLDFKNPKSDPS 272
+                        *********************************9975 PP
+
+>> Enolase_N  Enolase, N-terminal domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  193.3   0.1   1.8e-61   1.8e-57       1     131 []       3     134 ..       3     134 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 193.3 bits;  conditional E-value: 1.8e-61
+                        EEEEEEEEEE-TTS-EEEEEEEEETTS-EEEEE--B-CSSSSSS-B----SSTTSGGGT--HHHHHHHHCCHHHHHT..TSBTT-HHHHHHH CS
+          Enolase_N   1 IkkvkareildSrGnpTvevevttedgavgraavpsGaStgeaealelrDgdkkrylgkgvekavenvnekiapali..gldvtdqeeiDki 90 
+                        I+kv+ar+i+dSrGnpTvev+v+te+g + ra+vpsGaStg++ea+elrDgdk+++ gkgv+kavenvn +i pali  gldv+dq++iD++
+  IACV01087655.1.p1   3 ITKVHARSIYDSRGNPTVEVDVVTETG-LHRAIVPSGASTGQHEACELRDGDKSKWSGKGVSKAVENVNMTIGPALIkqGLDVKDQSKIDTF 93 
+                        89**********************988.67**********************************************9667************ PP
+
+                        HHHHH-STTSTTT-HHHHHHHHHHHHHHHHHHHTS-HHHHH CS
+          Enolase_N  91 lielDgtenksklGaNailavSlAvakaaAkalelplyryl 131
+                        l +lDgt+nk+klGaNail+vSlA+aka+A+++++ply ++
+  IACV01087655.1.p1  94 LNKLDGTPNKTKLGANAILGVSLAIAKAGAAEKGVPLYAHI 134
+                        ***************************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (272 residues searched)
+Target model(s):                       19632  (3329936 nodes)
+Passed MSV filter:                       419  (0.0213427); expected 392.6 (0.02)
+Passed bias filter:                      350  (0.017828); expected 392.6 (0.02)
+Passed Vit filter:                        24  (0.00122249); expected 19.6 (0.001)
+Passed Fwd filter:                         2  (0.000101874); expected 0.2 (1e-05)
+Initial search space (Z):              19632  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 3.40u 0.40s 00:00:03.80 Elapsed: 00:00:02.79
+# Mc/sec: 323.50
+//
+[ok]

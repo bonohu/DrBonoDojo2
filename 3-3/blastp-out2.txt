@@ -1,0 +1,3404 @@
+BLASTP 2.14.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: uniprot_sprot.fasta
+           567,483 sequences; 204,940,973 total letters
+
+
+
+Query= sp|G5EGD2|HIF1_CAEEL Hypoxia-inducible factor 1 OS=Caenorhabditis
+elegans OX=6239 GN=hif-1 PE=1 SV=1
+
+Length=719
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+G5EGD2 Hypoxia-inducible factor 1 OS=Caenorhabditis elegans OX=62...  1498    0.0  
+Q0PGG7 Hypoxia-inducible factor 1-alpha OS=Bos mutus grunniens OX...  181     2e-46
+Q9XTA5 Hypoxia-inducible factor 1-alpha OS=Bos taurus OX=9913 GN=...  180     2e-46
+Q61221 Hypoxia-inducible factor 1-alpha OS=Mus musculus OX=10090 ...  179     4e-46
+Q9YIB9 Hypoxia-inducible factor 1-alpha OS=Gallus gallus OX=9031 ...  179     7e-46
+Q16665 Hypoxia-inducible factor 1-alpha OS=Homo sapiens OX=9606 G...  177     3e-45
+Q309Z6 Hypoxia-inducible factor 1-alpha OS=Eospalax fontanierii b...  176     5e-45
+O35800 Hypoxia-inducible factor 1-alpha OS=Rattus norvegicus OX=1...  175     2e-44
+Q9JHS2 Hypoxia-inducible factor 3-alpha OS=Rattus norvegicus OX=1...  173     2e-44
+Q0VBL6 Hypoxia-inducible factor 3-alpha OS=Mus musculus OX=10090 ...  169     6e-43
+Q9Y2N7 Hypoxia-inducible factor 3-alpha OS=Homo sapiens OX=9606 G...  167     1e-42
+Q99814 Endothelial PAS domain-containing protein 1 OS=Homo sapien...  168     3e-42
+Q98SW2 Hypoxia-inducible factor 1-alpha OS=Oncorhynchus mykiss OX...  164     3e-41
+P97481 Endothelial PAS domain-containing protein 1 OS=Mus musculu...  164     5e-41
+Q9JHS1 Endothelial PAS domain-containing protein 1 OS=Rattus norv...  163     1e-40
+Q24167 Protein similar OS=Drosophila melanogaster OX=7227 GN=sima...  163     3e-40
+Q9I8A9 Hypoxia-inducible factor 1-alpha OS=Xenopus laevis OX=8355...  140     4e-33
+Q14190 Single-minded homolog 2 OS=Homo sapiens OX=9606 GN=SIM2 PE...  126     5e-29
+A1YFY6 Single-minded homolog 1 OS=Pan paniscus OX=9597 GN=SIM1 PE...  123     7e-28
+Q61079 Single-minded homolog 2 OS=Mus musculus OX=10090 GN=Sim2 P...  122     2e-27
+P05709 Protein single-minded OS=Drosophila melanogaster OX=7227 G...  122     2e-27
+P81133 Single-minded homolog 1 OS=Homo sapiens OX=9606 GN=SIM1 PE...  121     4e-27
+A2T6X9 Single-minded homolog 1 OS=Pan troglodytes OX=9598 GN=SIM1...  121     4e-27
+Q61045 Single-minded homolog 1 OS=Mus musculus OX=10090 GN=Sim1 P...  120     1e-26
+Q98SJ5 Single-minded homolog 1-A OS=Danio rerio OX=7955 GN=sim1a ...  118     3e-26
+P97459 Neuronal PAS domain-containing protein 1 OS=Mus musculus O...  116     1e-25
+Q8IXF0 Neuronal PAS domain-containing protein 3 OS=Homo sapiens O...  116     2e-25
+Q9QZQ0 Neuronal PAS domain-containing protein 3 OS=Mus musculus O...  116     2e-25
+Q99742 Neuronal PAS domain-containing protein 1 OS=Homo sapiens O...  112     1e-24
+P90953 Helix-loop-helix 34 OS=Caenorhabditis elegans OX=6239 GN=h...  99.4    2e-21
+Q24119 Protein trachealess OS=Drosophila melanogaster OX=7227 GN=...  81.6    1e-14
+Q9BE97 Aryl hydrocarbon receptor nuclear translocator OS=Bos taur...  80.1    3e-14
+P97460 Neuronal PAS domain-containing protein 2 OS=Mus musculus O...  80.1    3e-14
+Q99743 Neuronal PAS domain-containing protein 2 OS=Homo sapiens O...  80.1    4e-14
+O02747 Aryl hydrocarbon receptor OS=Oryctolagus cuniculus OX=9986...  79.7    5e-14
+P79832 Aryl hydrocarbon receptor nuclear translocator OS=Oncorhyn...  79.3    6e-14
+Q8R4S7 Aryl hydrocarbon receptor OS=Mus caroli OX=10089 GN=Ahr PE...  78.6    1e-13
+Q9WVS9 Circadian locomoter output cycles protein kaput OS=Rattus ...  78.6    1e-13
+Q8R4S6 Aryl hydrocarbon receptor OS=Mus musculus castaneus OX=100...  78.6    1e-13
+P30561 Aryl hydrocarbon receptor OS=Mus musculus OX=10090 GN=Ahr ...  78.2    1e-13
+P27540 Aryl hydrocarbon receptor nuclear translocator OS=Homo sap...  77.8    2e-13
+Q8R4S5 Aryl hydrocarbon receptor OS=Mus musculus molossinus OX=57...  77.8    2e-13
+Q8R4S4 Aryl hydrocarbon receptor OS=Mus spicilegus OX=10103 GN=Ah...  77.8    2e-13
+O02748 Aryl hydrocarbon receptor nuclear translocator OS=Oryctola...  77.0    3e-13
+Q8R4S2 Aryl hydrocarbon receptor OS=Mus spretus OX=10096 GN=Ahr P...  77.0    3e-13
+P41739 Aryl hydrocarbon receptor nuclear translocator OS=Rattus n...  75.9    7e-13
+P53762 Aryl hydrocarbon receptor nuclear translocator OS=Mus musc...  75.9    7e-13
+O08785 Circadian locomoter output cycles protein kaput OS=Mus mus...  75.9    8e-13
+Q95LD9 Aryl hydrocarbon receptor OS=Delphinapterus leucas OX=9749...  75.9    8e-13
+Q5ZQU2 Neuronal PAS domain-containing protein 2 OS=Gallus gallus ...  75.9    8e-13
+O15516 Circadian locomoter output cycles protein kaput OS=Homo sa...  75.5    1e-12
+P41738 Aryl hydrocarbon receptor OS=Rattus norvegicus OX=10116 GN...  74.7    2e-12
+Q91YB0 Circadian locomoter output cycles protein kaput OS=Nannosp...  74.7    2e-12
+Q91YB2 Circadian locomoter output cycles protein kaput OS=Spalax ...  74.7    2e-12
+Q5RAK8 Circadian locomoter output cycles protein kaput OS=Pongo a...  73.2    5e-12
+Q9DG12 Aryl hydrocarbon receptor nuclear translocator 2 OS=Danio ...  72.4    8e-12
+Q61324 Aryl hydrocarbon receptor nuclear translocator 2 OS=Mus mu...  72.4    9e-12
+Q91YA8 Circadian locomoter output cycles protein kaput OS=Spalax ...  72.4    9e-12
+Q9HBZ2 Aryl hydrocarbon receptor nuclear translocator 2 OS=Homo s...  72.0    1e-11
+P35869 Aryl hydrocarbon receptor OS=Homo sapiens OX=9606 GN=AHR P...  72.0    1e-11
+Q78E60 Aryl hydrocarbon receptor nuclear translocator 2 OS=Rattus...  71.2    2e-11
+Q8QGQ6 Circadian locomoter output cycles protein kaput OS=Gallus ...  69.7    6e-11
+Q6YGZ4 Circadian locomoter output cycles protein kaput OS=Tyto al...  68.2    2e-10
+Q2VPD4 Aryl hydrocarbon receptor nuclear translocator-like protei...  66.6    4e-10
+Q8CJH6 Neuronal PAS domain-containing protein 4 OS=Rattus norvegi...  67.0    5e-10
+O61735 Circadian locomoter output cycles protein kaput OS=Drosoph...  66.2    8e-10
+Q8IUM7 Neuronal PAS domain-containing protein 4 OS=Homo sapiens O...  65.5    1e-09
+O02219 Aryl hydrocarbon receptor nuclear translocator homolog OS=...  64.7    1e-09
+Q91YA9 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    3e-09
+O00327 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    3e-09
+A0MLS5 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    3e-09
+O88529 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    3e-09
+Q9WTL8 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    4e-09
+Q9I8T7 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.9    4e-09
+O15945 Aryl hydrocarbon receptor nuclear translocator homolog OS=...  63.9    4e-09
+Q6YGZ5 Aryl hydrocarbon receptor nuclear translocator-like protei...  63.5    4e-09
+Q8BGD7 Neuronal PAS domain-containing protein 4 OS=Mus musculus O...  63.5    4e-09
+Q9EPW1 Aryl hydrocarbon receptor nuclear translocator-like protei...  62.8    7e-09
+Q5R4T2 Aryl hydrocarbon receptor nuclear translocator-like protei...  62.0    1e-08
+E7FFX1 Neuronal PAS domain-containing protein 4B OS=Danio rerio O...  61.2    2e-08
+P0DOC7 Neuronal PAS domain-containing protein 4-like OS=Danio rer...  60.5    3e-08
+O44712 Aryl hydrocarbon receptor protein 1 OS=Caenorhabditis eleg...  60.5    4e-08
+Q8WYA1 Aryl hydrocarbon receptor nuclear translocator-like protei...  58.5    1e-07
+Q8QGQ7 Aryl hydrocarbon receptor nuclear translocator-like protei...  58.2    2e-07
+Q17062 Period circadian protein OS=Antheraea pernyi OX=7119 GN=pe...  57.8    3e-07
+B5DE09 Nuclear receptor coactivator 2 OS=Xenopus tropicalis OX=83...  57.0    5e-07
+A9YTQ3 Aryl hydrocarbon receptor repressor OS=Homo sapiens OX=960...  55.5    1e-06
+Q3U1U7 Aryl hydrocarbon receptor repressor OS=Mus musculus OX=100...  55.5    1e-06
+Q75NT5 Aryl hydrocarbon receptor repressor OS=Rattus norvegicus O...  55.1    2e-06
+Q9Y6Q9 Nuclear receptor coactivator 3 OS=Homo sapiens OX=9606 GN=...  53.1    8e-06
+O61734 Protein cycle OS=Drosophila melanogaster OX=7227 GN=cyc PE...  51.6    2e-05
+Q1ECW2 Neuronal PAS domain-containing protein 4A OS=Danio rerio O...  51.2    3e-05
+Q9W705 Nuclear receptor coactivator 2 OS=Xenopus laevis OX=8355 G...  50.8    4e-05
+Q4PJW2 Nuclear receptor coactivator 1 OS=Sus scrofa OX=9823 GN=NC...  50.4    7e-05
+Q15788 Nuclear receptor coactivator 1 OS=Homo sapiens OX=9606 GN=...  50.1    7e-05
+P70365 Nuclear receptor coactivator 1 OS=Mus musculus OX=10090 GN...  50.1    7e-05
+Q61026 Nuclear receptor coactivator 2 OS=Mus musculus OX=10090 GN...  50.1    8e-05
+O57539 Nuclear receptor coactivator 3 OS=Xenopus laevis OX=8355 G...  49.3    1e-04
+Q9WUI9 Nuclear receptor coactivator 2 OS=Rattus norvegicus OX=101...  48.5    2e-04
+Q15596 Nuclear receptor coactivator 2 OS=Homo sapiens OX=9606 GN=...  48.5    2e-04
+Q98TW1 Nuclear receptor coactivator 2 OS=Danio rerio OX=7955 GN=n...  47.8    4e-04
+O09000 Nuclear receptor coactivator 3 OS=Mus musculus OX=10090 GN...  47.8    5e-04
+Q25020 Period circadian protein (Fragment) OS=Hyalophora cecropia...  43.9    0.004
+Q25478 Period circadian protein (Fragment) OS=Manduca sexta OX=71...  42.4    0.013
+Q01371 White collar 1 protein OS=Neurospora crassa (strain ATCC 2...  40.0    0.086
+
+
+>G5EGD2 Hypoxia-inducible factor 1 OS=Caenorhabditis elegans OX=6239 
+GN=hif-1 PE=1 SV=1
+Length=719
+
+ Score = 1498 bits (3878),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 719/719 (100%), Positives = 719/719 (100%), Gaps = 0/719 (0%)
+
+Query  1    MEDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAAT  60
+            MEDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAAT
+Sbjct  1    MEDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAAT  60
+
+Query  61   ICRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            ICRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL
+Sbjct  61   ICRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLN  180
+            TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLN
+Sbjct  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLN  180
+
+Query  181  LKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRH  240
+            LKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRH
+Sbjct  181  LKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRH  240
+
+Query  241  TCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYR  300
+            TCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYR
+Sbjct  241  TCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYR  300
+
+Query  301  LIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPAGMQVD  360
+            LIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPAGMQVD
+Sbjct  301  LIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPAGMQVD  360
+
+Query  361  IKKEVDDTRDYIGRQPEIVECVDFTPLIEPEDPFDTVIEPVVGGEEPVKQADMGARKNSY  420
+            IKKEVDDTRDYIGRQPEIVECVDFTPLIEPEDPFDTVIEPVVGGEEPVKQADMGARKNSY
+Sbjct  361  IKKEVDDTRDYIGRQPEIVECVDFTPLIEPEDPFDTVIEPVVGGEEPVKQADMGARKNSY  420
+
+Query  421  DDVLQWLFRDQPSSPPPARYRSADRFRTTEPSNFGSALASPDFMDSSSRTSRPKTSYGRR  480
+            DDVLQWLFRDQPSSPPPARYRSADRFRTTEPSNFGSALASPDFMDSSSRTSRPKTSYGRR
+Sbjct  421  DDVLQWLFRDQPSSPPPARYRSADRFRTTEPSNFGSALASPDFMDSSSRTSRPKTSYGRR  480
+
+Query  481  AQSQGSRTTGSSSTSASATLPHSANYSPLAEGISQCGLNSPPSIKSGQVVYGDARSMGRS  540
+            AQSQGSRTTGSSSTSASATLPHSANYSPLAEGISQCGLNSPPSIKSGQVVYGDARSMGRS
+Sbjct  481  AQSQGSRTTGSSSTSASATLPHSANYSPLAEGISQCGLNSPPSIKSGQVVYGDARSMGRS  540
+
+Query  541  CDPSDSSRRFSALSPSDTLNVSSTRGINPVIGSNDVFSTMPFADSIAIAERIDSSPTLTS  600
+            CDPSDSSRRFSALSPSDTLNVSSTRGINPVIGSNDVFSTMPFADSIAIAERIDSSPTLTS
+Sbjct  541  CDPSDSSRRFSALSPSDTLNVSSTRGINPVIGSNDVFSTMPFADSIAIAERIDSSPTLTS  600
+
+Query  601  GEPILCDDLQWEEPDLSCLAPFVDTYDMMQMDEGLPPELQALYDLPDFTPAVPQAPAARP  660
+            GEPILCDDLQWEEPDLSCLAPFVDTYDMMQMDEGLPPELQALYDLPDFTPAVPQAPAARP
+Sbjct  601  GEPILCDDLQWEEPDLSCLAPFVDTYDMMQMDEGLPPELQALYDLPDFTPAVPQAPAARP  660
+
+Query  661  VHIDRSPPAKRMHQSGPSDLDFMYTQHYQPFQQDETYWQGQQQQNEQQPSSYSPFPMLS  719
+            VHIDRSPPAKRMHQSGPSDLDFMYTQHYQPFQQDETYWQGQQQQNEQQPSSYSPFPMLS
+Sbjct  661  VHIDRSPPAKRMHQSGPSDLDFMYTQHYQPFQQDETYWQGQQQQNEQQPSSYSPFPMLS  719
+
+
+>Q0PGG7 Hypoxia-inducible factor 1-alpha OS=Bos mutus grunniens OX=30521 
+GN=HIF1A PE=2 SV=1
+Length=823
+
+ Score = 181 bits (458),  Expect = 2e-46, Method: Compositional matrix adjust.
+ Identities = 114/363 (31%), Positives = 192/363 (53%), Gaps = 57/363 (16%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D +K + ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  +  
+Sbjct  9    DKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTISYL  67
+
+Query  63   RLRKT--AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            R+RK   AG+     LD E   +        + LDGFVM++  D  ++Y++++V  Y+GL
+Sbjct  68   RVRKLLDAGD-----LDIEDEMKAQMNCFYLKALDGFVMVLTDDGDMIYISDNVNKYMGL  122
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHK----PRGEDTDTTGINMVLRMKTVISPRG  176
+            TQ +LTG ++ DF HP D++E   +  + H+     +G++ +T   +  LRMK  ++ RG
+Sbjct  123  TQFELTGHSVFDFTHPCDHEEM--REMLTHRNGLVKKGKEQNTQR-SFFLRMKCTLTSRG  179
+
+Query  177  RCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM---  233
+            R +N+KSA +K    ++H      GH+              TN+N S    Y + PM   
+Sbjct  180  RTMNIKSATWK----VLHCT----GHIHVYD----------TNSNQS-QCGYKKPPMTCL  220
+
+Query  234  -------------------GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVH  274
+                                 F +RH+ DM+ ++  ++   ++  E + L+G S YE  H
+Sbjct  221  VLICEPIPHPSNIEIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYH  280
+
+Query  275  PADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVH  334
+              D   ++K+  ++F KG + T  YR++A      WI+T+AT I + TK  + Q ++CV+
+Sbjct  281  ALDSDHLTKTHHDMFTKGQVTTGQYRMLAKKGGYVWIETQATVI-YNTKNSQPQCIVCVN  339
+
+Query  335  YVL  337
+            YV+
+Sbjct  340  YVV  342
+
+
+>Q9XTA5 Hypoxia-inducible factor 1-alpha OS=Bos taurus OX=9913 GN=HIF1A 
+PE=2 SV=1
+Length=823
+
+ Score = 180 bits (457),  Expect = 2e-46, Method: Compositional matrix adjust.
+ Identities = 114/363 (31%), Positives = 192/363 (53%), Gaps = 57/363 (16%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D +K + ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  +  
+Sbjct  9    DKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTISYL  67
+
+Query  63   RLRKT--AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            R+RK   AG+     LD E   +        + LDGFVM++  D  ++Y++++V  Y+GL
+Sbjct  68   RVRKLLDAGD-----LDIEDEMKAQMNCFYLKALDGFVMVLTDDGDMIYISDNVNKYMGL  122
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHK----PRGEDTDTTGINMVLRMKTVISPRG  176
+            TQ +LTG ++ DF HP D++E   +  + H+     +G++ +T   +  LRMK  ++ RG
+Sbjct  123  TQFELTGHSVFDFTHPCDHEEM--REMLTHRNGLVKKGKEQNTQR-SFFLRMKCTLTSRG  179
+
+Query  177  RCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM---  233
+            R +N+KSA +K    ++H      GH+              TN+N S    Y + PM   
+Sbjct  180  RTMNIKSATWK----VLHCT----GHIHVYD----------TNSNQS-QCGYKKPPMTCL  220
+
+Query  234  -------------------GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVH  274
+                                 F +RH+ DM+ ++  ++   ++  E + L+G S YE  H
+Sbjct  221  VLICEPIPHPSNIEIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYH  280
+
+Query  275  PADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVH  334
+              D   ++K+  ++F KG + T  YR++A      WI+T+AT I + TK  + Q ++CV+
+Sbjct  281  ALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRGGYVWIETQATVI-YNTKNSQPQCIVCVN  339
+
+Query  335  YVL  337
+            YV+
+Sbjct  340  YVV  342
+
+
+>Q61221 Hypoxia-inducible factor 1-alpha OS=Mus musculus OX=10090 GN=Hif1a 
+PE=1 SV=3
+Length=836
+
+ Score = 179 bits (455),  Expect = 4e-46, Method: Compositional matrix adjust.
+ Identities = 113/363 (31%), Positives = 192/363 (53%), Gaps = 55/363 (15%)
+
+Query  3    DNRKRNM--ERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAAT  60
+            +N K+ M  ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  +
+Sbjct  7    ENEKKKMSSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTIS  65
+
+Query  61   ICRLRKT--AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYL  118
+              R+RK   AG      LD+E   +   +    + LDGFVM++  D  ++Y++++V  Y+
+Sbjct  66   YLRVRKLLDAGG-----LDSEDEMKAQMDCFYLKALDGFVMVLTDDGDMVYISDNVNKYM  120
+
+Query  119  GLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--RGEDTDTTGINMVLRMKTVISPRG  176
+            GLTQ +LTG ++ DF HP D++E  +     + P  +G++ +T   +  LRMK  ++ RG
+Sbjct  121  GLTQFELTGHSVFDFTHPCDHEEMREMLTHRNGPVRKGKELNTQR-SFFLRMKCTLTSRG  179
+
+Query  177  RCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM---  233
+            R +N+KSA +K    ++H      GH+              TN+N      Y + PM   
+Sbjct  180  RTMNIKSATWK----VLHCT----GHIHVYD----------TNSN-QPQCGYKKPPMTCL  220
+
+Query  234  -------------------GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVH  274
+                                 F +RH+ DM+ ++  ++   ++  E + L+G S YE  H
+Sbjct  221  VLICEPIPHPSNIEIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYH  280
+
+Query  275  PADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVH  334
+              D   ++K+  ++F KG + T  YR++A      W++T+AT I + TK  + Q ++CV+
+Sbjct  281  ALDSDHLTKTHHDMFTKGQVTTGQYRMLAKRGGYVWVETQATVI-YNTKNSQPQCIVCVN  339
+
+Query  335  YVL  337
+            YV+
+Sbjct  340  YVV  342
+
+
+>Q9YIB9 Hypoxia-inducible factor 1-alpha OS=Gallus gallus OX=9031 GN=HIF1A 
+PE=2 SV=2
+Length=811
+
+ Score = 179 bits (453),  Expect = 7e-46, Method: Compositional matrix adjust.
+ Identities = 111/346 (32%), Positives = 191/346 (55%), Gaps = 23/346 (7%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D ++ + ERR+E SR AAR RRSKES++F +L   +P+       HLD+ +++R+  +  
+Sbjct  9    DKKRISSERRKEKSRDAARCRRSKESEVFYELAHQLPL-PHTVSAHLDKASIMRLTISYL  67
+
+Query  63   RLRKT--AGNV-LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLG  119
+            R+RK   AG +  E N++ E+ N  +      + LDGFVM++  D  ++Y++E+V   +G
+Sbjct  68   RMRKLLDAGELETEANMEKEL-NCFY-----LKALDGFVMVLSEDGDMIYMSENVNKCMG  121
+
+Query  120  LTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--RGEDTDTTGINMVLRMKTVISPRGR  177
+            LTQ DLTG ++ DF HP D++E  +     + P  +G++ +T   +  LRMK  ++ RGR
+Sbjct  122  LTQFDLTGHSVFDFTHPCDHEELREMLTHRNGPVKKGKEQNTER-SFFLRMKCTLTSRGR  180
+
+Query  178  CLNLKSALYKSVSFLVHSKV----STGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM  233
+             +N+KSA +K +    H +V    +   H  + +    P                 E P+
+Sbjct  181  TVNIKSATWKVLHCTGHIRVYDTCNNQTHCGYKKP---PMTCLVLICEPIPHPSNIEVPL  237
+
+Query  234  GA--FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAK  291
+             +  F +RH+ DM+ ++  ++   ++  E + L+G S YE  H  D   ++K+  ++F K
+Sbjct  238  DSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTK  297
+
+Query  292  GHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            G + T  YR++A      W++T+AT I + TK  + Q ++CV+YVL
+Sbjct  298  GQVTTGQYRMLAKQGGYVWVETQATVI-YNTKNSQPQCIVCVNYVL  342
+
+
+>Q16665 Hypoxia-inducible factor 1-alpha OS=Homo sapiens OX=9606 GN=HIF1A 
+PE=1 SV=1
+Length=826
+
+ Score = 177 bits (449),  Expect = 3e-45, Method: Compositional matrix adjust.
+ Identities = 109/344 (32%), Positives = 186/344 (54%), Gaps = 19/344 (6%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D +K + ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  +  
+Sbjct  9    DKKKISSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTISYL  67
+
+Query  63   RLRKT--AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            R+RK   AG+     LD E   +        + LDGFVM++  D  ++Y++++V  Y+GL
+Sbjct  68   RVRKLLDAGD-----LDIEDDMKAQMNCFYLKALDGFVMVLTDDGDMIYISDNVNKYMGL  122
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHK----PRGEDTDTTGINMVLRMKTVISPRG  176
+            TQ +LTG ++ DF HP D++E   +  + H+     +G++ +T   +  LRMK  ++ RG
+Sbjct  123  TQFELTGHSVFDFTHPCDHEEM--REMLTHRNGLVKKGKEQNTQR-SFFLRMKCTLTSRG  179
+
+Query  177  RCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQG-TTNANASAMTKYTESPMGA  235
+            R +N+KSA +K +    H  V          G   P                  E P+ +
+Sbjct  180  RTMNIKSATWKVLHCTGHIHVYDTNSNQPQCGYKKPPMTCLVLICEPIPHPSNIEIPLDS  239
+
+Query  236  --FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGH  293
+              F +RH+ DM+ ++  ++   ++  E + L+G S YE  H  D   ++K+  ++F KG 
+Sbjct  240  KTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHDMFTKGQ  299
+
+Query  294  IRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            + T  YR++A      W++T+AT I + TK  + Q ++CV+YV+
+Sbjct  300  VTTGQYRMLAKRGGYVWVETQATVI-YNTKNSQPQCIVCVNYVV  342
+
+
+>Q309Z6 Hypoxia-inducible factor 1-alpha OS=Eospalax fontanierii baileyi 
+OX=146132 GN=HIF1A PE=2 SV=1
+Length=819
+
+ Score = 176 bits (447),  Expect = 5e-45, Method: Compositional matrix adjust.
+ Identities = 109/360 (30%), Positives = 187/360 (52%), Gaps = 49/360 (14%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            E   + + ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  + 
+Sbjct  9    EKKNRMSSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTISY  67
+
+Query  62   CRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLT  121
+             R+RK        +LD E   +        + LDGFVM++  D  ++Y++++V  Y+GLT
+Sbjct  68   LRVRKLLD---AGDLDIEDDMKAQMNCFYLKALDGFVMVLTDDGDMIYISDNVNKYMGLT  124
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--RGEDTDTTGINMVLRMKTVISPRGRCL  179
+            Q +LTG ++ DF HP D++E  +     + P  +G++ +T   +  LRMK  ++ RGR +
+Sbjct  125  QFELTGHSVFDFTHPCDHEEMREMLTHRNGPIKKGKEQNTQR-SFFLRMKCTLTSRGRTM  183
+
+Query  180  NLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM------  233
+            N+KSA +K    ++H      GH+              TN+N      Y + PM      
+Sbjct  184  NIKSATWK----VLHCT----GHIHVYD----------TNSN-QPQCGYKKPPMTCLVLI  224
+
+Query  234  ----------------GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPAD  277
+                              F +RH+ DM+ ++  ++   ++  E + L+G S YE  H  D
+Sbjct  225  CEPIPHPSNIEIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYHALD  284
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+               ++K+  ++F KG + T  YR++A      W++T+AT I + TK  + Q ++CV+YV+
+Sbjct  285  SDHLTKTHHDMFTKGQVTTGQYRMLAKRGGYVWVETQATVI-YNTKNSQPQCIVCVNYVV  343
+
+
+>O35800 Hypoxia-inducible factor 1-alpha OS=Rattus norvegicus OX=10116 
+GN=Hif1a PE=2 SV=1
+Length=825
+
+ Score = 175 bits (443),  Expect = 2e-44, Method: Compositional matrix adjust.
+ Identities = 107/350 (31%), Positives = 188/350 (54%), Gaps = 29/350 (8%)
+
+Query  3    DNRKRNM--ERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAAT  60
+            +N K+ M  ERR+E SR AAR RRSKES++F +L   +P+      +HLD+ +++R+  +
+Sbjct  7    ENEKKKMSSERRKEKSRDAARSRRSKESEVFYELAHQLPL-PHNVSSHLDKASVMRLTIS  65
+
+Query  61   ICRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+              R+RK        +LD E   +        +  DGFVM++  D  ++Y++++V  Y+GL
+Sbjct  66   YLRVRKLLD---AGDLDIEDEMKAQMNCFYLKAPDGFVMVLTDDGDMIYISDNVNKYMGL  122
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--RGEDTDTTGINMVLRMKTVISPRGRC  178
+            TQ +LTG ++ DF HP D++E  +     + P  +G++ +T   +  LRMK  ++ RGR 
+Sbjct  123  TQFELTGHSVFDFTHPCDHEEMREMLTHRNGPVRKGKEQNTQR-SFFLRMKCTLTSRGRT  181
+
+Query  179  LNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMT---------KYT  229
+            +N+KSA +K    ++H      GH+      +     G      + +             
+Sbjct  182  MNIKSATWK----VLHCT----GHIHVYDTSSNQPQCGYKKPPMTCLVLICEPIPHPSNI  233
+
+Query  230  ESPMGA--FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKE  287
+            E P+ +  F +RH+ DM+ ++  ++   ++  E + L+G S YE  H  D   ++K+  +
+Sbjct  234  EIPLDSKTFLSRHSLDMKFSYCDERITELMGYEPEELLGRSIYEYYHALDSDHLTKTHHD  293
+
+Query  288  LFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            +F KG + T  YR++A      W++T+AT I + TK  + Q ++CV+YV+
+Sbjct  294  MFTKGQVTTGQYRMLAKRGGYVWVETQATVI-YNTKDSQPQCIVCVNYVV  342
+
+
+>Q9JHS2 Hypoxia-inducible factor 3-alpha OS=Rattus norvegicus OX=10116 
+GN=Hif3a PE=1 SV=1
+Length=662
+
+ Score = 173 bits (438),  Expect = 2e-44, Method: Compositional matrix adjust.
+ Identities = 110/366 (30%), Positives = 190/366 (52%), Gaps = 37/366 (10%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D  + + E R+E SR AAR RRS+E+++   L   +P    G   HLD+ +++R+  +  
+Sbjct  4    DQDRSSTELRKEKSRDAARSRRSQETEVLYQLAHTLPFAR-GVSAHLDKASIMRLTISYL  62
+
+Query  63   RLRK--TAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            R+ +   AG   +   + E  +  + +      L+GFVM++ ++  + Y++E+V+ +LGL
+Sbjct  63   RMHRLCAAGEWNQVRKEGEPLDACYLK-----ALEGFVMVLTAEGDMAYLSENVSKHLGL  117
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP---RGEDTDTTGINMVLRMKTVISPRGR  177
+            +Q +L G ++ DF+HP D +E   Q  +  +P   + +    TG +  LRMK+ ++ RGR
+Sbjct  118  SQLELIGHSIFDFIHPCDQEEL--QDALTPRPSLSKKKSEAATGRHFSLRMKSTLTSRGR  175
+
+Query  178  CLNLKSALYKSVSFLVHSKVSTGGHVSFMQ--GITIPAGQGTTNANASAMTKYTES----  231
+             LNLK+A +K    ++H      GH+   +    T PAG   +      +    E+    
+Sbjct  176  ALNLKAATWK----VLH----CSGHMRAYKPPAQTSPAGSPRSEPPLQCLVLICEAIPHP  227
+
+Query  232  -----PMG--AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 P+G  AF +RH+ DM+ T+  ++   +       L+G S YE +H  D   VS+S
+Sbjct  228  ASLEPPLGRGAFLSRHSLDMKFTYCDERIAEVAGYSPDDLIGCSAYEYIHALDSDAVSRS  287
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEE  344
+            +  L +KG   T  YR +A      W QT+AT ++   +G + + +ICVH++  I   EE
+Sbjct  288  IHTLLSKGQAVTGQYRFLARTGGYLWTQTQATVVS-GGRGPQSESIICVHFL--ISRVEE  344
+
+Query  345  SLVVCT  350
+            + VV +
+Sbjct  345  NGVVLS  350
+
+
+>Q0VBL6 Hypoxia-inducible factor 3-alpha OS=Mus musculus OX=10090 GN=Hif3a 
+PE=1 SV=2
+Length=662
+
+ Score = 169 bits (427),  Expect = 6e-43, Method: Compositional matrix adjust.
+ Identities = 110/366 (30%), Positives = 188/366 (51%), Gaps = 37/366 (10%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            D  + N E R+E SR AAR RRS+E+++   L   +P    G   HLD+ +++R+  +  
+Sbjct  4    DQDRSNTELRKEKSRDAARSRRSQETEVLYQLAHTLPFAR-GVSAHLDKASIMRLTISYL  62
+
+Query  63   RLRK--TAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGL  120
+            R+ +   AG   +     E  +  + +      L+GFVM++ ++  + Y++E+V+ +LGL
+Sbjct  63   RMHRLCAAGEWNQVEKGGEPLDACYLK-----ALEGFVMVLTAEGDMAYLSENVSKHLGL  117
+
+Query  121  TQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP---RGEDTDTTGINMVLRMKTVISPRGR  177
+            +Q +L G ++ DF+HP D +E   Q  +  +P   + +    T  +  LRMK+ ++ RGR
+Sbjct  118  SQLELIGHSIFDFIHPCDQEEL--QDALTPRPNLSKKKLEAPTERHFSLRMKSTLTSRGR  175
+
+Query  178  CLNLKSALYKSVSFLVHSKVSTGGHVSFMQ--GITIPAGQGTTNANASAMTKYTES----  231
+             LNLK+A +K    ++H      GH+   +    T PAG   +      +    E+    
+Sbjct  176  TLNLKAATWK----VLH----CSGHMRAYKPPAQTSPAGSPRSEPPLQCLVLICEAIPHP  227
+
+Query  232  -----PMG--AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 P+G  AF +RH+ DM+ T+  ++   +       L+G S YE +H  D   VS+S
+Sbjct  228  ASLEPPLGRGAFLSRHSLDMKFTYCDERIAEVAGYSPDDLIGCSAYEYIHALDSDAVSRS  287
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEE  344
+            +  L +KG   T  YR +A      W QT+AT ++   +G + + +ICVH++  I   EE
+Sbjct  288  IHTLLSKGQAVTGQYRFLARTGGYLWTQTQATVVS-GGRGPQSESIICVHFL--ISRVEE  344
+
+Query  345  SLVVCT  350
+            + VV +
+Sbjct  345  TGVVLS  350
+
+
+>Q9Y2N7 Hypoxia-inducible factor 3-alpha OS=Homo sapiens OX=9606 GN=HIF3A 
+PE=1 SV=2
+Length=669
+
+ Score = 167 bits (424),  Expect = 1e-42, Method: Compositional matrix adjust.
+ Identities = 108/361 (30%), Positives = 183/361 (51%), Gaps = 33/361 (9%)
+
+Query  6    KRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLR  65
+            +   E R+E SR AAR RRS+E+++   L   +P    G   HLD+ +++R+  +  R+ 
+Sbjct  9    RSTTELRKEKSRDAARSRRSQETEVLYQLAHTLPFAR-GVSAHLDKASIMRLTISYLRMH  67
+
+Query  66   K--TAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQT  123
+            +   AG   +     E  +  + +      L+GFVM++ ++  + Y++E+V+ +LGL+Q 
+Sbjct  68   RLCAAGEWNQVGAGGEPLDACYLK-----ALEGFVMVLTAEGDMAYLSENVSKHLGLSQL  122
+
+Query  124  DLTGRALRDFLHPSDYDEF-DKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLK  182
+            +L G ++ DF+HP D +E  D  +      R +    T     LRMK+ ++ RGR LNLK
+Sbjct  123  ELIGHSIFDFIHPCDQEELQDALTPQQTLSRRKVEAPTERCFSLRMKSTLTSRGRTLNLK  182
+
+Query  183  SALYKSVSFLVHSKVSTGGHVSFMQ--GITIPAGQGTTNANASAMTKYTES---------  231
+            +A +K ++          GH+   +    T PAG   +      +    E+         
+Sbjct  183  AATWKVLN--------CSGHMRAYKPPAQTSPAGSPDSEPPLQCLVLICEAIPHPGSLEP  234
+
+Query  232  PMG--AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELF  289
+            P+G  AF +RH+ DM+ T+  D+   +       L+G S YE +H  D   VSKS+  L 
+Sbjct  235  PLGRGAFLSRHSLDMKFTYCDDRIAEVAGYSPDDLIGCSAYEYIHALDSDAVSKSIHTLL  294
+
+Query  290  AKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVC  349
+            +KG   T  YR +A +    W QT+AT ++   +G + + ++CVH++  I   EE+ VV 
+Sbjct  295  SKGQAVTGQYRFLARSGGYLWTQTQATVVS-GGRGPQSESIVCVHFL--ISQVEETGVVL  351
+
+Query  350  T  350
+            +
+Sbjct  352  S  352
+
+
+>Q99814 Endothelial PAS domain-containing protein 1 OS=Homo sapiens OX=9606 
+GN=EPAS1 PE=1 SV=3
+Length=870
+
+ Score = 168 bits (426),  Expect = 3e-42, Method: Compositional matrix adjust.
+ Identities = 101/358 (28%), Positives = 189/358 (53%), Gaps = 40/358 (11%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ++ ++ + ERR+E SR AAR RRSKE+++F +L   +P+      +HLD+ +++R+A + 
+Sbjct  5    KEKKRSSSERRKEKSRDAARCRRSKETEVFYELAHELPL-PHSVSSHLDKASIMRLAISF  63
+
+Query  62   CRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLT  121
+             R  K   +V   N ++E   +   ++   + L+GF+ +V  D  +++++E+++ ++GLT
+Sbjct  64   LRTHKLLSSVCSEN-ESEAEADQQMDNLYLKALEGFIAVVTQDGDMIFLSENISKFMGLT  122
+
+Query  122  QTDLTGRALRDFLHPSDYDE------------FDKQSKMLHKPRGEDTDTTGINMVLRMK  169
+            Q +LTG ++ DF HP D++E            F K+SK +   R         +  +RMK
+Sbjct  123  QVELTGHSIFDFTHPCDHEEIRENLSLKNGSGFGKKSKDMSTER---------DFFMRMK  173
+
+Query  170  TVISPRGRCLNLKSALYKSVSFLVHSKV--------STGGHVSFMQGITIPAGQGTTNAN  221
+              ++ RGR +NLKSA +K +      KV        S  G+   +    I   +   + +
+Sbjct  174  CTVTNRGRTVNLKSATWKVLHCTGQVKVYNNCPPHNSLCGYKEPLLSCLIIMCEPIQHPS  233
+
+Query  222  ASAMTKYTESPMGA--FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMM  279
+                  + + P+ +  F +RH+ DM+ T+  D+   ++    + L+G S YE  H  D  
+Sbjct  234  ------HMDIPLDSKTFLSRHSMDMKFTYCDDRITELIGYHPEELLGRSAYEFYHALDSE  287
+
+Query  280  IVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+             ++KS + L  KG + +  YR++A +    W++T+ T I +  +  + Q ++CV+YVL
+Sbjct  288  NMTKSHQNLCTKGQVVSGQYRMLAKHGGYVWLETQGTVI-YNPRNLQPQCIMCVNYVL  344
+
+
+>Q98SW2 Hypoxia-inducible factor 1-alpha OS=Oncorhynchus mykiss OX=8022 
+GN=hif1a PE=2 SV=1
+Length=766
+
+ Score = 164 bits (416),  Expect = 3e-41, Method: Compositional matrix adjust.
+ Identities = 113/362 (31%), Positives = 189/362 (52%), Gaps = 39/362 (11%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            E   + + +RR+E SR AAR RR KES++F +L   +P+    T ++LD+ +++R+A + 
+Sbjct  8    EKKSRVSSDRRKEKSRDAARCRRGKESEVFYELAQELPLPHSVT-SNLDKASIMRLAISY  66
+
+Query  62   CRLRKTAGNVLENNLDNEITNEVWTEDT-----IAECLDGFVMIVDSDSSILYVTESVAM  116
+              +R    N+L    DNE   E    D+       + ++GF+M++  D  ++Y++E+V  
+Sbjct  67   LHMR----NLLST--DNEEEQEEREMDSQLNGSYLKAIEGFLMVLSEDGDMIYLSENVNK  120
+
+Query  117  YLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHK---PRGEDTDTTGINMVLRMKTVIS  173
+             LGL Q DLTG ++ ++ HP D++E   +  ++H+    +      T  +  LRMK  ++
+Sbjct  121  CLGLAQIDLTGLSVFEYTHPCDHEEL--REMLVHRTGTSKKSKEPNTERSFFLRMKCTLT  178
+
+Query  174  PRGRCLNLKSALYKSVSFLVHSKVST-------GGH----VSFMQGITIPAGQGTTNANA  222
+             RGR +N+KSA +K +    H +V         GGH    V ++  +  P     +N  A
+Sbjct  179  NRGRTVNVKSATWKVLHCSDHVRVHESPAEQIPGGHKEPSVPYLVLVCDPIPH-PSNIEA  237
+
+Query  223  SAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVS  282
+               TK        F +RHT DM+ T+  ++   ++  + + L+  S YE  H  D   + 
+Sbjct  238  PLDTK-------TFLSRHTLDMKFTYCDERITELMGYDPEDLLNRSVYEYYHALDSDHLM  290
+
+Query  283  KSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGA  342
+            K+   LFAKG + T  YR++A      W++T+AT I +  K  + Q V+CV+YVL   G 
+Sbjct  291  KTHHNLFAKGQVSTGQYRMLAKRGGFVWVETQATVI-YNNKNSQPQCVVCVNYVLS--GI  347
+
+Query  343  EE  344
+            EE
+Sbjct  348  EE  349
+
+
+>P97481 Endothelial PAS domain-containing protein 1 OS=Mus musculus OX=10090 
+GN=Epas1 PE=1 SV=2
+Length=874
+
+ Score = 164 bits (416),  Expect = 5e-41, Method: Compositional matrix adjust.
+ Identities = 95/344 (28%), Positives = 182/344 (53%), Gaps = 12/344 (3%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ++ ++ + E R+E SR AAR RRSKE+++F +L   +P+      +HLD+ +++R+A + 
+Sbjct  5    KEKKRSSSELRKEKSRDAARCRRSKETEVFYELAHELPL-PHSVSSHLDKASIMRLAISF  63
+
+Query  62   CRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLT  121
+             R  K   +V   N ++E   +   ++   + L+GF+ +V  D  +++++E+++ ++GLT
+Sbjct  64   LRTHKLLSSVCSEN-ESEAEADQQMDNLYLKALEGFIAVVTQDGDMIFLSENISKFMGLT  122
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGI----NMVLRMKTVISPRGR  177
+            Q +LTG ++ DF HP D++E  +++  L    G    +  +    +  +RMK  ++ RGR
+Sbjct  123  QVELTGHSIFDFTHPCDHEEI-RENLTLKNGSGFGKKSKDVSTERDFFMRMKCTVTNRGR  181
+
+Query  178  CLNLKSALYKSVSFLVHSKVSTGG--HVSFMQGITIPAGQGTTNANASAMTKYTESPMGA  235
+             +NLKSA +K +      +V      H S                       + + P+ +
+Sbjct  182  TVNLKSATWKVLHCTGQVRVYNNCPPHSSLCGSKEPLLSCLIIMCEPIQHPSHMDIPLDS  241
+
+Query  236  --FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGH  293
+              F +RH+ DM+ T+  D+   ++    + L+G S YE  H  D   ++KS + L  KG 
+Sbjct  242  KTFLSRHSMDMKFTYCDDRILELIGYHPEELLGRSAYEFYHALDSENMTKSHQNLCTKGQ  301
+
+Query  294  IRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            + +  YR++A +    W++T+ T I +  +  + Q ++CV+YVL
+Sbjct  302  VVSGQYRMLAKHGGYVWLETQGTVI-YNPRNLQPQCIMCVNYVL  344
+
+
+>Q9JHS1 Endothelial PAS domain-containing protein 1 OS=Rattus norvegicus 
+OX=10116 GN=Epas1 PE=2 SV=1
+Length=874
+
+ Score = 163 bits (412),  Expect = 1e-40, Method: Compositional matrix adjust.
+ Identities = 97/350 (28%), Positives = 191/350 (55%), Gaps = 24/350 (7%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ++ ++ + E R+E SR AAR RRSKE+++F +L   +P+      +HLD+ +++R+A + 
+Sbjct  5    KEKKRSSSELRKEKSRDAARCRRSKETEVFYELAHELPL-PHSVSSHLDKASIMRLAISF  63
+
+Query  62   CRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLT  121
+             R  K   +V   N ++E   +   ++   + L+GF+ +V  D  +++++E+++ ++GLT
+Sbjct  64   LRTHKLLSSVCSEN-ESEAEADQQMDNLYLKALEGFIAVVTQDGDMIFLSENISKFMGLT  122
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRG---EDTD-TTGINMVLRMKTVISPRGR  177
+            Q +LTG ++ DF HP D++E  +++  L    G   ++ D +T  +  +RMK  ++ RGR
+Sbjct  123  QVELTGHSIFDFTHPCDHEEI-RENLTLKTGSGFGKKNKDRSTERDFFMRMKCTVTNRGR  181
+
+Query  178  CLNLKSALYKSVSFLVHSKV--------STGGHVSFMQGITIPAGQGTTNANASAMTKYT  229
+             +NLKSA +K +      +V        S  G+   +    I   +   + +      + 
+Sbjct  182  TVNLKSATWKVLHCTGQVRVYNNCPPHSSLCGYKEPLLSCLIIMCEPIQHPS------HM  235
+
+Query  230  ESPMGA--FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKE  287
+            + P+ +  F +RH+ DM+ T+  D+   ++    + L+G S YE  H  D   ++KS + 
+Sbjct  236  DIPLDSKTFLSRHSMDMKFTYCDDRILELVGYHPEELLGRSAYEFYHALDSENMTKSHQN  295
+
+Query  288  LFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            L  KG + +  YR++A +    W++T+  T+ +  +  + Q ++CV+YVL
+Sbjct  296  LCTKGQVVSGQYRMLAKHGGYVWLETQG-TVVYNPRNLQPQCIMCVNYVL  344
+
+
+>Q24167 Protein similar OS=Drosophila melanogaster OX=7227 GN=sima PE=1 
+SV=2
+Length=1507
+
+ Score = 163 bits (412),  Expect = 3e-40, Method: Compositional matrix adjust.
+ Identities = 106/370 (29%), Positives = 180/370 (49%), Gaps = 53/370 (14%)
+
+Query  5    RKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRL  64
+            ++RN E+R+E SR AAR RRSKE++IF +L   +P+  +  V  LD+ +++R+     ++
+Sbjct  66   KRRNNEKRKEKSRDAARCRRSKETEIFMELSAALPLKTDD-VNQLDKASVMRITIAFLKI  124
+
+Query  65   RK--------------------TAGNVLENNLDNEITNEVW-----TEDTIAECLDGFVM  99
+            R+                    TA +  E     E+  E W       + + + +DGF++
+Sbjct  125  REMLQFVPSLRDCNDDIKQDIETAEDQQEVKPKLEVGTEDWLNGAEARELLKQTMDGFLL  184
+
+Query  100  IVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK----QSKMLHKPRGE  155
+            ++  +  I YV+E+V  YLG+T+ D  G+ + ++ H  D+ E  +    + ++  K + E
+Sbjct  185  VLSHEGDITYVSENVVEYLGITKIDTLGQQIWEYSHQCDHAEIKEALSLKRELAQKVKDE  244
+
+Query  156  DTDTTGI-----NMVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQ-GI  209
+                +G+     ++ +R+K  ++ RGR +N+KSA YK +    H  V+  G    M  G 
+Sbjct  245  PQQNSGVSTHHRDLFVRLKCTLTSRGRSINIKSASYKVIHITGHLVVNAKGERLLMAIGR  304
+
+Query  210  TIPAGQGTTNANASAMTKYTESPMGA--FTTRHTCDMRITFVSDKFNYILKSELKTLMGT  267
+             IP                 E P+G   F T+H+ DMR T+V DK + +L    K L+ T
+Sbjct  305  PIPHPSNI------------EIPLGTSTFLTKHSLDMRFTYVDDKMHDLLGYSPKDLLDT  352
+
+Query  268  SFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKG  327
+            S +   H AD   +  + K + +KG   T  YR +       WI ++AT +    K Q  
+Sbjct  353  SLFSCQHGADSERLMATFKSVLSKGQGETSRYRFLGKYGGYCWILSQATIVYDKLKPQS-  411
+
+Query  328  QYVICVHYVL  337
+              V+CV+YV+
+Sbjct  412  --VVCVNYVI  419
+
+
+>Q9I8A9 Hypoxia-inducible factor 1-alpha OS=Xenopus laevis OX=8355 GN=hif1a 
+PE=2 SV=1
+Length=805
+
+ Score = 140 bits (352),  Expect = 4e-33, Method: Compositional matrix adjust.
+ Identities = 96/370 (26%), Positives = 174/370 (47%), Gaps = 49/370 (13%)
+
+Query  3    DNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATIC  62
+            + ++ + ERR+E SR AAR RRS ES++F +L   +P+      +HLD+ +++R+   + 
+Sbjct  9    EKKRISSERRKEKSRDAARCRRSNESEVFYELSHELPL-PHNVSSHLDKASIMRLDHQLP  67
+
+Query  63   RLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+             + K A      +LD E   +        + L+GFV+++  +  ++Y++E+V   +GLTQ
+Sbjct  68   AVEKVAD---AGDLDGETELDKQLNCFYLKALEGFVLVLTEEGDMIYLSENVNKCMGLTQ  124
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLK  182
+             +LTG ++ DF HP D++E  +     + P  +                   R R  + +
+Sbjct  125  FELTGHSVFDFTHPCDHEELREMLTFRNGPAKK-------------------RKRTNHRE  165
+
+Query  183  SALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTT--NANASAMTKYTESPM-------  233
+              L     ++  S  +    VS M+G ++         NAN      Y + PM       
+Sbjct  166  KFLPSYEMYINQSWKNREYKVSHMEGPSLYRTHACIYDNANNQNHCGYKKPPMTCMVVIC  225
+
+Query  234  ---------------GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADM  278
+                             F +RH+ DM+ ++  ++   ++  E   L+G S YE  H  D 
+Sbjct  226  EPIPHPSNIEFPLDSKTFLSRHSLDMKFSYCDERVTELVGYEPDELLGRSVYEYYHALDS  285
+
+Query  279  MIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLG  338
+              ++K    +F KG + T  YR++A      W++T+AT I + +K  + Q ++CV+YVL 
+Sbjct  286  DHLTKPNYNMFTKGQVTTGQYRMLAKKGGYVWVETQATVI-YNSKNSQPQCIVCVNYVLS  344
+
+Query  339  IQGAEESLVV  348
+             +  E+ L++
+Sbjct  345  -EVVEKDLIL  353
+
+
+>Q14190 Single-minded homolog 2 OS=Homo sapiens OX=9606 GN=SIM2 PE=1 
+SV=2
+Length=667
+
+ Score = 126 bits (317),  Expect = 5e-29, Method: Compositional matrix adjust.
+ Identities = 88/343 (26%), Positives = 169/343 (49%), Gaps = 30/343 (9%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVL  72
+            +E S++AA+ RR KE+  F +L   +P+      + LD+ +++R+  +  ++R      L
+Sbjct  2    KEKSKNAAKTRREKENGEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRAVFPEGL  60
+
+Query  73   ENN---------LDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQT  123
+             +          LD  +  E+ +   + + LDGFV +V SD  I+Y++E+ +++LGL+Q 
+Sbjct  61   GDAWGQPSRAGPLDG-VAKELGSH--LLQTLDGFVFVVASDGKIMYISETASVHLGLSQV  117
+
+Query  124  DLTGRALRDFLHPSDYDEFDK---QSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLN  180
+            +LTG ++ +++HPSD+DE        + LH    ++ +    +  LRMK V++ R   L 
+Sbjct  118  ELTGNSIYEYIHPSDHDEMTAVLTAHQPLHHHLLQEYEIER-SFFLRMKCVLAKRNAGLT  176
+
+Query  181  LKSALYKSVSFLVHSKVS-----TGGHVSFMQGITIPA-GQGTTNANASAMTKYTESPMG  234
+                 YK +    + K+         + S  Q + + A GQ    +  + +  Y+     
+Sbjct  177  CSG--YKVIHCSGYLKIRQYMLDMSLYDSCYQIVGLVAVGQSLPPSAITEIKLYSN----  230
+
+Query  235  AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHI  294
+             F  R + D+++ F+  +   +   E + L+  + Y  VH  D+  +  +   L  KG +
+Sbjct  231  MFMFRASLDLKLIFLDSRVTEVTGYEPQDLIEKTLYHHVHGCDVFHLRYAHHLLLVKGQV  290
+
+Query  295  RTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+             T YYRL++      W+Q+ A T+ H ++  +   ++ V+YVL
+Sbjct  291  TTKYYRLLSKRGGWVWVQSYA-TVVHNSRSSRPHCIVSVNYVL  332
+
+
+>A1YFY6 Single-minded homolog 1 OS=Pan paniscus OX=9597 GN=SIM1 PE=3 
+SV=1
+Length=766
+
+ Score = 123 bits (309),  Expect = 7e-28, Method: Compositional matrix adjust.
+ Identities = 94/364 (26%), Positives = 170/364 (47%), Gaps = 33/364 (9%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVL  72
+            +E S++AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R     V 
+Sbjct  2    KEKSKNAARTRREKENSEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRV----VF  56
+
+Query  73   ENNLDNEITNEVWTE----------DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+               L     +  WT             + + LDGF+ +V  D  I+Y++E+ +++LGL+Q
+Sbjct  57   PEGLGEAWGHSSWTSPLDNVGRELGSHLLQTLDGFIFVVAPDGKIMYISETASVHLGLSQ  116
+
+Query  123  TDLTGRALRDFLHPSDYDEFD-----KQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGR  177
+             +LTG ++ +++HP+D+DE        Q    H  +  + + +     LRMK V++ R  
+Sbjct  117  VELTGNSIYEYIHPADHDEMTAVLTAHQPYHSHFVQEYEIERS---FFLRMKCVLAKRN-  172
+
+Query  178  CLNLKSALYKSVSFLVHSKVSTGG-HVSFMQGITIPAGQGTTNANA--SAMTKYTESPMG  234
+               L    YK +    + K+      +S   G     G      +   SA+T+  +    
+Sbjct  173  -AGLTCGGYKVIHCSGYLKIRQYSLDMSPFDGCYQNVGLVAVGHSLPPSAVTE-IKLHSN  230
+
+Query  235  AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHI  294
+             F  R + DM++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG +
+Sbjct  231  MFMFRASLDMKLIFLDSRVAELTGYEPQDLIEKTLYHHVHGCDTFHLRCAHHLLLVKGQV  290
+
+Query  295  RTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLG---IQGAEESLVVCTD  351
+             T YYR +A +    W+Q+ A TI H ++  +   ++ V+YVL     +G + SL   + 
+Sbjct  291  TTKYYRFLAKHGGWVWVQSYA-TIVHNSRSSRPHCIVSVNYVLTDTEYKGLQLSLDQISA  349
+
+Query  352  SMPA  355
+            S PA
+Sbjct  350  SKPA  353
+
+
+>Q61079 Single-minded homolog 2 OS=Mus musculus OX=10090 GN=Sim2 PE=1 
+SV=1
+Length=657
+
+ Score = 122 bits (305),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 85/342 (25%), Positives = 166/342 (49%), Gaps = 28/342 (8%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVL  72
+            +E S++AA+ RR KE+  F +L   +P+      + LD+ +++R+  +  ++R      L
+Sbjct  2    KEKSKNAAKTRREKENGEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRAVFPEGL  60
+
+Query  73   ENNLD--------NEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTD  124
+             +           + +  E+ +   + + LDGFV +V SD  I+Y++E+ +++LGL+Q +
+Sbjct  61   GDAWGQPSRTGPLDSVAKELGSH--LLQTLDGFVFVVASDGKIMYISETASVHLGLSQVE  118
+
+Query  125  LTGRALRDFLHPSDYDEFDK---QSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNL  181
+            LTG ++ +++HPSD+DE          LH    ++ +    +  LRMK V++ R   L  
+Sbjct  119  LTGNSIYEYIHPSDHDEMTAVLTAHPPLHHHLLQEYEIER-SFFLRMKCVLAKRNAGLTC  177
+
+Query  182  KSALYKSVSFLVHSKVS-----TGGHVSFMQGITIPA-GQGTTNANASAMTKYTESPMGA  235
+                YK +    + K+         + S  Q + + A GQ    +  + +  ++      
+Sbjct  178  SG--YKVIHCSGYLKIRQYMLDMSLYDSCYQIVGLVAVGQSLPPSAITEIKLHS----NM  231
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIR  295
+            F  R + D+++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG + 
+Sbjct  232  FMFRASLDLKLIFLDSRVTELTGYEPQDLIEKTLYHHVHGCDTFHLRYAHHLLLVKGQVT  291
+
+Query  296  TPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            T YYRL++      W+Q+ A T+ H ++  +   ++ V+YVL
+Sbjct  292  TKYYRLLSKLGGWVWVQSYA-TVVHNSRSSRPHCIVSVNYVL  332
+
+
+>P05709 Protein single-minded OS=Drosophila melanogaster OX=7227 GN=sim 
+PE=1 SV=3
+Length=697
+
+ Score = 122 bits (305),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 91/369 (25%), Positives = 166/369 (45%), Gaps = 58/369 (16%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVL  72
+            +E S++AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R+    V 
+Sbjct  26   KEKSKNAARTRREKENTEFCELAKLLPL-PAAITSQLDKASVIRLTTSYLKMRQ----VF  80
+
+Query  73   ENNLDNEITNEVWTED-------TIAEC-------LDGFVMIVDSDSSILYVTESVAMYL  118
+             + L      E W          TI E        LDGF+ +V  D  I+Y++E+ +++L
+Sbjct  81   PDGL-----GEAWGSSPAMQRGATIKELGSHLLQTLDGFIFVVAPDGKIMYISETASVHL  135
+
+Query  119  GLTQTDLTGRALRDFLHPSDYDEFDKQSKM-----------LHKP---------------  152
+            GL+Q +LTG ++ +++H  D DE +    +            H P               
+Sbjct  136  GLSQVELTGNSIFEYIHNYDQDEMNAILSLHPHINQHPLAQTHTPIGSPNGVQHPSAYDH  195
+
+Query  153  -RGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKV---STGGHVSFMQG  208
+             RG  T        LRMK V++ R   L          S  + +++      G  S +Q 
+Sbjct  196  DRGSHTIEIEKTFFLRMKCVLAKRNAGLTTSGFKVIHCSGYLKARIYPDRGDGQGSLIQN  255
+
+Query  209  ITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTS  268
+            + + A   +  ++A    K  ++    F  R   DM++ F   + + +   E + L+  +
+Sbjct  256  LGLVAVGHSLPSSAITEIKLHQN---MFMFRAKLDMKLIFFDARVSQLTGYEPQDLIEKT  312
+
+Query  269  FYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQ  328
+             Y+ +H AD+M +  S + L  KG + T YYR +       W+Q+ A T+ H ++  +  
+Sbjct  313  LYQYIHAADIMAMRCSHQILLYKGQVTTKYYRFLTKGGGWVWVQSYA-TLVHNSRSSREV  371
+
+Query  329  YVICVHYVL  337
+            +++ V+YVL
+Sbjct  372  FIVSVNYVL  380
+
+
+>P81133 Single-minded homolog 1 OS=Homo sapiens OX=9606 GN=SIM1 PE=1 
+SV=2
+Length=766
+
+ Score = 121 bits (303),  Expect = 4e-27, Method: Compositional matrix adjust.
+ Identities = 95/363 (26%), Positives = 176/363 (48%), Gaps = 31/363 (9%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLR----KTA  68
+            +E S++AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R    +  
+Sbjct  2    KEKSKNAARTRREKENSEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRVVFPEGL  60
+
+Query  69   GNVLENN-----LDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQT  123
+            G    ++     LDN +  E+ +   + + LDGF+ +V  D  I+Y++E+ +++LGL+Q 
+Sbjct  61   GEAWGHSSRTSPLDN-VGRELGSH--LLQTLDGFIFVVAPDGKIMYISETASVHLGLSQV  117
+
+Query  124  DLTGRALRDFLHPSDYDEFD-----KQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRC  178
+            +LTG ++ +++HP+D+DE        Q    H  +  + + +     LRMK V++ R   
+Sbjct  118  ELTGNSIYEYIHPADHDEMTAVLTAHQPYHSHFVQEYEIERS---FFLRMKCVLAKRN--  172
+
+Query  179  LNLKSALYKSVSFLVHSKVSTGG-HVSFMQGITIPAGQGTTNANA--SAMTKYTESPMGA  235
+              L    YK +    + K+      +S   G     G      +   SA+T+  +     
+Sbjct  173  AGLTCGGYKVIHCSGYLKIRQYSLDMSPFDGCYQNVGLVAVGHSLPPSAVTE-IKLHSNM  231
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIR  295
+            F  R + DM++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG + 
+Sbjct  232  FMFRASLDMKLIFLDSRVAELTGYEPQDLIEKTLYHHVHGCDTFHLRCAHHLLLVKGQVT  291
+
+Query  296  TPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLG---IQGAEESLVVCTDS  352
+            T YYR +A +    W+Q+ A TI H ++  +   ++ V+YVL     +G + SL   + S
+Sbjct  292  TKYYRFLAKHGGWVWVQSYA-TIVHNSRSSRPHCIVSVNYVLTDTEYKGLQLSLDQISAS  350
+
+Query  353  MPA  355
+             PA
+Sbjct  351  KPA  353
+
+
+>A2T6X9 Single-minded homolog 1 OS=Pan troglodytes OX=9598 GN=SIM1 PE=3 
+SV=1
+Length=766
+
+ Score = 121 bits (303),  Expect = 4e-27, Method: Compositional matrix adjust.
+ Identities = 95/363 (26%), Positives = 176/363 (48%), Gaps = 31/363 (9%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLR----KTA  68
+            +E S++AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R    +  
+Sbjct  2    KEKSKNAARTRREKENSEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRVVFPEGL  60
+
+Query  69   GNVLENN-----LDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQT  123
+            G    ++     LDN +  E+ +   + + LDGF+ +V  D  I+Y++E+ +++LGL+Q 
+Sbjct  61   GEAWGHSSRTSPLDN-VGRELGSH--LLQTLDGFIFVVAPDGKIMYISETASVHLGLSQV  117
+
+Query  124  DLTGRALRDFLHPSDYDEFD-----KQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRC  178
+            +LTG ++ +++HP+D+DE        Q    H  +  + + +     LRMK V++ R   
+Sbjct  118  ELTGNSIYEYIHPADHDEMTAVLTAHQPYHSHFVQEYEIERS---FFLRMKCVLAKRN--  172
+
+Query  179  LNLKSALYKSVSFLVHSKVSTGG-HVSFMQGITIPAGQGTTNANA--SAMTKYTESPMGA  235
+              L    YK +    + K+      +S   G     G      +   SA+T+  +     
+Sbjct  173  AGLTCGGYKVIHCSGYLKIRQYSLDMSPFDGCYQNVGLVAVGHSLPPSAVTE-IKLHSNM  231
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIR  295
+            F  R + DM++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG + 
+Sbjct  232  FMFRASLDMKLIFLDSRVAELTGYEPQDLIEKTLYHHVHGCDTFHLRCAHHLLLVKGQVT  291
+
+Query  296  TPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLG---IQGAEESLVVCTDS  352
+            T YYR +A +    W+Q+ A TI H ++  +   ++ V+YVL     +G + SL   + S
+Sbjct  292  TKYYRFLAKHGGWVWVQSYA-TIVHNSRSSRPHCIVSVNYVLTDTEYKGLQLSLDQISAS  350
+
+Query  353  MPA  355
+             PA
+Sbjct  351  KPA  353
+
+
+>Q61045 Single-minded homolog 1 OS=Mus musculus OX=10090 GN=Sim1 PE=1 
+SV=3
+Length=765
+
+ Score = 120 bits (300),  Expect = 1e-26, Method: Compositional matrix adjust.
+ Identities = 90/367 (25%), Positives = 173/367 (47%), Gaps = 38/367 (10%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLR-------  65
+            +E S++AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R       
+Sbjct  2    KEKSKNAARTRREKENSEFYELAKLLPL-PSAITSQLDKASIIRLTTSYLKMRVVFPEGL  60
+
+Query  66   -KTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTD  124
+             +  G+    +  + +  E+ +   + + LDGF+ +V  D  I+Y++E+ +++LGL+Q +
+Sbjct  61   GEAWGHTSRTSPLDNVGRELGSH--LLQTLDGFIFVVAPDGKIMYISETASVHLGLSQVE  118
+
+Query  125  LTGRALRDFLHPSDYDEFD-----KQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCL  179
+            LTG ++ +++HP+D+DE        Q    H  +  + + +     LRMK V++ R    
+Sbjct  119  LTGNSIYEYIHPADHDEMTAVLTAHQPYHSHFVQEYEIERS---FFLRMKCVLAKRN--A  173
+
+Query  180  NLKSALYKSVSFLVHSKVSTGG-HVSFMQGITIPAGQGTTNANA--SAMTKYTESPMGAF  236
+             L    YK +    + K+      +S   G     G      +   SA+T+  +     F
+Sbjct  174  GLTCGGYKVIHCSGYLKIRQYSLDMSPFDGCYQNVGLVAVGHSLPPSAVTE-IKLHSNMF  232
+
+Query  237  TTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRT  296
+              R + DM++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG + T
+Sbjct  233  MFRASLDMKLIFLDSRVAELTGYEPQDLIEKTLYHHVHGCDTFHLRCAHHLLLVKGQVTT  292
+
+Query  297  PYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPAG  356
+             YYR +A      W+Q+ A TI H ++  +   ++ V+YVL            TD+   G
+Sbjct  293  KYYRFLAKQGGWVWVQSYA-TIVHNSRSSRPHCIVSVNYVL------------TDTEYKG  339
+
+Query  357  MQVDIKK  363
+            +Q+ + +
+Sbjct  340  LQLSLDQ  346
+
+
+>Q98SJ5 Single-minded homolog 1-A OS=Danio rerio OX=7955 GN=sim1a PE=2 
+SV=1
+Length=745
+
+ Score = 118 bits (296),  Expect = 3e-26, Method: Compositional matrix adjust.
+ Identities = 90/368 (24%), Positives = 169/368 (46%), Gaps = 44/368 (12%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLR-------  65
+            +E S++A R RR KE+  F +L   +P+      +  D+ +++R+  +  ++R       
+Sbjct  2    KEKSKNAGRTRREKENSEFYELAKLLPL-PSAITSQSDKASIIRLTTSYLKMRIVFPEGL  60
+
+Query  66   -KTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTD  124
+             ++ G+V        +  E+ +   + + LDGF+ +V  D  ILY++E+ +++LGL+Q +
+Sbjct  61   GESWGHVSRTTSLENVGRELGSH--LLQTLDGFIFVVAPDGKILYISETASVHLGLSQEE  118
+
+Query  125  LTGRALRDFLHPSDYDEFDK--------QSKMLHKPRGEDTDTTGINMVLRMKTVISPRG  176
+            LTG ++ +++HP+D+DE            S  +H+   E +        LRMK V++   
+Sbjct  119  LTGNSIYEYIHPADHDEMTAVLTAHQPYHSHFVHEYEMERS------FFLRMKCVLAKAN  172
+
+Query  177  RCLNLKSALYKSVSFLVHSKVSTGG-HVSFMQGITIPAGQGTTNANA--SAMTKYTESPM  233
+                L    YK +    + K+      +S   G     G      +   SA+T+  +   
+Sbjct  173  --AGLTCGGYKVIHCSGYLKIRQYSLDMSPFDGCYQNVGLVAVGHSLPPSAVTE-IKLHS  229
+
+Query  234  GAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGH  293
+              F  R + DM++ F+  +   +   E + L+  + Y  VH  D   +  +   L  KG 
+Sbjct  230  NMFMFRASLDMKLIFLDSRVAELTGYEPQDLIEKTLYHHVHSCDTFHLRCAHHLLLVKGQ  289
+
+Query  294  IRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSM  353
+            + T YYR +A      W+Q+ A TI H ++  +   ++ V+YVL            TD+ 
+Sbjct  290  VTTKYYRFLAKQGGWVWVQSYA-TIVHNSRSSRPHCIVSVNYVL------------TDTE  336
+
+Query  354  PAGMQVDI  361
+              G+Q+ +
+Sbjct  337  YKGLQLSL  344
+
+
+>P97459 Neuronal PAS domain-containing protein 1 OS=Mus musculus OX=10090 
+GN=Npas1 PE=1 SV=1
+Length=594
+
+ Score = 116 bits (290),  Expect = 1e-25, Method: Compositional matrix adjust.
+ Identities = 105/379 (28%), Positives = 173/379 (46%), Gaps = 69/379 (18%)
+
+Query  11   RRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVT-HLDRIALLRVAATICRLRK---  66
+            +R+E SR+AAR RR KE+  F +L   +P+   G ++  LD+ +++R++ T  RLR+   
+Sbjct  45   QRKEKSRNAARWRRGKENLEFFELAKLLPL--PGAISSQLDKASIVRLSVTYLRLRRFAA  102
+
+Query  67   -------------TAGNVLENNLDNEITNEVWTEDT---IAECLDGFVMIVDSDSSILYV  110
+                          AG          + +EV+ +     I + LDGFV  ++ +   LY+
+Sbjct  103  LGAPPWGLRAVGPPAGLAPGRRGPVALVSEVFEQHLGGHILQSLDGFVFALNQEGKFLYI  162
+
+Query  111  TESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDT-------------  157
+            +E+V++YLGL+Q +LTG ++ D++HP D+ E  +Q  +     G  T             
+Sbjct  163  SETVSIYLGLSQVELTGSSVFDYIHPGDHSEVLEQLGLRAASIGPPTPPSVSSSSSSSSS  222
+
+Query  158  ---DTTGI----------------NMVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKVS  198
+               DT  I                +  +RMK+ ++ RG  LN+K++ YK +      +  
+Sbjct  223  SLVDTPEIEASPTEASPAFRAQERSFFVRMKSTLTKRG--LNVKASGYKVIHVTGRLRAR  280
+
+Query  199  TGGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILK  258
+              G V+   G T+P            M  +  S +G   T   C+ R   VSD  + +  
+Sbjct  281  ALGLVAL--GHTLPPAPLAELPLHGHMIVFRLS-LG--LTILACESR---VSDHMD-MGP  331
+
+Query  259  SELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTI  318
+            SE   L+G S Y+ VH  D   + +S  +L  KG + T YYR +       W+Q+ A T+
+Sbjct  332  SE---LVGRSCYQFVHGQDATRIRQSHLDLLDKGQVVTGYYRWLQRAGGFVWLQSVA-TV  387
+
+Query  319  THTTKGQKGQYVICVHYVL  337
+                K     +V+ V +VL
+Sbjct  388  AGNGKSTGEHHVLWVSHVL  406
+
+
+>Q8IXF0 Neuronal PAS domain-containing protein 3 OS=Homo sapiens OX=9606 
+GN=NPAS3 PE=2 SV=1
+Length=933
+
+ Score = 116 bits (290),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 98/390 (25%), Positives = 170/390 (44%), Gaps = 72/390 (18%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGN-  70
+            R+E SR AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R  A   
+Sbjct  52   RKEKSRDAARSRRGKENFEFYELAKLLPL-PAAITSQLDKASIIRLTISYLKMRDFANQG  110
+
+Query  71   ------VLENNLDNEITNEVWTE------------------DTIAECLDGFVMIVDSDSS  106
+                   +E    N     +  +                    I + LDGFV  ++ +  
+Sbjct  111  DPPWNLRMEGPPPNTSVKVIGAQRRRSPSALAIEVFEAHLGSHILQSLDGFVFALNQEGK  170
+
+Query  107  ILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP-RG-----------  154
+             LY++E+V++YLGL+Q +LTG ++ D++HP D+ E  +Q  M   P RG           
+Sbjct  171  FLYISETVSIYLGLSQVELTGSSVFDYVHPGDHVEMAEQLGMKLPPGRGLLSQGTAEDGA  230
+
+Query  155  ------------EDTDTTGINMV-----------LRMKTVISPRGRCLNLKSALYKSVSF  191
+                        E  ++T  +++           +RMK+ ++ RG  +++KS+ YK    
+Sbjct  231  SSASSSSQSETPEPVESTSPSLLTTDNTLERSFFIRMKSTLTKRG--VHIKSSGYK----  284
+
+Query  192  LVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM----GAFTTRHTCDMRIT  247
+            ++H        VS   G T+P+        A A+   T + +      F TR   D+ I 
+Sbjct  285  VIHITGRLRLRVSLSHGRTVPSQIMGLVVVAHALPPPTINEVRIDCHMFVTRVNMDLNII  344
+
+Query  248  FVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDT  307
+            +  ++ +  +      ++G   Y  +H  D+  +  S  +L  KG   T YYR +  N  
+Sbjct  345  YCENRISDYMDLTPVDIVGKRCYHFIHAEDVEGIRHSHLDLLNKGQCVTKYYRWMQKNGG  404
+
+Query  308  LAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+              WIQ+ A TI    K    + +I V+Y+L
+Sbjct  405  YIWIQSSA-TIAINAKNANEKNIIWVNYLL  433
+
+
+>Q9QZQ0 Neuronal PAS domain-containing protein 3 OS=Mus musculus OX=10090 
+GN=Npas3 PE=1 SV=1
+Length=925
+
+ Score = 116 bits (290),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 99/388 (26%), Positives = 168/388 (43%), Gaps = 70/388 (18%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGN-  70
+            R+E SR AAR RR KE+  F +L   +P+      + LD+ +++R+  +  ++R  A   
+Sbjct  59   RKEKSRDAARSRRGKENFEFYELAKLLPL-PAAITSQLDKASIIRLTISYLKMRDFANQG  117
+
+Query  71   ------VLENNLDNEITN----------------EVWTEDTIAECLDGFVMIVDSDSSIL  108
+                   +E    N                    E      I + LDGFV  ++ +   L
+Sbjct  118  DPPWNLRMEGPPPNTSVKGAQRRRSPSALAIEVFEAHLGSHILQSLDGFVFALNQEGKFL  177
+
+Query  109  YVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP-RG-------------  154
+            Y++E+V++YLGL+Q +LTG ++ D++HP D+ E  +Q  M   P RG             
+Sbjct  178  YISETVSIYLGLSQVELTGSSVFDYVHPGDHVEMAEQLGMKLPPGRGLLSQGTTEDAASS  237
+
+Query  155  ----------EDTDTTGINMV-----------LRMKTVISPRGRCLNLKSALYKSVSFLV  193
+                      E  +TT  +++           +RMK+ ++ RG  +++KS+ YK    ++
+Sbjct  238  ASSSSQSETPEPVETTSPSLLTTDNTLERSFFIRMKSTLTKRG--VHIKSSGYK----VI  291
+
+Query  194  HSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM----GAFTTRHTCDMRITFV  249
+            H        V    G T+P+        A A+   T + +      F TR   D+ I + 
+Sbjct  292  HITGRLRLRVPLSHGRTVPSQIMGLVVVAHALPPPTINEVRIDCHMFVTRVNMDLNIIYC  351
+
+Query  250  SDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLA  309
+             ++ +  +      ++G   Y  +H  D+  +  S  +L  KG   T YYR +  N    
+Sbjct  352  ENRISDYMDLTPVDIVGKRCYHFIHAEDVEGIRHSHLDLLNKGQCVTKYYRWMQKNGGYI  411
+
+Query  310  WIQTEATTITHTTKGQKGQYVICVHYVL  337
+            WIQ+ A TI    K    + +I V+Y+L
+Sbjct  412  WIQSSA-TIAINAKNANEKNIIWVNYLL  438
+
+
+>Q99742 Neuronal PAS domain-containing protein 1 OS=Homo sapiens OX=9606 
+GN=NPAS1 PE=2 SV=2
+Length=590
+
+ Score = 112 bits (281),  Expect = 1e-24, Method: Compositional matrix adjust.
+ Identities = 102/378 (27%), Positives = 173/378 (46%), Gaps = 68/378 (18%)
+
+Query  11   RRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVT-HLDRIALLRVAATICRLRK---  66
+            +R+E SR+AAR RR KE+  F +L   +P+   G ++  LD+ +++R++ T  RLR+   
+Sbjct  45   QRKEKSRNAARSRRGKENLEFFELAKLLPL--PGAISSQLDKASIVRLSVTYLRLRRFAA  102
+
+Query  67   -------------TAGNVLENNLDNEITNEVWTEDT---IAECLDGFVMIVDSDSSILYV  110
+                          AG          + +EV+ +     I + LDGFV  ++ +   LY+
+Sbjct  103  LGAPPWGLRAAGPPAGLAPGRRGPAALVSEVFEQHLGGHILQSLDGFVFALNQEGKFLYI  162
+
+Query  111  TESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGED--------------  156
+            +E+V++YLGL+Q ++TG ++ D++HP D+ E  +Q  +     G                
+Sbjct  163  SETVSIYLGLSQVEMTGSSVFDYIHPGDHSEVLEQLGLRTPTPGPPTPPSVSSSSSSSSS  222
+
+Query  157  -TDTTGI----------------NMVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKVST  199
+              DT  I                +  +RMK+ ++ RG  L++K++ YK +      +   
+Sbjct  223  LADTPEIEASLTKVPPSSLVQERSFFVRMKSTLTKRG--LHVKASGYKVIHVTGRLRAHA  280
+
+Query  200  GGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKS  259
+             G V+   G T+P            M  +  S +G   T   C+ R   VSD  + +  S
+Sbjct  281  LGLVAL--GHTLPPAPLAELPLHGHMIVFRLS-LG--LTILACESR---VSDHMD-LGPS  331
+
+Query  260  ELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTIT  319
+            E   L+G S Y+ VH  D   + +S  +L  KG + T YYR +       W+Q+ A T+ 
+Sbjct  332  E---LVGRSCYQFVHGQDATRIRQSHVDLLDKGQVMTGYYRWLQRAGGFVWLQSVA-TVA  387
+
+Query  320  HTTKGQKGQYVICVHYVL  337
+             + K     +V+ V +VL
+Sbjct  388  GSGKSPGEHHVLWVSHVL  405
+
+
+>P90953 Helix-loop-helix 34 OS=Caenorhabditis elegans OX=6239 GN=hlh-34 
+PE=2 SV=3
+Length=322
+
+ Score = 99.4 bits (246),  Expect = 2e-21, Method: Compositional matrix adjust.
+ Identities = 81/334 (24%), Positives = 151/334 (45%), Gaps = 48/334 (14%)
+
+Query  10   ERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAG  69
+            E +++ S+  A+ RR  E+  F  L   +P+    +  H+D+  ++R+A    +L    G
+Sbjct  7    EEKQKPSKSQAQQRRQMENYEFSQLANELPLARAISGQHIDKTTMVRLATAYIKLHNIFG  66
+
+Query  70   NVLENNLDNEI---TNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT  126
+                     +    ++ +WT + + + LDGF +I+D    +LY++E++++YLGL+Q ++T
+Sbjct  67   QSQRAYSSADYYYGSDSLWTNNHL-DLLDGFFVILDRRGDVLYISETISIYLGLSQVEMT  125
+
+Query  127  GRALRDFLHPSDYDEFDKQSKM--LHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSA  184
+            G A+ D++H  D + F+       L+ P+  +         +R+K+ ++ R      K A
+Sbjct  126  GNAMVDYIHEQDINCFNSALNYCDLNWPQMCN---------VRVKSSLTKRAN----KDA  172
+
+Query  185  LYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKY---------TESPMGA  235
+            +          + S G  V  ++    P      N N   +  Y            P  +
+Sbjct  173  V----------RASPGYKVLRLEITMGP------NTNTRMIACYPMPTPVLSTVTIPSNS  216
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSEL---KTLMGTSFYELVHPADMMIVSKSMKELFAKG  292
+            F    + D+ ITF  +K + +L +       + G S Y L+  +D  ++SK   ++F  G
+Sbjct  217  FVIITSIDLHITFADEKAHQLLNNPFYPDSNIKGMSLYSLIDISDSEVISKMHFDIFNLG  276
+
+Query  293  HIRTPYYRLIAANDTLAWIQTEATTITHTTKGQK  326
+              +TPYYR+I  N T      E+    HT+   K
+Sbjct  277  AYKTPYYRMI-LNQTSETFYVESNIFRHTSISSK  309
+
+
+>Q24119 Protein trachealess OS=Drosophila melanogaster OX=7227 GN=trh 
+PE=1 SV=4
+Length=1022
+
+ Score = 81.6 bits (200),  Expect = 1e-14, Method: Compositional matrix adjust.
+ Identities = 46/164 (28%), Positives = 81/164 (49%), Gaps = 38/164 (23%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            +E R+E SR AAR RR KE+  F +L   +P+      + LD+ +++R+  +  +LR  +
+Sbjct  84   LELRKEKSRDAARSRRGKENYEFYELAKMLPL-PAAITSQLDKASIIRLTISYLKLRDFS  142
+
+Query  69   GNVLENNLDNEITNEVWTEDT---------------------------IAECLDGFVMIV  101
+            G+           +  WT +                            I + LDGF + V
+Sbjct  143  GH----------GDPPWTREASSSSKLKSAAIRRSPAVDLFEQHQGTHILQSLDGFALAV  192
+
+Query  102  DSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQ  145
+             +D   LY++E+V++YLGL+Q ++TG ++ D++H +D+ E   Q
+Sbjct  193  AADGRFLYISETVSIYLGLSQVEMTGSSIFDYIHQADHSEIADQ  236
+
+
+ Score = 70.5 bits (171),  Expect = 4e-11, Method: Compositional matrix adjust.
+ Identities = 38/120 (32%), Positives = 60/120 (50%), Gaps = 1/120 (1%)
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIR  295
+            F TR   D+R+     + + +L    + L+  S Y L H  D   + KS  +L  KG + 
+Sbjct  405  FVTRVNFDLRVAHCEPRVSDLLDYSPEDLVNKSLYSLCHAEDANRLRKSHSDLIEKGQVL  464
+
+Query  296  TPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQGAEESLVVCTDSMPA  355
+            T YYRL+  +    W+QT AT +  +TK    Q +ICV+YV+  +  E  ++ C    P+
+Sbjct  465  TGYYRLMNKSGGYTWLQTCATVVC-STKNADEQNIICVNYVISNRENENMILDCCQLEPS  523
+
+
+>Q9BE97 Aryl hydrocarbon receptor nuclear translocator OS=Bos taurus 
+OX=9913 GN=ARNT PE=1 SV=1
+Length=790
+
+ Score = 80.1 bits (196),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 83/376 (22%), Positives = 153/376 (41%), Gaps = 59/376 (16%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR T    
+Sbjct  91   RENHSEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSLRGTGNTS  149
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         +   +  I E  DGF+ IV  ++  ++YV++SV   L   Q++  G  L
+Sbjct  150  TDGTYKPSFLTDQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTL  209
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             D +HP D D+  +Q          ++L    G   ++   + + M +  +     R RC
+Sbjct  210  YDQVHPDDVDKLREQLSTSENALTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  269
+
+Query  179  LN--LKSALYKSVSFLVHSKVSTG------GHVSFM-------------QGITIP-----  212
+             N  + S     +SF V ++   G      G   F+              G+++P     
+Sbjct  270  GNSSVDSVSMNRLSF-VRNRCRNGLGSAKDGEPHFVVVHCTGYIKAWPPAGVSLPDDDPE  328
+
+Query  213  AGQG-------------TTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKS  259
+            AGQG             T++ N + M+   +     F +RH  +   TFV  +    +  
+Sbjct  329  AGQGSKFCLVAIGRLQVTSSPNCTDMSNVCQP--TEFISRHNIEGIFTFVDHRCVATVGY  386
+
+Query  260  ELKTLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTI  318
+            + + L+G +  E  HP D  ++  S +++   KG + +  +R  + N    W++T + T 
+Sbjct  387  QPQELLGKNIVEFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRFRSKNREWLWVRTSSFTF  446
+
+Query  319  THTTKGQKGQYVICVH  334
+             +    +  +Y+IC +
+Sbjct  447  QNPYSDEI-EYIICTN  461
+
+
+>P97460 Neuronal PAS domain-containing protein 2 OS=Mus musculus OX=10090 
+GN=Npas2 PE=1 SV=1
+Length=816
+
+ Score = 80.1 bits (196),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 81/367 (22%), Positives = 158/367 (43%), Gaps = 47/367 (13%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALL-RVAAT  60
+            ED + R    +R +   + + RR + + +  +L   +P    G    +D+  +L +V   
+Sbjct  3    EDEKDR---AKRASRNKSEKKRRDQFNVLIKELSSMLP----GNTRKMDKTTVLEKVIGF  55
+
+Query  61   ICRLRKTAGNVLENNLDNE-----ITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVA  115
+            + +  + +      ++  +     ++NE +T+  + E LDGFV++V +D SI+YV++S+ 
+Sbjct  56   LQKHNEVSAQTEICDIQQDWKPSFLSNEEFTQ-LMLEALDGFVIVVTTDGSIIYVSDSIT  114
+
+Query  116  MYLGLTQTDLTGRALRDFLHPSDYDEFDK--QSKML--HKPRGE----DTDTTGINMVLR  167
+              LG    D+  + L +FL   ++ E  K   S ML    P  E    D D      +LR
+Sbjct  115  PLLGHLPADVMDQNLLNFLPEQEHSEVYKILSSHMLVTDSPSPEFLKSDNDLEFYCHLLR  174
+
+Query  168  MKTVISPRGRCLNLKSALYKSVSFL--------VHSKVSTGGHVSFMQGITIPAGQ----  215
+                ++P+      +   Y+ + F+        V S    G   +  +   +P G+    
+Sbjct  175  GS--LNPK------EFPTYEYIKFVGNFRSYNNVPSPSCNGFDNTLSRPCHVPLGKDVCF  226
+
+Query  216  -GTTNANASAMTK---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYE  271
+              T         K     + P+  FT+RH+ + +  F+  +   I+      ++GTS Y 
+Sbjct  227  IATVRLATPQFLKEMCVADEPLEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYN  286
+
+Query  272  LVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVI  331
+              H  D+ ++++  + L   G  ++  YR +       W+QT    IT+     K ++++
+Sbjct  287  YYHIDDLELLARCHQHLMQFGKGKSCCYRFLTKGQQWIWLQTHY-YITYHQWNSKPEFIV  345
+
+Query  332  CVHYVLG  338
+            C H V+ 
+Sbjct  346  CTHSVVS  352
+
+
+>Q99743 Neuronal PAS domain-containing protein 2 OS=Homo sapiens OX=9606 
+GN=NPAS2 PE=1 SV=3
+Length=824
+
+ Score = 80.1 bits (196),  Expect = 4e-14, Method: Compositional matrix adjust.
+ Identities = 82/368 (22%), Positives = 158/368 (43%), Gaps = 49/368 (13%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALL-RVAAT  60
+            ED + R    +R +   + + RR + + +  +L   +P    G    +D+  +L +V   
+Sbjct  3    EDEKDRA---KRASRNKSEKKRRDQFNVLIKELSSMLP----GNTRKMDKTTVLEKVIGF  55
+
+Query  61   ICRLRKTAGNVLENNLDNE-----ITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVA  115
+            + +  + +      ++  +     ++NE +T+  + E LDGF++ V +D SI+YV++S+ 
+Sbjct  56   LQKHNEVSAQTEICDIQQDWKPSFLSNEEFTQ-LMLEALDGFIIAVTTDGSIIYVSDSIT  114
+
+Query  116  MYLGLTQTDLTGRALRDFLHPSDYDEFDK--QSKML--HKPRGE----DTDTTGINMVLR  167
+              LG   +D+  + L +FL   ++ E  K   S ML    P  E    D+D      +LR
+Sbjct  115  PLLGHLPSDVMDQNLLNFLPEQEHSEVYKILSSHMLVTDSPSPEYLKSDSDLEFYCHLLR  174
+
+Query  168  MKTVISPRGRCLNLKS-ALYKSVSFL--------VHSKVSTGGHVSFMQGITIPAGQ---  215
+                       LN K    Y+ + F+        V S    G   +  +   +P G+   
+Sbjct  175  GS---------LNPKEFPTYEYIKFVGNFRSYNNVPSPSCNGFDNTLSRPCRVPLGKEVC  225
+
+Query  216  --GTTNANASAMTK---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFY  270
+               T         K     + P+  FT+RH+ + +  F+  +   I+      ++GTS Y
+Sbjct  226  FIATVRLATPQFLKEMCIVDEPLEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGY  285
+
+Query  271  ELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYV  330
+            +  H  D+ ++++  + L   G  ++  YR +       W+QT    IT+     K +++
+Sbjct  286  DYYHIDDLELLARCHQHLMQFGKGKSCCYRFLTKGQQWIWLQTH-YYITYHQWNSKPEFI  344
+
+Query  331  ICVHYVLG  338
+            +C H V+ 
+Sbjct  345  VCTHSVVS  352
+
+
+>O02747 Aryl hydrocarbon receptor OS=Oryctolagus cuniculus OX=9986 GN=AHR 
+PE=2 SV=1
+Length=847
+
+ Score = 79.7 bits (195),  Expect = 5e-14, Method: Compositional matrix adjust.
+ Identities = 83/376 (22%), Positives = 157/376 (42%), Gaps = 46/376 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLEN  74
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L++
+Sbjct  36   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  89
+
+Query  75   -----NLDNEITNEVWTE-------DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   +     + E       + + + L+GFV++V  D+ + Y + ++  YLG  Q
+Sbjct  90   SSADRNGGQDPCRAKFGEGLNLQEGEFLLQALNGFVLVVTVDALVFYASSTIQDYLGFQQ  149
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPR-----GEDTDTT-GINMVLR---------  167
+            +D+  +++ + +H  D  EF +Q      P      G+  D T G+   +          
+Sbjct  150  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTDPGQGADETHGLPQPVYYNPDQLPPE  209
+
+Query  168  ----MKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANAS  223
+                M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A+
+Sbjct  210  NSSFMERCFICRLRCLLDNSSGFLAMNFQGRLKFLHGQNKKGKDGSLLPP-QLALFAIAT  268
+
+Query  224  AMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPADM  278
+             +   +     +    F T+H  D   T    K   +L  +E +  M  S Y+ +H ADM
+Sbjct  269  PLQPPSILEIRTKNFIFRTKHKLDFTPTGCDAKGQIVLGYTEAELCMRGSGYQFIHAADM  328
+
+Query  279  MIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLG  338
+            +  ++S   +   G      +RL+  ++  AW+Q+ A  I    K  +  ++I     L 
+Sbjct  329  LYCAESHIRMIKTGESGLAVFRLLTKDNRWAWVQSNARFI---YKNGRPDFIIATQRPLT  385
+
+Query  339  IQGAEESLVVCTDSMP  354
+             +   E L+     +P
+Sbjct  386  DEEGREHLLKRNTKLP  401
+
+
+>P79832 Aryl hydrocarbon receptor nuclear translocator OS=Oncorhynchus 
+mykiss OX=8022 GN=arnt PE=1 SV=1
+Length=723
+
+ Score = 79.3 bits (194),  Expect = 6e-14, Method: Compositional matrix adjust.
+ Identities = 79/373 (21%), Positives = 149/373 (40%), Gaps = 53/373 (14%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR +    
+Sbjct  67   RENHSEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSLRGSGNTA  125
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         +   +  I E  DGF+ +V  +S  ++YV++S+   L  +Q+D  G +L
+Sbjct  126  ADGTYKPSFLTDQELKHLILEAADGFLFVVSCESGRVVYVSDSLTPVLNQSQSDWLGSSL  185
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             D LHP D D+  +Q          +ML    G   ++   + + M +  +     R RC
+Sbjct  186  YDQLHPDDGDKLREQLSTAESNNTGRMLDLKTGTVKKEGQQSSVRMCMGARRSFICRMRC  245
+
+Query  179  LN--LKSALYKSVSFLVHSKVSTGG------------HVSFMQGITIPAGQGTTNANASA  224
+             +  ++      ++FL     +  G            H +       P G   T+  A  
+Sbjct  246  GSCPVEPMSMNRLNFLRSRNRNGLGPPKDGEPQYVVVHCTGYIKSWPPTGVNLTDEEADN  305
+
+Query  225  M--TKYTESPMG--------------------AFTTRHTCDMRITFVSDKFNYILKSELK  262
+            +  ++Y    +G                     F +RH C    TFV  +    +  + +
+Sbjct  306  ILGSRYCLVAIGRLQVTSCPSDTDMNSISVPVEFISRHNCQGLFTFVDHRCMATVGYQPQ  365
+
+Query  263  TLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTITHT  321
+             L+G +  EL HP D  ++  S +++   KG + +  +R ++      WI+T + T  + 
+Sbjct  366  ELLGKNILELAHPEDQELLRDSFQQVVKLKGQVLSVMFRFLSKTRDWLWIRTSSFTFQNP  425
+
+Query  322  TKGQKGQYVICVH  334
+               ++ +Y+IC +
+Sbjct  426  FS-EEIEYIICTN  437
+
+
+>Q8R4S7 Aryl hydrocarbon receptor OS=Mus caroli OX=10089 GN=Ahr PE=2 
+SV=1
+Length=854
+
+ Score = 78.6 bits (192),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 80/377 (21%), Positives = 156/377 (41%), Gaps = 47/377 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLR---------------  167
+            +D+  +++ + +H  D  EF +Q      P        G++                   
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTDSAQGVDEAHGPPQTAVYYTPDQLPP  208
+
+Query  168  -----MKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANA  222
+                 M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A
+Sbjct  209  ENASFMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIA  267
+
+Query  223  SAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPAD  277
+            + +   +     +    F T+H  D   +    K   IL  +E++     S Y+ +H AD
+Sbjct  268  TPLQPPSILEIRTKNFIFRTKHKLDFTPSGCDAKGQLILGYTEVELCTRGSGYQFIHAAD  327
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            M+  ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L
+Sbjct  328  MLHCAESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPL  384
+
+Query  338  GIQGAEESLVVCTDSMP  354
+              +   E L   + S+P
+Sbjct  385  TDEEGREHLQKRSMSLP  401
+
+
+>Q9WVS9 Circadian locomoter output cycles protein kaput OS=Rattus norvegicus 
+OX=10116 GN=Clock PE=2 SV=1
+Length=862
+
+ Score = 78.6 bits (192),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 85/383 (22%), Positives = 163/383 (43%), Gaps = 53/383 (14%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ED++ +    +R +   + + RR + + +  +L   +P    G    +D+  +L+ +   
+Sbjct  28   EDDKDK---AKRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDF  80
+
+Query  62   CRLRKT------AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVA  115
+             R  K       A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+E+V 
+Sbjct  81   LRKHKEITAQSDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSETVT  139
+
+Query  116  MYLGLTQTDLTGRALRDFLHPSDYDEFDK--QSKMLHKPRGEDTDTTGINMV----LRMK  169
+              L    +DL  +++ +F+   ++ E  K   + +L        D    N +      ++
+Sbjct  140  SLLEHLPSDLVDQSIFNFIPEGEHSEVYKILSTHLLESDSLTPEDLKSKNQLEFCCHMLR  199
+
+Query  170  TVISPRGRCLNLKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------G  216
+              I P+      + + Y+ V F+ + K    VST  H  F   +Q    P+ +       
+Sbjct  200  GTIDPK------EPSTYEYVRFIGNFKSLNSVSTSTHNGFEGTIQRTHRPSYEDRVCFVA  253
+
+Query  217  TTNANASAMTK---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELV  273
+            T         K     E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  
+Sbjct  254  TVRLATPQFIKEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYY  313
+
+Query  274  HPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICV  333
+            H  D+  ++K  + L   G  ++ YYR +       W+QT    IT+     + ++++C 
+Sbjct  314  HVDDLESLAKCHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCT  372
+
+Query  334  HYVLGIQ----------GAEESL  346
+            H V+             G EESL
+Sbjct  373  HTVVSYAEVRAERRRELGVEESL  395
+
+
+>Q8R4S6 Aryl hydrocarbon receptor OS=Mus musculus castaneus OX=10091 
+GN=Ahr PE=2 SV=1
+Length=848
+
+ Score = 78.6 bits (192),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 82/373 (22%), Positives = 156/373 (42%), Gaps = 43/373 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKP---RGEDT-------------DTTGINMVL  166
+            +D+  +++ + +H  D  EF +Q      P   +G D              D        
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPDSAQGVDEAHGPPQAAVYYTPDQLPPENAS  208
+
+Query  167  RMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMT  226
+             M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A+ + 
+Sbjct  209  FMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIATPLQ  267
+
+Query  227  KYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPADMMIV  281
+              +     +    F T+H  D        K   IL  +E++     S Y+ +H ADM+  
+Sbjct  268  PPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCTRGSGYQFIHAADMLHC  327
+
+Query  282  SKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQG  341
+            ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L  + 
+Sbjct  328  AESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIVTQRPLTDEE  384
+
+Query  342  AEESLVVCTDSMP  354
+              E L   + S+P
+Sbjct  385  GREHLQKRSTSLP  397
+
+
+>P30561 Aryl hydrocarbon receptor OS=Mus musculus OX=10090 GN=Ahr PE=1 
+SV=3
+Length=848
+
+ Score = 78.2 bits (191),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 82/373 (22%), Positives = 155/373 (42%), Gaps = 43/373 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKP---RGEDT-------------DTTGINMVL  166
+            +D+  +++ + +H  D  EF +Q      P   +G D              D        
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPDSAQGVDEAHGPPQAAVYYTPDQLPPENAS  208
+
+Query  167  RMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMT  226
+             M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A+ + 
+Sbjct  209  FMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIATPLQ  267
+
+Query  227  KYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPADMMIV  281
+              +     +    F T+H  D        K   IL  +E++     S Y+ +H ADM+  
+Sbjct  268  PPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCTRGSGYQFIHAADMLHC  327
+
+Query  282  SKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQG  341
+            ++S   +   G      +RL A +    W+Q+ A  I    +  +  Y+I     L  + 
+Sbjct  328  AESHIRMIKTGESGMTVFRLFAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPLTDEE  384
+
+Query  342  AEESLVVCTDSMP  354
+              E L   + S+P
+Sbjct  385  GREHLQKRSTSLP  397
+
+
+>P27540 Aryl hydrocarbon receptor nuclear translocator OS=Homo sapiens 
+OX=9606 GN=ARNT PE=1 SV=1
+Length=789
+
+ Score = 77.8 bits (190),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 85/378 (22%), Positives = 156/378 (41%), Gaps = 63/378 (17%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR T    
+Sbjct  91   RENHSEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSLRGTGNTS  149
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             + +       +   +  I E  DGF+ IV  ++  ++YV++SV   L   Q++  G  L
+Sbjct  150  TDGSYKPSFLTDQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTL  209
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINM--------VLRMK-  169
+             D +HP D D+  +Q          ++L    G   ++   + + M        + RM+ 
+Sbjct  210  YDQVHPDDVDKLREQLSTSENALTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  269
+
+Query  170  --TVISP---------RGRCLN-LKSALYKSVSFLVHSKVSTGGHVSFM--QGITIP---  212
+              + + P         R RC N L S       F+V   V   G++      G+++P   
+Sbjct  270  GSSSVDPVSVNRLSFVRNRCRNGLGSVKDGEPHFVV---VHCTGYIKAWPPAGVSLPDDD  326
+
+Query  213  --AGQG-------------TTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYIL  257
+              AGQG             T++ N + M+   +     F +RH  +   TFV  +    +
+Sbjct  327  PEAGQGSKFCLVAIGRLQVTSSPNCTDMSNVCQPT--EFISRHNIEGIFTFVDHRCVATV  384
+
+Query  258  KSELKTLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEAT  316
+              + + L+G +  E  HP D  ++  S +++   KG + +  +R  + N    W++T + 
+Sbjct  385  GYQPQELLGKNIVEFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRFRSKNQEWLWMRTSSF  444
+
+Query  317  TITHTTKGQKGQYVICVH  334
+            T  +    +  +Y+IC +
+Sbjct  445  TFQNPYSDEI-EYIICTN  461
+
+
+>Q8R4S5 Aryl hydrocarbon receptor OS=Mus musculus molossinus OX=57486 
+GN=Ahr PE=2 SV=1
+Length=883
+
+ Score = 77.8 bits (190),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 82/373 (22%), Positives = 156/373 (42%), Gaps = 43/373 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKP---RGEDT-------------DTTGINMVL  166
+            +D+  +++ + +H  D  EF +Q      P   +G D              D        
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPDSAQGVDEAHGPPQAAVYYTPDQLPPENAS  208
+
+Query  167  RMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMT  226
+             M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A+ + 
+Sbjct  209  FMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIATPLQ  267
+
+Query  227  KYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPADMMIV  281
+              +     +    F T+H  D        K   IL  +E++     S Y+ +H ADM+  
+Sbjct  268  PPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCTRGSGYQFIHAADMLHC  327
+
+Query  282  SKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQG  341
+            ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L  + 
+Sbjct  328  AESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPLTDEE  384
+
+Query  342  AEESLVVCTDSMP  354
+              E L   + S+P
+Sbjct  385  GREHLQKRSTSLP  397
+
+
+>Q8R4S4 Aryl hydrocarbon receptor OS=Mus spicilegus OX=10103 GN=Ahr PE=2 
+SV=1
+Length=854
+
+ Score = 77.8 bits (190),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 80/377 (21%), Positives = 155/377 (41%), Gaps = 47/377 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLR---------------  167
+            +D+  +++ + +H  D  EF +Q      P        G++                   
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTDSAQGVDEAHGPPQAAVYYTPDQLPP  208
+
+Query  168  -----MKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANA  222
+                 M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A
+Sbjct  209  ENASFMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIA  267
+
+Query  223  SAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPAD  277
+            + +   +     +    F T+H  D        K   IL  +E++     S Y+ +H AD
+Sbjct  268  TPLQPPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCTRGSGYQFIHAAD  327
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            M+  ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L
+Sbjct  328  MLHCAESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPL  384
+
+Query  338  GIQGAEESLVVCTDSMP  354
+              +   E L   + S+P
+Sbjct  385  TDEEGREHLQKRSMSLP  401
+
+
+>O02748 Aryl hydrocarbon receptor nuclear translocator OS=Oryctolagus 
+cuniculus OX=9986 GN=ARNT PE=2 SV=1
+Length=790
+
+ Score = 77.0 bits (188),  Expect = 3e-13, Method: Compositional matrix adjust.
+ Identities = 85/378 (22%), Positives = 155/378 (41%), Gaps = 63/378 (17%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR T    
+Sbjct  91   RENHSEIERRRRNKMTAYITELSDIVPTCS-ALARKPDKLTILRMAVSHMKSLRGTGNTS  149
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             + +       +   +  I E  DGF+ IV  ++  ++YV++SV   L   Q++  G  L
+Sbjct  150  TDGSYKPSFLTDQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTL  209
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINM--------VLRMK-  169
+             D +HP D D+  +Q          ++L    G   ++   + + M        + RM+ 
+Sbjct  210  YDQVHPDDVDKLREQLSTSENALTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  269
+
+Query  170  --TVISP---------RGRCLN-LKSALYKSVSFLVHSKVSTGGHVSFM--QGITIP---  212
+              + + P         R RC N L S       F+V   V   G++      G+++P   
+Sbjct  270  GNSSVDPVSMNRLSFVRNRCRNGLGSVKDGEPHFVV---VHCTGYIKAWPPAGVSLPDDD  326
+
+Query  213  --AGQG-------------TTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYIL  257
+              AGQG             T++ N + M+   +     F +RH  +   TFV  +    +
+Sbjct  327  PEAGQGSKFCLVAIGRLQVTSSPNCTDMSNVCQP--TEFISRHNIEGIFTFVDHRCVATV  384
+
+Query  258  KSELKTLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEAT  316
+              + + L+G +  E  HP D  ++  S +++   KG + +  +R  + N    W +T + 
+Sbjct  385  GYQPQELLGKNIVEFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRFRSKNREWLWTRTSSF  444
+
+Query  317  TITHTTKGQKGQYVICVH  334
+            T  +    +  +Y+IC +
+Sbjct  445  TFQNPYSDEI-EYIICTN  461
+
+
+>Q8R4S2 Aryl hydrocarbon receptor OS=Mus spretus OX=10096 GN=Ahr PE=2 
+SV=1
+Length=854
+
+ Score = 77.0 bits (188),  Expect = 3e-13, Method: Compositional matrix adjust.
+ Identities = 80/377 (21%), Positives = 154/377 (41%), Gaps = 47/377 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLE-  73
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +      L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  74   -----NNLDNEITNEV--WTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+                 N   ++   ++  W      + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRNGGQDQCRAQIRDWQNLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLR---------------  167
+            +D+  +++ + +H  D  EF +Q      P        G++                   
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTDSAQGVDEAHGPPQAAVYYTPDQLPP  208
+
+Query  168  -----MKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANA  222
+                 M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A
+Sbjct  209  ENASFMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIA  267
+
+Query  223  SAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPAD  277
+            + +   +     +    F T+H  D        K   IL  +E++     S Y+ +H AD
+Sbjct  268  TPLQPPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCTRGSGYQFIHAAD  327
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            M+  ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L
+Sbjct  328  MLHCAESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPL  384
+
+Query  338  GIQGAEESLVVCTDSMP  354
+              +   E L   + S+P
+Sbjct  385  TDEEGREHLQKRSMSLP  401
+
+
+>P41739 Aryl hydrocarbon receptor nuclear translocator OS=Rattus norvegicus 
+OX=10116 GN=Arnt PE=1 SV=2
+Length=800
+
+ Score = 75.9 bits (185),  Expect = 7e-13, Method: Compositional matrix adjust.
+ Identities = 83/362 (23%), Positives = 146/362 (40%), Gaps = 62/362 (17%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR T    
+Sbjct  91   RENHSEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSLRGTGNTS  149
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             + +       +   +  I E  DGF+ IV  ++  ++YV++SV   L   Q++  G  L
+Sbjct  150  TDGSYKPSFLTDQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTL  209
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINM--------VLRMKT  170
+             D +HP D D+  +Q          ++L    G   ++   + + M        + RM+ 
+Sbjct  210  YDQVHPDDVDKLREQLSTSENALTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  269
+
+Query  171  VISP------------RGRCLN-LKSALYKSVSFLVHSKVSTGGHVSFM--QGITIP---  212
+              S             R RC N L S       F+V   V   G++      G+++P   
+Sbjct  270  GTSSVDPVSMNRLSFLRNRCRNGLGSVKEGEPHFVV---VHCTGYIKAWPPAGVSLPDDD  326
+
+Query  213  --AGQG-------------TTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYIL  257
+              AGQG             T++ N + M+   +     F +RH  +   TFV  +    +
+Sbjct  327  PEAGQGSKFCLVAIGRLQVTSSPNCTDMSNICQP--TEFISRHNIEGIFTFVDHRCVATV  384
+
+Query  258  KSELKTLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEAT  316
+              + + L+G +  E  HP D  ++  S +++   KG + +  +R  A N    W++T + 
+Sbjct  385  GYQPQELLGKNIVEFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRFRAKNREWLWMRTSSF  444
+
+Query  317  TI  318
+            T 
+Sbjct  445  TF  446
+
+
+>P53762 Aryl hydrocarbon receptor nuclear translocator OS=Mus musculus 
+OX=10090 GN=Arnt PE=1 SV=3
+Length=791
+
+ Score = 75.9 bits (185),  Expect = 7e-13, Method: Compositional matrix adjust.
+ Identities = 85/378 (22%), Positives = 151/378 (40%), Gaps = 63/378 (17%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + LR T    
+Sbjct  91   RENHSEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSLRGTGNTS  149
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             + +       +   +  I E  DGF+ IV  ++  ++YV++SV   L   Q++  G  L
+Sbjct  150  TDGSYKPSFLTDQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTL  209
+
+Query  131  RDFLHPSDYDEFDKQ---SKMLHKPRGEDTDTTGI-----------------NMVLRMKT  170
+             D +HP D D+  +Q   S+     R  D  T  +                 + + RM+ 
+Sbjct  210  YDQVHPDDVDKLREQLSTSENALTGRVLDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  269
+
+Query  171  VISP------------RGRCLN-LKSALYKSVSFLVHSKVSTGGHVSFM--QGITIP---  212
+              S             R RC N L S       F+V   V   G++      G+++P   
+Sbjct  270  GTSSVDPVSMNRLSFLRNRCRNGLGSVKEGEPHFVV---VHCTGYIKAWPPAGVSLPDDD  326
+
+Query  213  --AGQG-------------TTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYIL  257
+              AGQG             T++ N + M+   +     F +RH  +   TFV  +    +
+Sbjct  327  PEAGQGSKFCLVAIGRLQVTSSPNCTDMSNICQP--TEFISRHNIEGIFTFVDHRCVATV  384
+
+Query  258  KSELKTLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEAT  316
+              + + L+G +  E  HP D  ++  S +++   KG + +  +R  +      W++T + 
+Sbjct  385  GYQPQELLGKNIVEFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRFRSKTREWLWMRTSSF  444
+
+Query  317  TITHTTKGQKGQYVICVH  334
+            T  +    +  +Y+IC +
+Sbjct  445  TFQNPYSDEI-EYIICTN  461
+
+
+>O08785 Circadian locomoter output cycles protein kaput OS=Mus musculus 
+OX=10090 GN=Clock PE=1 SV=1
+Length=855
+
+ Score = 75.9 bits (185),  Expect = 8e-13, Method: Compositional matrix adjust.
+ Identities = 81/353 (23%), Positives = 152/353 (43%), Gaps = 38/353 (11%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKETTAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVTSLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS-----PRGRCLN  180
+              +++ +F+   ++ E     K+L     E    T     L+ K  +       RG    
+Sbjct  150  VDQSIFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFCCHMLRGTIDP  204
+
+Query  181  LKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMTK  227
+             + + Y+ V F+ + K    VST  H  F   +Q    P+ +       T         K
+Sbjct  205  KEPSTYEYVRFIGNFKSLTSVSTSTHNGFEGTIQRTHRPSYEDRVCFVATVRLATPQFIK  264
+
+Query  228  ---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K 
+Sbjct  265  EMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLENLAKC  324
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+             + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+
+Sbjct  325  HEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVV  376
+
+
+>Q95LD9 Aryl hydrocarbon receptor OS=Delphinapterus leucas OX=9749 GN=AHR 
+PE=2 SV=1
+Length=845
+
+ Score = 75.9 bits (185),  Expect = 8e-13, Method: Compositional matrix adjust.
+ Identities = 81/369 (22%), Positives = 155/369 (42%), Gaps = 47/369 (13%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR--------LRK  66
+            + RH  RDR + E    D L   +P  ++  V  LD++++LR++ +  R        L+ 
+Sbjct  36   SKRH--RDRLNTE---LDRLASLLPFPQD-VVNKLDKLSVLRLSVSYLRAKSFFDVALKS  89
+
+Query  67   TAG--NVLENNLDNEITNEVWTEDT--IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+            T    N +++N   +    +  ++   + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  90   TPADRNGVQDNCRTKFREGLNLQEGEFLLQALNGFVLVVTTDALVFYASSTIQDYLGFQQ  149
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKP-----RGEDTD-TTGINMVL----------  166
+            +D+  +++ + +H  D  EF +Q      P      G+  D   G++             
+Sbjct  150  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCPDSGQKMDEANGLSQPAVYYNPDQVPP  209
+
+Query  167  ----RMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANA  222
+                 M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A
+Sbjct  210  ENSSSMERCFVCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGSILPP-QLALFAIA  268
+
+Query  223  SAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPAD  277
+            + +   +     +    F T+H  D   T    K   +L  +E +  M  S Y+ +H AD
+Sbjct  269  TPLQPPSILEIRTKNFIFRTKHKLDFTPTGCDAKGRIVLGYTEAELCMRGSGYQFIHAAD  328
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            M+  ++    +   G      +RL+  ++   W+Q+ A  +    K  +  Y+I     L
+Sbjct  329  MLYCAEYHIRMIKTGESGLIVFRLLTKDNRWTWVQSNARLV---YKNGRPDYIIATQRPL  385
+
+Query  338  GIQGAEESL  346
+              +   E L
+Sbjct  386  TDEEGTEHL  394
+
+
+>Q5ZQU2 Neuronal PAS domain-containing protein 2 OS=Gallus gallus OX=9031 
+GN=NPAS2 PE=1 SV=1
+Length=815
+
+ Score = 75.9 bits (185),  Expect = 8e-13, Method: Compositional matrix adjust.
+ Identities = 77/370 (21%), Positives = 153/370 (41%), Gaps = 55/370 (15%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALL-RVAAT  60
+            ED + R    +R +   + + RR + + +  +L   +P    G    +D+  +L +V   
+Sbjct  3    EDEKDRA---KRASRNKSEKKRRDQFNVLIKELSSMLP----GNTRKMDKTTVLEKVIGF  55
+
+Query  61   ICRLRKTAGNVLENNLDNE-----ITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVA  115
+            + +  + +     + +  +     ++NE +T+  + E LDGF++ V +  SI+YV++S+ 
+Sbjct  56   LQKHNEVSAQTEISEIQQDWKPSFLSNEEFTQ-LMLEALDGFIIAVTTGGSIIYVSDSIT  114
+
+Query  116  MYLGLTQTDLTGRALRDFLHPSDYDEFDKQ--SKML--------------------HKPR  153
+              LG    D+  + L +FL   ++ E  K   S ML                    H  R
+Sbjct  115  PLLGHLPCDVLDQNLLNFLPEQEHSEIYKMLSSCMLMTDSASSDCLKTDNELEFYCHLLR  174
+
+Query  154  G-----EDTDTTGINMVLRMKTVIS-PRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQ  207
+            G     E      I  V   ++  + P   C     A+ ++       + S G  + F+ 
+Sbjct  175  GSLNPKEFPTYEYIKFVGNFRSYSNVPNSTCNGFDEAVPRAY------RASPGKQICFVA  228
+
+Query  208  GITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGT  267
+             + +   Q              E P+  FT+RH+ + +  F+  +   I+      ++GT
+Sbjct  229  TVRLATPQFLKEMC------IVEEPLEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGT  282
+
+Query  268  SFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKG  327
+            S Y+  H  D+ ++++  + L   G  ++  YR +       W+QT    IT+     K 
+Sbjct  283  SGYDYYHIDDLELLARCHEHLMQFGKGKSCCYRFLTKGQQWIWLQTHY-YITYHQWNSKP  341
+
+Query  328  QYVICVHYVL  337
+            ++++C H V+
+Sbjct  342  EFIVCTHMVV  351
+
+
+>O15516 Circadian locomoter output cycles protein kaput OS=Homo sapiens 
+OX=9606 GN=CLOCK PE=1 SV=1
+Length=846
+
+ Score = 75.5 bits (184),  Expect = 1e-12, Method: Compositional matrix adjust.
+ Identities = 80/353 (23%), Positives = 152/353 (43%), Gaps = 38/353 (11%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVTSLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS-----PRGRCLN  180
+              +++ +F+   ++ E     K+L     E    T     L+ K  +       RG    
+Sbjct  150  VDQSIFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFCCHMLRGTIDP  204
+
+Query  181  LKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMTK  227
+             + + Y+ V F+ + K    VS+  H  F   +Q    P+ +       T         K
+Sbjct  205  KEPSTYEYVKFIGNFKSLNSVSSSAHNGFEGTIQRTHRPSYEDRVCFVATVRLATPQFIK  264
+
+Query  228  ---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K 
+Sbjct  265  EMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLENLAKC  324
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+             + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+
+Sbjct  325  HEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVV  376
+
+
+>P41738 Aryl hydrocarbon receptor OS=Rattus norvegicus OX=10116 GN=Ahr 
+PE=1 SV=2
+Length=853
+
+ Score = 74.7 bits (182),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 79/377 (21%), Positives = 151/377 (40%), Gaps = 47/377 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR--------LRK  66
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R        L+ 
+Sbjct  35   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  88
+
+Query  67   TAGNVLENNLDNEITNEVWTE----DTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQ  122
+            T  +              W +    + + + L+GFV++V +D+ + Y + ++  YLG  Q
+Sbjct  89   TPADRSRGQDQCRAQVRDWQDLQEGEFLLQALNGFVLVVTADALVFYASSTIQDYLGFQQ  148
+
+Query  123  TDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGIN-------------------  163
+            +D+  +++ + +H  D  EF +Q      P        G++                   
+Sbjct  149  SDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTDSAQGVDETHGLPQPAVYYTPDQLPP  208
+
+Query  164  -MVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANA  222
+                 M+     R RCL   S+ + +++F    K   G +     G  +P  Q    A A
+Sbjct  209  ENTAFMERCFRCRLRCLLDNSSGFLAMNFQGRLKYLHGQNKKGKDGALLPP-QLALFAIA  267
+
+Query  223  SAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPAD  277
+            + +   +     +    F T+H  D        K   IL  +E++     S Y+ +H AD
+Sbjct  268  TPLQPPSILEIRTKNFIFRTKHKLDFTPIGCDAKGQLILGYTEVELCNKGSGYQFIHAAD  327
+
+Query  278  MMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            M+  ++S   +   G      +RL+A +    W+Q+ A  I    +  +  Y+I     L
+Sbjct  328  MLHCAESHIRMIKTGESGMTVFRLLAKHSRWRWVQSNARLI---YRNGRPDYIIATQRPL  384
+
+Query  338  GIQGAEESLVVCTDSMP  354
+              +   E L   + ++P
+Sbjct  385  TDEEGREHLQKRSMTLP  401
+
+
+>Q91YB0 Circadian locomoter output cycles protein kaput OS=Nannospalax 
+galili OX=1026970 GN=Clock PE=1 SV=1
+Length=865
+
+ Score = 74.7 bits (182),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 85/372 (23%), Positives = 156/372 (42%), Gaps = 48/372 (13%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVTSLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS-----PRGRCLN  180
+              +++ +F+   ++ E     K+L     E    T     L+ K  +       RG    
+Sbjct  150  VDQSVFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFCCHMLRGTVDP  204
+
+Query  181  LKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMTK  227
+             + + Y+ V F+ + K    V T  H  F   +Q    P+ +       T         K
+Sbjct  205  KEPSTYEYVRFIGNFKSLNSVPTSAHNGFEGTIQRTHRPSYEDRVCFVATVRLATPQFIK  264
+
+Query  228  ---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K 
+Sbjct  265  EMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLENLAKC  324
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQ----  340
+             + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+       
+Sbjct  325  HEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVVSYAEVRA  383
+
+Query  341  ------GAEESL  346
+                  G EESL
+Sbjct  384  ERRRELGIEESL  395
+
+
+>Q91YB2 Circadian locomoter output cycles protein kaput OS=Spalax carmeli 
+OX=164324 GN=Clock PE=2 SV=1
+Length=865
+
+ Score = 74.7 bits (182),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 85/372 (23%), Positives = 156/372 (42%), Gaps = 48/372 (13%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVTSLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS-----PRGRCLN  180
+              +++ +F+   ++ E     K+L     E    T     L+ K  +       RG    
+Sbjct  150  VDQSVFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFCCHMLRGTIDP  204
+
+Query  181  LKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMTK  227
+             + + Y+ V F+ + K    V T  H  F   +Q    P+ +       T         K
+Sbjct  205  KEPSTYEYVRFIGNFKSLNSVPTSAHNGFEGTIQRTHRPSYEDRVCFVATVRLATPQFIK  264
+
+Query  228  ---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K 
+Sbjct  265  EMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLENLAKC  324
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQ----  340
+             + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+       
+Sbjct  325  HEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVVSYAEVRA  383
+
+Query  341  ------GAEESL  346
+                  G EESL
+Sbjct  384  ERRRELGIEESL  395
+
+
+>Q5RAK8 Circadian locomoter output cycles protein kaput OS=Pongo abelii 
+OX=9601 GN=CLOCK PE=2 SV=1
+Length=846
+
+ Score = 73.2 bits (178),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 79/353 (22%), Positives = 151/353 (43%), Gaps = 38/353 (11%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVTSLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS-----PRGRCLN  180
+              +++ +F+   ++ E     K+L     E    T     L+ K  +       RG    
+Sbjct  150  VDQSIFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFCCHMLRGTIDP  204
+
+Query  181  LKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMTK  227
+             + + Y+ V F+ + K    VS+  H  F   +Q    P+ +       T         K
+Sbjct  205  KEPSTYEYVKFIGNFKSLNSVSSSAHNGFEGTIQRTHRPSYEDRVCFVATVRLATPQFIK  264
+
+Query  228  ---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKS  284
+                 E P   F +RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K 
+Sbjct  265  EMCTVEEPNEEFASRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLENLAKC  324
+
+Query  285  MKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+             + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+
+Sbjct  325  HEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVV  376
+
+
+>Q9DG12 Aryl hydrocarbon receptor nuclear translocator 2 OS=Danio rerio 
+OX=7955 GN=arnt2 PE=1 SV=2
+Length=737
+
+ Score = 72.4 bits (176),  Expect = 8e-12, Method: Compositional matrix adjust.
+ Identities = 85/373 (23%), Positives = 151/373 (40%), Gaps = 53/373 (14%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + +R T    
+Sbjct  80   RENHSEIERRRRNKMTQYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSMRGTGNTS  138
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         E   +  I E  DGF+ +V +++  ++YV++SV   L   Q++  G  L
+Sbjct  139  TDGAYKPSFLTEQELKHLILEAADGFLFVVAAETGRVIYVSDSVTPVLNHPQSEWFGSTL  198
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             + +HP D D+  +Q          ++L    G   ++   + + M +  +     R RC
+Sbjct  199  FEQVHPDDVDKLREQLSTSENSMTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  258
+
+Query  179  ---------LNLKSALYKSVSFLV---------HSKVSTGGHVSFM--QGITIP-----A  213
+                     LN  S++ K     +         +S V   G++      G+TIP     A
+Sbjct  259  GSAPLDHISLNRLSSMRKRYRNGLGPSKEGEAQYSVVHCTGYIKAWPPAGMTIPDEDTEA  318
+
+Query  214  GQGTTNA-NASAMTKYTESPMG----------AFTTRHTCDMRITFVSDKFNYILKSELK  262
+            GQ +     A    + T SP+            F +RH  D  ITFV  +   ++  + +
+Sbjct  319  GQTSKYCLVAIGRLQVTSSPVSMDMNGLSVPTEFLSRHNSDGIITFVDPRCINVIGYQPQ  378
+
+Query  263  TLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTITHT  321
+             L+G    E  HP D   + +S +++   KG + +  YR    N     I+T + T  + 
+Sbjct  379  DLLGKDILEFCHPEDQSHLRESFQQVVKLKGQVLSVMYRFRMKNREWMLIRTSSFTFQNP  438
+
+Query  322  TKGQKGQYVICVH  334
+               +  +Y+IC +
+Sbjct  439  YSDEI-EYIICTN  450
+
+
+>Q61324 Aryl hydrocarbon receptor nuclear translocator 2 OS=Mus musculus 
+OX=10090 GN=Arnt2 PE=1 SV=2
+Length=712
+
+ Score = 72.4 bits (176),  Expect = 9e-12, Method: Compositional matrix adjust.
+ Identities = 83/373 (22%), Positives = 150/373 (40%), Gaps = 53/373 (14%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + +R T    
+Sbjct  65   RENHSEIERRRRNKMTQYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSMRGTGNKS  123
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         E   +  I E  DGF+ +V +++  ++YV++SV   L   Q++  G  L
+Sbjct  124  TDGAYKPSFLTEQELKHLILEAADGFLFVVAAETGRVIYVSDSVTPVLNQPQSEWFGSTL  183
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             + +HP D ++  +Q          ++L    G   ++   + + M +  +     R RC
+Sbjct  184  YEQVHPDDVEKLREQLCTSENSMTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  243
+
+Query  179  ---------LNLKSALYKSVSFLV---------HSKVSTGGHVSFM--QGITIP-----A  213
+                     LN  + + K     +         ++ V   G++      G+TIP      
+Sbjct  244  GNAPLDHLPLNRITTMRKRFRNGLGPVKEGEAQYAVVHCTGYIKAWPPAGMTIPEEDADV  303
+
+Query  214  GQGTTNA-NASAMTKYTESPM----------GAFTTRHTCDMRITFVSDKFNYILKSELK  262
+            GQG+     A    + T SP+            F +RH  D  ITFV  +   ++  + +
+Sbjct  304  GQGSKYCLVAIGRLQVTSSPVCMDMSGMSVPTEFLSRHNSDGIITFVDPRCISVIGYQPQ  363
+
+Query  263  TLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTITHT  321
+             L+G    E  HP D   + +S +++   KG + +  YR    N     I+T + T  + 
+Sbjct  364  DLLGKDILEFCHPEDQSHLRESFQQVVKLKGQVLSVMYRFRTKNREWLLIRTSSFTFQNP  423
+
+Query  322  TKGQKGQYVICVH  334
+               +  +YVIC +
+Sbjct  424  YSDEI-EYVICTN  435
+
+
+>Q91YA8 Circadian locomoter output cycles protein kaput OS=Spalax judaei 
+OX=134510 GN=Clock PE=2 SV=1
+Length=865
+
+ Score = 72.4 bits (176),  Expect = 9e-12, Method: Compositional matrix adjust.
+ Identities = 80/363 (22%), Positives = 153/363 (42%), Gaps = 41/363 (11%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ED++ +    +R +   + + RR + + +  +L   +P    G    +D+  +L+ +   
+Sbjct  28   EDDKNK---AKRVSRNKSEKKRRDQFNVLIKELGSMLP----GNAREMDKSTVLQKSIDF  80
+
+Query  62   CRLRKT------AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVA  115
+             R  K       A  + ++     ++NE +T+  + E LDGF + + +D SI+YV+ESV 
+Sbjct  81   LRKHKEITAQSDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGSIIYVSESVT  139
+
+Query  116  MYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVIS--  173
+              L    +DL  +++ +F+   ++ E     K+L     E    T     L+ K  +   
+Sbjct  140  SLLEHLPSDLVDQSVFNFIPEGEHSEV---YKILSTHLLESDSLTP--EYLKSKNQLEFC  194
+
+Query  174  ---PRGRCLNLKSALYKSVSFLVHSK----VSTGGHVSFMQGITIPAGQGTTNANASAMT  226
+                RG     + + Y+ + F+ + K    V T  H  F   I         +   S  T
+Sbjct  195  CHMLRGTIDPKEPSTYEYMRFIGNFKSLNSVPTSAHNGFEGTIQRTHRLSYEDRVCSVAT  254
+
+Query  227  KY------------TESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVH  274
+                           E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H
+Sbjct  255  VRLATPQFIKEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYH  314
+
+Query  275  PADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVH  334
+              D+  ++K  + L   G  ++ YYR +       W+QT    IT+     + ++++C H
+Sbjct  315  VDDLENLAKCHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTH  373
+
+Query  335  YVL  337
+             V+
+Sbjct  374  TVV  376
+
+
+>Q9HBZ2 Aryl hydrocarbon receptor nuclear translocator 2 OS=Homo sapiens 
+OX=9606 GN=ARNT2 PE=1 SV=2
+Length=717
+
+ Score = 72.0 bits (175),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 82/373 (22%), Positives = 150/373 (40%), Gaps = 53/373 (14%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + +R T    
+Sbjct  65   RENHSEIERRRRNKMTQYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSMRGTGNKS  123
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         E   +  I E  DGF+ +V +++  ++YV++SV   L   Q++  G  L
+Sbjct  124  TDGAYKPSFLTEQELKHLILEAADGFLFVVAAETGRVIYVSDSVTPVLNQPQSEWFGSTL  183
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             + +HP D ++  +Q          ++L    G   ++   + + M +  +     R RC
+Sbjct  184  YEQVHPDDVEKLREQLCTSENSMTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  243
+
+Query  179  ---------LNLKSALYKSVSFLV---------HSKVSTGGHVSFM--QGITIP-----A  213
+                     LN  + + K     +         ++ V   G++      G+TIP      
+Sbjct  244  GNAPLDHLPLNRITTMRKRFRNGLGPVKEGEAQYAVVHCTGYIKAWPPAGMTIPEEDADV  303
+
+Query  214  GQGTTNA-NASAMTKYTESPM----------GAFTTRHTCDMRITFVSDKFNYILKSELK  262
+            GQG+     A    + T SP+            F +RH  D  ITFV  +   ++  + +
+Sbjct  304  GQGSKYCLVAIGRLQVTSSPVCMDMNGMSVPTEFLSRHNSDGIITFVDPRCISVIGYQPQ  363
+
+Query  263  TLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTITHT  321
+             L+G    E  HP D   + +S +++   KG + +  YR    N     I+T + T  + 
+Sbjct  364  DLLGKDILEFCHPEDQSHLRESFQQVVKLKGQVLSVMYRFRTKNREWMLIRTSSFTFQNP  423
+
+Query  322  TKGQKGQYVICVH  334
+               +  +Y+IC +
+Sbjct  424  YSDEI-EYIICTN  435
+
+
+>P35869 Aryl hydrocarbon receptor OS=Homo sapiens OX=9606 GN=AHR PE=1 
+SV=2
+Length=848
+
+ Score = 72.0 bits (175),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 82/370 (22%), Positives = 151/370 (41%), Gaps = 48/370 (13%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRK--------  66
+            + RH  RDR + E    D L   +P  ++  +  LD++++LR++ +  R +         
+Sbjct  36   SKRH--RDRLNTE---LDRLASLLPFPQD-VINKLDKLSVLRLSVSYLRAKSFFDVALKS  89
+
+Query  67   --TAGNVLENNLDNEITNE---VWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLT  121
+              T  N  ++N       E   +   + + + L+GFV++V +D+ + Y + ++  YLG  
+Sbjct  90   SPTERNGGQDNCRAANFREGLNLQEGEFLLQALNGFVLVVTTDALVFYASSTIQDYLGFQ  149
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRM-KTVI--------  172
+            Q+D+  +++ + +H  D  EF +Q      P        GI     + +TV+        
+Sbjct  150  QSDVIHQSVYELIHTEDRAEFQRQLHWALNPSQCTESGQGIEEATGLPQTVVCYNPDQIP  209
+
+Query  173  ---SP--------RGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNAN  221
+               SP        R RCL   S+ + +++F    K   G       G  +P  Q    A 
+Sbjct  210  PENSPLMERCFICRLRCLLDNSSGFLAMNFQGKLKYLHGQKKKGKDGSILPP-QLALFAI  268
+
+Query  222  ASAMTKYT----ESPMGAFTTRHTCDMRITFVSDKFNYILK-SELKTLMGTSFYELVHPA  276
+            A+ +   +     +    F T+H  D        K   +L  +E +     S Y+ +H A
+Sbjct  269  ATPLQPPSILEIRTKNFIFRTKHKLDFTPIGCDAKGRIVLGYTEAELCTRGSGYQFIHAA  328
+
+Query  277  DMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYV  336
+            DM+  ++S   +   G      +RL+  N+   W+Q+ A  +    K  +  Y+I     
+Sbjct  329  DMLYCAESHIRMIKTGESGMIVFRLLTKNNRWTWVQSNARLL---YKNGRPDYIIVTQRP  385
+
+Query  337  LGIQGAEESL  346
+            L  +   E L
+Sbjct  386  LTDEEGTEHL  395
+
+
+>Q78E60 Aryl hydrocarbon receptor nuclear translocator 2 OS=Rattus norvegicus 
+OX=10116 GN=Arnt2 PE=2 SV=1
+Length=712
+
+ Score = 71.2 bits (173),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 82/373 (22%), Positives = 150/373 (40%), Gaps = 53/373 (14%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      R RR+K +    +L   VP          D++ +LR+A +  + +R T    
+Sbjct  65   RENHSEIERRRRNKMTQYITELSDMVPTCS-ALARKPDKLTILRMAVSHMKSMRGTGNKS  123
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+             +         E   +  I E  DGF+ +V +++  ++YV++SV   L   Q++  G  L
+Sbjct  124  TDGAYKPSFLTEQELKHLILEAADGFLFVVAAETGRVIYVSDSVTPVLNQPQSEWFGSTL  183
+
+Query  131  RDFLHPSDYDEFDKQ---------SKMLHKPRG---EDTDTTGINMVLRMKTVISPRGRC  178
+             + +HP D ++  +Q          ++L    G   ++   + + M +  +     R RC
+Sbjct  184  YEQVHPDDVEKLREQLCTSENSMTGRILDLKTGTVKKEGQQSSMRMCMGSRRSFICRMRC  243
+
+Query  179  ---------LNLKSALYKSVSFLV---------HSKVSTGGHVSFM--QGITIP-----A  213
+                     LN  + + K     +         ++ V   G++      G++IP      
+Sbjct  244  GNAPLDHLPLNRITTMRKRFRNGLGPVKEGEAQYAVVHCTGYIKAWPPAGMSIPEEDADV  303
+
+Query  214  GQGTTNA-NASAMTKYTESPM----------GAFTTRHTCDMRITFVSDKFNYILKSELK  262
+            GQG+     A    + T SP+            F +RH  D  ITFV  +   ++  + +
+Sbjct  304  GQGSKYCLVAIGRLQVTSSPVCMDMSGMSVPTEFLSRHNSDGIITFVDPRCISVIGYQPQ  363
+
+Query  263  TLMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLIAANDTLAWIQTEATTITHT  321
+             L+G    E  HP D   + +S +++   KG + +  YR    N     I+T + T  + 
+Sbjct  364  DLLGKDILEFCHPEDQSHLRESFQQVVKLKGQVLSVMYRFRTKNREWLLIRTSSFTFQNP  423
+
+Query  322  TKGQKGQYVICVH  334
+               +  +YVIC +
+Sbjct  424  YSDEI-EYVICTN  435
+
+
+>Q8QGQ6 Circadian locomoter output cycles protein kaput OS=Gallus gallus 
+OX=9031 GN=CLOCK PE=1 SV=2
+Length=875
+
+ Score = 69.7 bits (169),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 76/354 (21%), Positives = 149/354 (42%), Gaps = 40/354 (11%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D +I+YV+ESV   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGNIIYVSESVTPLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDK--QSKMLHK----PRGEDTDTTGINMVLRMKTVISPRGRCL  179
+              +++ +F+   ++ E  K   S +L      P    +          ++  I P+    
+Sbjct  150  VDQSVFNFIPEGEHSEIYKILSSHLLESDSLTPEYLKSKNQLEFCCHMLRGTIDPK----  205
+
+Query  180  NLKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQ------GTTNANASAMT  226
+              +   Y+ V F+ + K    V    H  F   +Q    P+ +       T         
+Sbjct  206  --EQPTYEYVKFIGNFKCLNNVPNSAHNGFEGTIQRSHRPSYEDKVCFIATVRLATPQFI  263
+
+Query  227  K---YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSK  283
+            K     E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K
+Sbjct  264  KEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLDNLAK  323
+
+Query  284  SMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+              + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+
+Sbjct  324  CHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVV  376
+
+
+>Q6YGZ4 Circadian locomoter output cycles protein kaput OS=Tyto alba 
+OX=56313 GN=CLOCK PE=2 SV=1
+Length=851
+
+ Score = 68.2 bits (165),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 75/354 (21%), Positives = 152/354 (43%), Gaps = 40/354 (11%)
+
+Query  12   RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKT----  67
+            +R +   + + RR + + +  +L   +P    G    +D+  +L+ +    R  K     
+Sbjct  35   KRVSRNKSEKKRRDQFNVLIKELGSMLP----GNARKMDKSTVLQKSIDFLRKHKEITAQ  90
+
+Query  68   --AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDL  125
+              A  + ++     ++NE +T+  + E LDGF + + +D +I+YV+ES+   L    +DL
+Sbjct  91   SDASEIRQDWKPTFLSNEEFTQ-LMLEALDGFFLAIMTDGNIIYVSESITPLLEHLPSDL  149
+
+Query  126  TGRALRDFLHPSDYDEFDK--QSKMLHK----PRGEDTDTTGINMVLRMKTVISPRGRCL  179
+              +++ +F+   ++ E  K   S +L      P    +          ++  I P+    
+Sbjct  150  VDQSVFNFIPEGEHSEIYKILSSHLLESDSLTPEYLKSKNQLEFCCHMLRGTIDPK----  205
+
+Query  180  NLKSALYKSVSFLVHSK----VSTGGHVSF---MQGITIPAGQGTTNANAS---AMTKY-  228
+              +   Y+ V F+ + K    V    H  F   +Q    P+ +      A+   A  ++ 
+Sbjct  206  --EQPTYEYVKFIGNFKCLNNVPNSAHNGFEGTIQRSHRPSYEDKVCFVATVRLATPQFI  263
+
+Query  229  -----TESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSK  283
+                  E P   FT+RH+ + +  F+  +   I+      ++GTS Y+  H  D+  ++K
+Sbjct  264  KEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYLPFEVLGTSGYDYYHVDDLDNLAK  323
+
+Query  284  SMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+              + L   G  ++ YYR +       W+QT    IT+     + ++++C H V+
+Sbjct  324  CHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHY-YITYHQWNSRPEFIVCTHTVV  376
+
+
+>Q2VPD4 Aryl hydrocarbon receptor nuclear translocator-like protein 2 
+OS=Mus musculus OX=10090 GN=Arntl2 PE=1 SV=2
+Length=579
+
+ Score = 66.6 bits (161),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 89/381 (23%), Positives = 146/381 (38%), Gaps = 44/381 (12%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKTAGNV  71
+            RE      + RR K + +   L   +P     T   LD++++LR A    R LR      
+Sbjct  50   REAHSQMEKRRRDKMNHLIQKLSSMIP-PHIPTAHKLDKLSVLRRAVQYLRSLRGMTELY  108
+
+Query  72   LENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDLTGRAL  130
+            L  N       +      I +  +GF+ +V  +   I YV++SV+  L   Q  L G+ L
+Sbjct  109  LGENSKPSFIQDKELSHLILKAAEGFLFVVGCERGRIFYVSKSVSKTLRYDQASLIGQNL  168
+
+Query  131  RDFLHPSDYDEFDKQSKMLHKPRGE--DTDTTGI-----------------NMVLRMKTV  171
+             DFLHP D  +  +Q      PR +  DT T+ +                 +   RMK+ 
+Sbjct  169  FDFLHPKDVAKVKEQLSCDGSPREKPIDTKTSQVYSHPYTGRPRMHSGSRRSFFFRMKSC  228
+
+Query  172  ISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSF---MQGITIPAGQGTTNANASAMT--  226
+              P        S   K      H+   TG   S+   + G+   +G G  +   + +   
+Sbjct  229  TVPVKEEQPCSSCSKKKDHRKFHTVHCTGYLRSWPLNVVGMEKESGGGKDSGPLTCLVAM  288
+
+Query  227  -------------KYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELV  273
+                         K    P   F TR   + +  +V  +   IL    + L+GTS YE  
+Sbjct  289  GRLHPYIVPQKSGKINVRP-AEFITRFAMNGKFVYVDQRATAILGYLPQELLGTSCYEYF  347
+
+Query  274  HPADMMIVSKSMKELF-AKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVIC  332
+            H  D   ++   K +  +K  I T  Y+    +     +++E  + T+    ++ +Y++ 
+Sbjct  348  HQDDHSSLTDKHKAVLQSKEKILTDSYKFRVKDGAFVTLKSEWFSFTNPWT-KELEYIVS  406
+
+Query  333  VH-YVLGIQGAEESLVVCTDS  352
+            V+  VLG      SL+ C  S
+Sbjct  407  VNTLVLGRSETRLSLLHCGGS  427
+
+
+>Q8CJH6 Neuronal PAS domain-containing protein 4 OS=Rattus norvegicus 
+OX=10116 GN=Npas4 PE=1 SV=1
+Length=802
+
+ Score = 67.0 bits (162),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 76/335 (23%), Positives = 130/335 (39%), Gaps = 39/335 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRK-----TAG  69
+            +++ A++ RR + +    +LK  +P+ E   V    R++ L + +  C   +       G
+Sbjct  4    STKGASKARRDQINAEIRNLKELLPLAEADKV----RLSYLHIMSLACIYTRKGVFFAGG  59
+
+Query  70   NVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT--G  127
+              L          E+  ED +A  L GF+++  ++  +LY++ESV+ +LG +  DL   G
+Sbjct  60   TPLAGPTGLLSAQEL--EDIVA-ALPGFLLVFTAEGKLLYLSESVSEHLGHSMVDLVAQG  116
+
+Query  128  RALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYK  187
+             ++ D + P+D+    +Q  M   P   D D        R  T  S R +    K  L +
+Sbjct  117  DSIYDIIDPADHLTVRQQLTM---PSALDADRL---FRCRFNTSKSLRRQSAGNKLVLIR  170
+
+Query  188  SVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESP-MGAFTTRHTCDMRI  246
+               F  H   +             P                  S  +  F +RH  D+ +
+Sbjct  171  G-RFHAHPPGAYWAGNPVFTAFCAPLEPRPRPGPGPGPGPGPASLFLAMFQSRHAKDLAL  229
+
+Query  247  TFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAAND  306
+              +S+     L  E   L+  S+Y L+HP D+              H  + +YRL+A N 
+Sbjct  230  LDISESVLIYLGFERSELLCKSWYGLLHPEDL-------------AHASSQHYRLLAENG  276
+
+Query  307  TLAWIQTEATTITHTTKGQKGQYVICVHYVLGIQG  341
+                IQ E         G    ++ C+ Y  G +G
+Sbjct  277  D---IQAEMVVRLQAKHG-GWTWIYCMLYSDGPEG  307
+
+
+>O61735 Circadian locomoter output cycles protein kaput OS=Drosophila 
+melanogaster OX=7227 GN=Clk PE=1 SV=3
+Length=1027
+
+ Score = 66.2 bits (160),  Expect = 8e-10, Method: Compositional matrix adjust.
+ Identities = 79/366 (22%), Positives = 143/366 (39%), Gaps = 56/366 (15%)
+
+Query  13   RETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA---G  69
+            R++   + + RR + + + +DL   +      +   +D+  +L+      +    A    
+Sbjct  17   RKSRNLSEKKRRDQFNSLVNDLSALI----STSSRKMDKSTVLKSTIAFLKNHNEATDRS  72
+
+Query  70   NVLENNLDNE---ITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT  126
+             V E   D +   ++N+ +T   + E LDGF+M+  S  SI Y +ES+   LG    DL 
+Sbjct  73   KVFEIQQDWKPAFLSNDEYTH-LMLESLDGFMMVFSSMGSIFYASESITSQLGYLPQDLY  131
+
+Query  127  GRALRDFLHPSDYDE----FDKQSKMLHKPRGEDTDTTG-INMVLRMKTVISPRGRCLNL  181
+               + D  +  D++     F   + ++ +PR  D  ++  I     ++     RG    +
+Sbjct  132  NMTIYDLAYEMDHEALLNIFMNPTPVI-EPRQTDISSSNQITFYTHLR-----RGGMEKV  185
+
+Query  182  KSALYKSVSFLVH----SKVSTGGHVSFMQGITIPAGQGTT-------NANASAMTKYTE  230
+             +  Y+ V F+ +    +  STG       G     GQ          N NA    K   
+Sbjct  186  DANAYELVKFVGYFRNDTNTSTGSSSEVSNGSN---GQPAVLPRIFQQNPNAEVDKKLVF  242
+
+Query  231  SPMG-------------------AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYE  271
+               G                    FT++H+ + +  F+  +   I+      ++GTS Y+
+Sbjct  243  VGTGRVQNPQLIREMSIIDPTSNEFTSKHSMEWKFLFLDHRAPPIIGYMPFEVLGTSGYD  302
+
+Query  272  LVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVI  331
+              H  D+  +    +EL   G  ++ YYR +       W+QT+     H     K  YV+
+Sbjct  303  YYHFDDLDSIVACHEELRQTGEGKSCYYRFLTKGQQWIWLQTDYYVSYHQFNS-KPDYVV  361
+
+Query  332  CVHYVL  337
+            C H V+
+Sbjct  362  CTHKVV  367
+
+
+>Q8IUM7 Neuronal PAS domain-containing protein 4 OS=Homo sapiens OX=9606 
+GN=NPAS4 PE=1 SV=1
+Length=802
+
+ Score = 65.5 bits (158),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 75/334 (22%), Positives = 130/334 (39%), Gaps = 39/334 (12%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRK-----TAG  69
+            +++ A++ RR + +    +LK  +P+ E   V    R++ L + +  C   +       G
+Sbjct  4    STKGASKARRDQINAEIRNLKELLPLAEADKV----RLSYLHIMSLACIYTRKGVFFAGG  59
+
+Query  70   NVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT--G  127
+              L          E+  ED +A  L GF+++  ++  +LY++ESV+ +LG +  DL   G
+Sbjct  60   TPLAGPTGLLSAQEL--EDIVA-ALPGFLLVFTAEGKLLYLSESVSEHLGHSMVDLVAQG  116
+
+Query  128  RALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYK  187
+             ++ D + P+D+    +Q   L  P   DTD        R  T  S R +    K  L +
+Sbjct  117  DSIYDIIDPADHLTVRQQ---LTLPSALDTDRL---FRCRFNTSKSLRRQSAGNKLVLIR  170
+
+Query  188  SVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRIT  247
+               F  H   +             P  +                 +  F +RH  D+ + 
+Sbjct  171  G-RFHAHPPGAYWAGNPVFTAFCAPL-EPRPRPGPGPGPGPASLFLAMFQSRHAKDLALL  228
+
+Query  248  FVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIAANDT  307
+             +S+     L  E   L+  S+Y L+HP D+              H    +YRL+A +  
+Sbjct  229  DISESVLIYLGFERSELLCKSWYGLLHPEDL-------------AHASAQHYRLLAESGD  275
+
+Query  308  LAWIQTEATTITHTTKGQKGQYVICVHYVLGIQG  341
+               IQ E         G    ++ C+ Y  G +G
+Sbjct  276  ---IQAEMVVRLQAKTGGWA-WIYCLLYSEGPEG  305
+
+
+>O02219 Aryl hydrocarbon receptor nuclear translocator homolog OS=Caenorhabditis 
+elegans OX=6239 GN=aha-1 PE=1 SV=1
+Length=453
+
+ Score = 64.7 bits (156),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 76/324 (23%), Positives = 129/324 (40%), Gaps = 35/324 (11%)
+
+Query  1    MEDNRKRNMER-RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAA  59
+            MED    N ER  RE      R RR+K +   ++L   VP          D++ +LR+A 
+Sbjct  33   MEDEMGENKERFARENHSEIERRRRNKMTHYINELAEMVPQCA-SLGRKPDKLTILRMA-  90
+
+Query  60   TICRLRKTAGNVL--ENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAM  116
+             +  ++   G+    E +       +   +  I E  +GF+ +V   +  +LYV +S+  
+Sbjct  91   -VSHMKGIRGHTAQDETSYKPSFLTDQELKHLILEAANGFLFVVCCQTGKVLYVADSITP  149
+
+Query  117  YLGLTQTDLTGRALRDFLHPSDYDEFDKQ--------SKMLHKPRG---EDTDTTGINMV  165
+             L L Q D   R L + +HP D D+   Q        +K+L    G    +  +T ++M 
+Sbjct  150  VLNLKQEDWLQRNLNELIHPDDQDKIRDQLCGSEVSVNKVLDLKSGSVKREGASTRVHMS  209
+
+Query  166  LRMKTVISPRGRCLNLKSALYKSVSFLVHSK-----VSTGGHVSFM--QGITIPAGQGTT  218
+             R   +   R   L     L        H+      +   G++     QGI  PA     
+Sbjct  210  CRRGFICRMRVGALEPLHRLRNRRPLFQHAGQNYVVMHCTGYIKNAPPQGINAPASSCLV  269
+
+Query  219  NANASAMTKYTESPMGA-------FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYE  271
+               A A  +    P+ A       F+ R + D ++TF+  + + ++      L+G  ++ 
+Sbjct  270  ---AIARLQVASMPVCADPTSTNQFSVRVSEDGKMTFIDARVSDLIGLSSDQLIGRYWWN  326
+
+Query  272  LVHPADMMIVSKSMKELFAKGHIR  295
+            L HPAD   +  S   L +   +R
+Sbjct  327  LAHPADEKTLQDSFVALLSDQPMR  350
+
+
+>Q91YA9 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Nannospalax galili OX=1026970 GN=Arntl PE=1 SV=1
+Length=626
+
+ Score = 63.9 bits (154),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  129  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>O00327 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Homo sapiens OX=9606 GN=ARNTL PE=1 SV=2
+Length=626
+
+ Score = 63.9 bits (154),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  129  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>A0MLS5 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Equus caballus OX=9796 GN=ARNTL PE=2 SV=1
+Length=626
+
+ Score = 63.9 bits (154),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  129  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>O88529 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Mesocricetus auratus OX=10036 GN=ARNTL PE=2 SV=1
+Length=626
+
+ Score = 63.9 bits (154),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  129  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>Q9WTL8 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Mus musculus OX=10090 GN=Arntl PE=1 SV=2
+Length=632
+
+ Score = 63.9 bits (154),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  77   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  135
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  136  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  195
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  196  GQSLFDYLHPKDIAKVKEQ  214
+
+
+>Q9I8T7 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Gallus gallus OX=9031 GN=ARNTL PE=1 SV=1
+Length=633
+
+ Score = 63.9 bits (154),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 42/144 (29%), Positives = 69/144 (48%), Gaps = 3/144 (2%)
+
+Query  4    NRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR  63
+            +++  ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +
+Sbjct  72   DQQGRIKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMK  130
+
+Query  64   LRKTAGN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLT  121
+              + A N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +
+Sbjct  131  TLRGATNPYTEANYKPAFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYS  190
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQ  145
+            Q DL G++L D+LHP D  +  +Q
+Sbjct  191  QNDLIGQSLFDYLHPKDIAKVKEQ  214
+
+
+>O15945 Aryl hydrocarbon receptor nuclear translocator homolog OS=Drosophila 
+melanogaster OX=7227 GN=tgo PE=1 SV=3
+Length=642
+
+ Score = 63.9 bits (154),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 83/392 (21%), Positives = 154/392 (39%), Gaps = 67/392 (17%)
+
+Query  1    MEDNRKRNMER--RRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVA  58
+            M++   ++ ER   RE      R RR+K +    +L   VP          D++ +LR+A
+Sbjct  1    MDEANIQDKERFASRENHCEIERRRRNKMTAYITELSDMVPTCS-ALARKPDKLTILRMA  59
+
+Query  59   -ATICRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAM  116
+             A +  LR T     +         +   +  I E  DGF+ +V  DS  ++YV++SV  
+Sbjct  60   VAHMKALRGTGNTSSDGTYKPSFLTDQELKHLILEAADGFLFVVSCDSGRVIYVSDSVTP  119
+
+Query  117  YLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRG  176
+             L  TQ+D  G +L + +HP D ++  +Q         +++   G  + L+  TV    G
+Sbjct  120  VLNYTQSDWYGTSLYEHIHPDDREKIREQLST------QESQNAGRILDLKSGTV-KKEG  172
+
+Query  177  RCLNLKSALYKSVSFLVHSKVST-------GGHVS-FMQGITIPAGQGTTNANASAMTKY  228
+               +++ ++     F+   +V          GH++   Q  ++   +  TN      T Y
+Sbjct  173  HQSSMRLSMGARRGFICRMRVGNVNPESMVSGHLNRLKQRNSLGPSRDGTNYAVVHCTGY  232
+
+Query  229  TES--PMGAF-----------TTRHTCDMRI--------------------TFVS-----  250
+             ++  P   F            + H C + I                     F++     
+Sbjct  233  IKNWPPTDMFPNMHMERDVDDMSSHCCLVAIGRLQVTSTAANDMSGSNNQSEFITRHAMD  292
+
+Query  251  DKFNYILKSELKT-------LMGTSFYELVHPADMMIVSKSMKELFA-KGHIRTPYYRLI  302
+             KF ++ +  L         L+G   Y+  HP D   + +S  ++   KG + +  YR  
+Sbjct  293  GKFTFVDQRVLNILGYTPTELLGKICYDFFHPEDQSHMKESFDQVLKQKGQMFSLLYRAR  352
+
+Query  303  AANDTLAWIQTEATTITHTTKGQKGQYVICVH  334
+            A N    W++T+A    +    +  +Y++C +
+Sbjct  353  AKNSEYVWLRTQAYAFLNPYTDEV-EYIVCTN  383
+
+
+>Q6YGZ5 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Tyto alba OX=56313 GN=ARNTL PE=2 SV=1
+Length=633
+
+ Score = 63.5 bits (153),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 42/144 (29%), Positives = 69/144 (48%), Gaps = 3/144 (2%)
+
+Query  4    NRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR  63
+            +++  ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +
+Sbjct  72   DQQGRIKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMK  130
+
+Query  64   LRKTAGN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLT  121
+              + A N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +
+Sbjct  131  TLRGATNPYTEANYKPAFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYS  190
+
+Query  122  QTDLTGRALRDFLHPSDYDEFDKQ  145
+            Q DL G++L D+LHP D  +  +Q
+Sbjct  191  QNDLIGQSLFDYLHPKDIAKVKEQ  214
+
+
+>Q8BGD7 Neuronal PAS domain-containing protein 4 OS=Mus musculus OX=10090 
+GN=Npas4 PE=1 SV=1
+Length=802
+
+ Score = 63.5 bits (153),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 73/307 (24%), Positives = 122/307 (40%), Gaps = 24/307 (8%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRK-----TAG  69
+            +++ A++ RR + +    +LK  +P+ E   V    R++ L + +  C   +       G
+Sbjct  4    STKGASKARRDQINAEIRNLKELLPLAEADKV----RLSYLHIMSLACIYTRKGVFFAGG  59
+
+Query  70   NVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT--G  127
+              L          E+  ED +A  L GF+++  ++  +LY++ESV+ +LG +  DL   G
+Sbjct  60   TPLAGPTGLLSAQEL--EDIVA-ALPGFLLVFTAEGKLLYLSESVSEHLGHSMVDLVAQG  116
+
+Query  128  RALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYK  187
+             ++ D + P+D+    +Q  M   P   D D        R  T  S R +    K  L +
+Sbjct  117  DSIYDIIDPADHLTVRQQLTM---PSALDADRL---FRCRFNTSKSLRRQSSGNKLVLIR  170
+
+Query  188  SVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESP-MGAFTTRHTCDMRI  246
+               F  H   +             P                  S  +  F +RH  D+ +
+Sbjct  171  G-RFHAHPPGAYWAGNPVFTAFCAPLEPRPRPGPGPGPGPGPASLFLAMFQSRHAKDLAL  229
+
+Query  247  TFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAK-GHIRTP-YYRLIAA  304
+              VS+     L  E   L+  S+Y L+HP D+   S     L A+ G I+     RL A 
+Sbjct  230  LDVSESVLIYLGFERSELLCKSWYGLLHPEDLAQASSQHYRLLAESGDIQAEMVVRLQAK  289
+
+Query  305  NDTLAWI  311
+            +    WI
+Sbjct  290  HGGWTWI  296
+
+
+>Q9EPW1 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Rattus norvegicus OX=10116 GN=Arntl PE=2 SV=4
+Length=626
+
+ Score = 62.8 bits (151),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 42/139 (30%), Positives = 66/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ESV   L  +Q DL 
+Sbjct  129  TNPYTEANYKPTSLSDDELKHLILRAADGFLFVVGCDRGKILFVSESVFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>Q5R4T2 Aryl hydrocarbon receptor nuclear translocator-like protein 1 
+OS=Pongo abelii OX=9601 GN=ARNTL PE=2 SV=1
+Length=625
+
+ Score = 62.0 bits (149),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 41/139 (29%), Positives = 65/139 (47%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTA  68
+            ++  RE      + RR K +   D+L   VP         LD++ +LR+A    +  + A
+Sbjct  70   IKNAREAHSQIEKRRRDKMNSFIDELASLVPTCN-AMSRKLDKLTVLRMAVQHMKTLRGA  128
+
+Query  69   GN-VLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+             N   E N      ++   +  I    DGF+ +V  D   IL+V+ES    L  +Q DL 
+Sbjct  129  TNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVSESAFKILNYSQNDLI  188
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L D+LHP D  +  +Q
+Sbjct  189  GQSLFDYLHPKDIAKVKEQ  207
+
+
+>E7FFX1 Neuronal PAS domain-containing protein 4B OS=Danio rerio OX=7955 
+GN=npas4b PE=3 SV=1
+Length=844
+
+ Score = 61.2 bits (147),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 77/358 (22%), Positives = 149/358 (42%), Gaps = 51/358 (14%)
+
+Query  4    NRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEG----TVTHLDRIALLRVAA  59
+             R   +E+   +++ A++ RR + +     LK  +PI +      +  H+  +A +    
+Sbjct  54   QRFFGLEKMYRSTKGASKARRDQINAEIRSLKELLPISDADKARLSYLHIMSLACIYTRK  113
+
+Query  60   TICRLRKTAGNVLENNLDN--EITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMY  117
+            ++   +  AG+ +  +L +  E+++ + T       L GF++++ S+  +LY++++VA +
+Sbjct  114  SVFFSQAAAGHGMSGSLLSLPELSDLLHT-------LPGFLLVLTSEGKLLYLSDNVAEH  166
+
+Query  118  LGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDTTGINMVLRMKTVISP---  174
+            LG +  DL  ++       S YD  D     + +       T   + + R +   S    
+Sbjct  167  LGHSMVDLVAQS------DSVYDIIDPVDHFIMRGNLVPITTPDTDRLFRCRFSTSKFVR  220
+
+Query  175  -----------RGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANAS  223
+                       R RCL      Y +  +   + V     V F   +     Q +T+ N  
+Sbjct  221  RQGSGNKQAIVRARCL---PPPYHASPYWTSNPV----WVCFCSPLEASMPQLSTSRNPL  273
+
+Query  224  AMTKYTES-PMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVS  282
+                  +S  +  F ++H+ DMRI  V D  +  L  +++TL   S+Y L+HP D+   S
+Sbjct  274  PTPPAEQSFLLSCFQSQHSRDMRIHTVQDSVSVYLGYDIETLRSRSWYSLIHPRDLSHAS  333
+
+Query  283  KSMKELFAKGHIRTP--YYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVH-YVL  337
+                 L   G  R      ++ AA+ +  W+           + + G+Y I  H YV+
+Sbjct  334  AQHCTLLHNGGERQVEMVVQVEAADHSWIWLYI-------VLQLETGEYPINSHNYVI  384
+
+
+>P0DOC7 Neuronal PAS domain-containing protein 4-like OS=Danio rerio 
+OX=7955 GN=npas4l PE=2 SV=1
+Length=647
+
+ Score = 60.5 bits (145),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 69/299 (23%), Positives = 121/299 (40%), Gaps = 58/299 (19%)
+
+Query  5    RKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIAL----LRVAAT  60
+            R     +R  +++ A++ RR + +    +L+  +PI  E  +++L  +++    +R +  
+Sbjct  10   RILRASKRFRSTKGASKARRDQMNSEIRNLRALLPISPEHRLSYLHSMSITCTYIRKSVE  69
+
+Query  61   I--------------------CRLRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMI  100
+            +                    C L+  A  + E  L   +  E   ++ + + L GF++ 
+Sbjct  70   LRGVCEESTVFSAVNGCVPQDCALQDCA--LQECVLQECVLQECVLQECVLQALPGFIVA  127
+
+Query  101  VDSDSSILYVTESVAMYLGLTQTD-LTGRALRDFLHPSDYDEFDKQSKMLHKPRGEDTDT  159
+              +D  +LYV+E+V  YLGL+  D L   +  D L  SD +   +       P GE    
+Sbjct  128  FTTDGKLLYVSENVHEYLGLSMVDVLQSDSFFDMLDRSDVEAV-RSVLADASPSGERW--  184
+
+Query  160  TGINMVLRMKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTN  219
+                +V RM        + + L+S+       LV  ++  G  VS  +    P       
+Sbjct  185  ----VVCRMLV-----SKAMRLRSS---CCPLLVRIRLRDGVCVSLCR----PTADRLPA  228
+
+Query  220  ANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADM  278
+             NA             F T H+ DMR+   S    + L      L+G S+YEL+HP D+
+Sbjct  229  RNAD------------FHTHHSADMRLASASSSVLFHLGFSADELIGRSWYELLHPDDL  275
+
+
+>O44712 Aryl hydrocarbon receptor protein 1 OS=Caenorhabditis elegans 
+OX=6239 GN=ahr-1 PE=1 SV=1
+Length=602
+
+ Score = 60.5 bits (145),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 71/360 (20%), Positives = 142/360 (39%), Gaps = 74/360 (21%)
+
+Query  5    RKRNMERRRE-----TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAA  59
+            R+RN +R R+     T+ + ++  R + +   + + M +P  +  T++ LD++++LR+A 
+Sbjct  7    RQRNFKRVRDPPKQLTNTNPSKRHRERLNGELETVAMLLP-YDSSTISRLDKLSVLRLAV  65
+
+Query  60   TICRLRKTAGNVLENN----------------------------------------LDNE  79
+            +  + +      L N+                                        LD E
+Sbjct  66   SFLQCKAHFQACLHNSQFLSAGFPMSTHSYSYQPHPPIPFSNKVPTIFDLRIGTPMLDPE  125
+
+Query  80   ITNEVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDY  139
+             +N    E+   + L GF+++++ +  I Y +E+V  YLG  Q+D+  + + D +H  D 
+Sbjct  126  ESN---FEEISLKSLGGFILVLNDNGEIYYASENVENYLGFHQSDVLHQPVYDLIHSEDR  182
+
+Query  140  DEFDKQ-SKMLHKPRGEDTDTTGINMVLRMKTV---ISPRGRCLNLKSALYKSVSFLVHS  195
+            D+  +Q     H P    ++   +      K +   ++ R RCL     L  +  FL   
+Sbjct  183  DDIRQQLDSNFHIPTSSASNQFDVFAPQNSKYLERNVNARFRCL-----LDNTCGFL---  234
+
+Query  196  KVSTGGHVSFMQGITIPAGQGTTNANASAMTKYTESPM------------GAFTTRHTCD  243
+            ++   G +  + G+      G T +          +P                 T+H  D
+Sbjct  235  RIDMRGKLMSLHGLPSSYVMGRTASGPVLGMICVCTPFVPPSTSDLASEDMILKTKHQLD  294
+
+Query  244  MRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYRLIA  303
+              +  +  K   +L+ + +T +    Y LVH  D + ++++ KE    G      YRL++
+Sbjct  295  GALVSMDQKVYEMLEID-ETDLPMPLYNLVHVEDAVCMAEAHKEAIKNGSSGLLVYRLVS  353
+
+
+>Q8WYA1 Aryl hydrocarbon receptor nuclear translocator-like protein 2 
+OS=Homo sapiens OX=9606 GN=ARNTL2 PE=1 SV=2
+Length=636
+
+ Score = 58.5 bits (140),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 38/139 (27%), Positives = 68/139 (49%), Gaps = 3/139 (2%)
+
+Query  9    MERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICR-LRKT  67
+            M+  RE      + RR K +++ ++L   +P         LD++ +LR+A    R L+  
+Sbjct  105  MKAFREAHSQTEKRRRDKMNNLIEELSAMIPQCNP-MARKLDKLTVLRMAVQHLRSLKGL  163
+
+Query  68   AGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLGLTQTDLT  126
+              + + +N       +      I +  +GF+ +V  +   IL+V++SV+  L   Q  LT
+Sbjct  164  TNSYVGSNYRPSFLQDNELRHLILKTAEGFLFVVGCERGKILFVSKSVSKILNYDQASLT  223
+
+Query  127  GRALRDFLHPSDYDEFDKQ  145
+            G++L DFLHP D  +  +Q
+Sbjct  224  GQSLFDFLHPKDVAKVKEQ  242
+
+
+>Q8QGQ7 Aryl hydrocarbon receptor nuclear translocator-like protein 2 
+OS=Gallus gallus OX=9031 GN=ARNTL2 PE=1 SV=1
+Length=622
+
+ Score = 58.2 bits (139),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 39/146 (27%), Positives = 67/146 (46%), Gaps = 3/146 (2%)
+
+Query  2    EDNRKRNMERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATI  61
+            ED     ++  RE      + RR K +++ ++L   +P         LD++ +LR+A   
+Sbjct  83   EDEEHLKIKDFREAHSQTEKRRRDKMNNLIEELSAMIPQCNP-MARKLDKLTVLRMAVQH  141
+
+Query  62   CR-LRKTAGNVLENNLDNEITNEVWTEDTIAECLDGFVMIVDSD-SSILYVTESVAMYLG  119
+             + L+ +  +  E         +      I    DGF+ +V  +   IL+V+ESV   L 
+Sbjct  142  LKSLKGSTSSYTEVRYKPSFLKDDELRQLILRAADGFLFVVGCNRGKILFVSESVCKILN  201
+
+Query  120  LTQTDLTGRALRDFLHPSDYDEFDKQ  145
+              QT L G++L D+LHP D  +  +Q
+Sbjct  202  YDQTSLIGQSLFDYLHPKDVAKVKEQ  227
+
+
+>Q17062 Period circadian protein OS=Antheraea pernyi OX=7119 GN=per PE=2 
+SV=1
+Length=849
+
+ Score = 57.8 bits (138),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 77/330 (23%), Positives = 139/330 (42%), Gaps = 31/330 (9%)
+
+Query  25   SKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAGNVLENNLDNEITNEV  84
+            S+E    DD+ +  P   + T+   + IA + VA       K    V   +L N  T   
+Sbjct  100  SEEGGAADDVLVPSP---KQTLQTDNDIADIEVAIPDTNNDKEEAIVYNTSLINPGTACP  156
+
+Query  85   WTEDTIAECLDGFVMIVD-SDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFD  143
+            +    ++ C +GF  ++   D  +LY T S+   LG  +    GR+  DF+HP D + F 
+Sbjct  157  FGRPALSNC-NGFSCVISMHDGVVLYATASLTSTLGFPKDMWVGRSFIDFVHPRDRNTFA  215
+
+Query  144  KQ-SKMLHKPR----GEDTDTT----GINMVLRMKTVISPRG-RC-LNLKSALYKSVSFL  192
+             Q +  L  P+     E+TD T    G  MV R++     RG  C  ++K+     + FL
+Sbjct  216  SQITNELAIPKIVSLTEETDQTMENPGSTMVCRIRRY---RGLSCGFSVKNTTTAYLPFL  272
+
+Query  193  VHSKVST----GGHVSFMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITF  248
+            +  K        G+V ++    +P       +N   + K       +F  RH+ D  + +
+Sbjct  273  LKFKFKNVNEDKGNVIYLVIQAVPFFSAFKTSN-EVLAKTV-----SFVIRHSADGNLEY  326
+
+Query  249  VSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHI-RTPYYRLIAANDT  307
+            +  +    L    + +       L HP D+  + +    L  +G++ R+  YR++  N  
+Sbjct  327  IDAESVPYLGYLPQDITNRDALLLYHPGDLGYLQEIYGSLVKEGNVTRSKTYRMMTQNGH  386
+
+Query  308  LAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+               ++TE +   +    +K ++V   HY++
+Sbjct  387  YMKVETEWSAFINPW-SKKLEFVTGKHYII  415
+
+
+>B5DE09 Nuclear receptor coactivator 2 OS=Xenopus tropicalis OX=8364 
+GN=ncoa2 PE=2 SV=1
+Length=1440
+
+ Score = 57.0 bits (136),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 55/262 (21%), Positives = 106/262 (40%), Gaps = 29/262 (11%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK----Q  145
+            + E LDGF  +V+ + ++++V+E+V  YL   Q +L   ++   LH  D+ EF K    +
+Sbjct  119  MLEALDGFFFVVNREGNVVFVSENVTQYLRYNQEELMNTSVYSILHVGDHSEFIKNLLPK  178
+
+Query  146  SKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYKSVS-FLVHSKVSTGGHVS  204
+            S +   PR  ++ T    M+++        G         Y+++  F V    S      
+Sbjct  179  SIVNGGPR-RNSHTFNCRMLVKPMMECEEEGHDGQETHQKYETMQCFAVSQPKSIKEEGE  237
+
+Query  205  FMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTL  264
+              Q   I   +           +    P  +FTTR     +IT +         + ++ L
+Sbjct  238  DFQSCLICVAR-----RVPMKERPVPPPSESFTTRQDLQGKITSLD-------TTNMRAL  285
+
+Query  265  MGTSFYELV----------HPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTE  314
+            M   + +LV          H  ++    +  +E+  +GH  +P+YR   ++ T     T+
+Sbjct  286  MRPGWEDLVRRCIQRFHSQHDGEISYSKRHHQEVLRQGHATSPFYRFALSDGTTVLAHTK  345
+
+Query  315  ATTITHTTKGQKGQYVICVHYV  336
+            +  +   T  +  Q V+ +H +
+Sbjct  346  SKLMRSQTTNEP-QLVLSLHVL  366
+
+
+>A9YTQ3 Aryl hydrocarbon receptor repressor OS=Homo sapiens OX=9606 GN=AHRR 
+PE=1 SV=3
+Length=701
+
+ Score = 55.5 bits (132),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 36/149 (24%), Positives = 71/149 (48%), Gaps = 19/149 (13%)
+
+Query  10   ERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAG  69
+            E+   + RH  RDR + E    D L   +P   +  ++ LD++++LR++ +  R++    
+Sbjct  32   EKSNPSKRH--RDRLNAE---LDHLASLLPFPPD-IISKLDKLSVLRLSVSYLRVKSFFQ  85
+
+Query  70   NVLENNLDNEITNEVWTEDT-------------IAECLDGFVMIVDSDSSILYVTESVAM  116
+             V E +            D+             + E L+GF ++V ++ +I Y + ++  
+Sbjct  86   VVQEQSSRQPAAGAPSPGDSCPLAGSAVLEGRLLLESLNGFALVVSAEGTIFYASATIVD  145
+
+Query  117  YLGLTQTDLTGRALRDFLHPSDYDEFDKQ  145
+            YLG  QTD+  + + D++H  D  +F +Q
+Sbjct  146  YLGFHQTDVMHQNIYDYIHVDDRQDFCRQ  174
+
+
+>Q3U1U7 Aryl hydrocarbon receptor repressor OS=Mus musculus OX=10090 
+GN=Ahrr PE=1 SV=1
+Length=701
+
+ Score = 55.5 bits (132),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 77/354 (22%), Positives = 138/354 (39%), Gaps = 64/354 (18%)
+
+Query  4    NRKRNMERRRET---------SRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIAL  54
+             R++ +++RR T          RH  RDR + E    D L   +P   +  ++ LD++++
+Sbjct  14   KRRKPIQKRRLTMGAEKSNPSKRH--RDRLNTE---LDHLASLLPFSPD-IISKLDKLSV  67
+
+Query  55   LRVAATICRLRKTAGNVLENNLDNE--ITNE--------VWTEDTIAECLDGFVMIVDSD  104
+            LR++ +  R++     + E  + +   ++ E        V     + E L+GF ++V ++
+Sbjct  68   LRLSVSYLRVKSFFQALQETCVWSAPALSPEEHSYRGFPVQEGRLLLESLNGFALVVSAE  127
+
+Query  105  SSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--------RGED  156
+              I Y + ++  YLG  QTD+  + + D++H  D  +F +Q      P           D
+Sbjct  128  GMIFYASATIVDYLGFHQTDVMHQNIYDYIHVDDRQDFCRQLHWAMDPPQVVFGQSPHAD  187
+
+Query  157  TDTTGINMVLR---------------MKTVISPRGRCLNLKSALYKSVSFLVHSKVSTGG  201
+            TD T +  +LR               +      R RCL   ++ + ++ F    K   G 
+Sbjct  188  TDNTVLGKLLRAQEGGKGLPSEYSAFLTRCFICRVRCLLDSTSGFLTMQFQGKLKFLFGQ  247
+
+Query  202  HVSFMQGITIPAGQGTTNANASAMTKYTESPMGA--FTTRHTCDMRITFVSDKFNYILKS  259
+                  G  +P         A  +   TE  M +     +H  D+ +T         + S
+Sbjct  248  KKKTPSGTALPPRLSLFCIVAPVLPSVTEMKMKSTFLKAKHRADIVVT---------MDS  298
+
+Query  260  ELKTLMGTSFYELVHPADMMIVSKSMKE----LFAKGHIRTPYYRLIAANDTLA  309
+              K +      EL HP    +  KS  E    LF     R+ + R +A +  L 
+Sbjct  299  RAKAVTSLCESEL-HPKLNYLAGKSNGENGISLFRGQTDRSHWARALARSSCLC  351
+
+
+>Q75NT5 Aryl hydrocarbon receptor repressor OS=Rattus norvegicus OX=10116 
+GN=Ahrr PE=2 SV=1
+Length=701
+
+ Score = 55.1 bits (131),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 46/193 (24%), Positives = 89/193 (46%), Gaps = 33/193 (17%)
+
+Query  4    NRKRNMERRRET---------SRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIAL  54
+             R++ +++RR T          RH  RDR + E    D L   +P   +  ++ LD++++
+Sbjct  14   KRRKPIQKRRLTMGTEKSNPSKRH--RDRLNTE---LDHLASLLPFSPD-IISKLDKLSV  67
+
+Query  55   LRVAATICRLRKTAGNVLENNLDNE--ITNE--------VWTEDTIAECLDGFVMIVDSD  104
+            LR++ +  R++     + E  + +   ++ E        V     + E L+GF ++V ++
+Sbjct  68   LRLSVSYLRVKSFFQALQETCVWSAPALSPEDHSSRGFPVQEGRLLLESLNGFALVVSAE  127
+
+Query  105  SSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQSKMLHKP--------RGED  156
+              I Y + ++  YLG  QTD+  + + D++H  D  +F +Q      P           D
+Sbjct  128  GMIFYASATIVDYLGFHQTDVMHQNIYDYIHVDDRQDFCRQLHWAMDPPQVVFGQSPHAD  187
+
+Query  157  TDTTGINMVLRMK  169
+            TD T +  +LR +
+Sbjct  188  TDNTVLGKLLRAQ  200
+
+
+>Q9Y6Q9 Nuclear receptor coactivator 3 OS=Homo sapiens OX=9606 GN=NCOA3 
+PE=1 SV=1
+Length=1424
+
+ Score = 53.1 bits (126),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 36/138 (26%), Positives = 65/138 (47%), Gaps = 15/138 (11%)
+
+Query  21   RDRRSKESDIFDDLKMCVPI----VEEGTVTHLDRIALLRVAATICRLRKTAGNVLENNL  76
+            + RR +ES   ++L   +      ++   V   D+ A+L+      R  K  G  + N+ 
+Sbjct  35   KRRREQESKYIEELAELISANLSDIDNFNVKP-DKCAILKETVRQIRQIKEQGKTISNDD  93
+
+Query  77   D------NEITNEVWTEDTIA----ECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT  126
+            D      +     V  +D++     + LDGF+ +V+ D +I++V+E+V  YL   Q DL 
+Sbjct  94   DVQKADVSSTGQGVIDKDSLGPLLLQALDGFLFVVNRDGNIVFVSENVTQYLQYKQEDLV  153
+
+Query  127  GRALRDFLHPSDYDEFDK  144
+              ++ + LH  D  +F K
+Sbjct  154  NTSVYNILHEEDRKDFLK  171
+
+
+>O61734 Protein cycle OS=Drosophila melanogaster OX=7227 GN=cyc PE=1 
+SV=2
+Length=413
+
+ Score = 51.6 bits (122),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 41/149 (28%), Positives = 73/149 (49%), Gaps = 6/149 (4%)
+
+Query  10   ERRRETSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRLRKTAG  69
+            E R++      + RR K +   ++L   +P+        LD++ +LR+A    R  + +G
+Sbjct  29   ENRKQNHSEIEKRRRDKMNTYINELSSMIPMCF-AMQRKLDKLTVLRMAVQHLRGIRGSG  87
+
+Query  70   NVLENNLDN---EITNEVWTEDTIAECLDGFVMIVDSDSS-ILYVTESVAMYLGLTQTDL  125
+            ++   N  +      ++   +  I +  +GF+ +V  D   ILYV++SV+  L  TQ DL
+Sbjct  88   SLHPFNGSDYRPSFLSDQELKMIILQASEGFLFVVGCDRGRILYVSDSVSSVLNSTQADL  147
+
+Query  126  TGRALRDFLHPSDYDEFDKQSKMLHK-PR  153
+             G++  D LHP D  +  +Q   L + PR
+Sbjct  148  LGQSWFDVLHPKDIGKVKEQLSSLEQCPR  176
+
+
+ Score = 37.0 bits (84),  Expect = 0.63, Method: Compositional matrix adjust.
+ Identities = 19/80 (24%), Positives = 40/80 (50%), Gaps = 1/80 (1%)
+
+Query  236  FTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELF-AKGHI  294
+            F +RH+ + +  F+  +   ++    + ++GTSFYE  H  D+  + +S K +      +
+Sbjct  311  FISRHSGEGKFLFIDQRATLVIGFLPQEILGTSFYEYFHNEDIAALMESHKMVMQVPEKV  370
+
+Query  295  RTPYYRLIAANDTLAWIQTE  314
+             T  YR    +++   +Q+E
+Sbjct  371  TTQVYRFRCKDNSYIQLQSE  390
+
+
+ Score = 36.6 bits (83),  Expect = 0.82, Method: Compositional matrix adjust.
+ Identities = 23/68 (34%), Positives = 36/68 (53%), Gaps = 6/68 (9%)
+
+Query  242  CDM-RITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTPYYR  300
+            CD  RI +VSD  + +L S    L+G S+++++HP D+  V + +  L      + P  R
+Sbjct  124  CDRGRILYVSDSVSSVLNSTQADLLGQSWFDVLHPKDIGKVKEQLSSL-----EQCPRER  178
+
+Query  301  LIAANDTL  308
+            LI A   L
+Sbjct  179  LIDAKTML  186
+
+
+>Q1ECW2 Neuronal PAS domain-containing protein 4A OS=Danio rerio OX=7955 
+GN=npas4a PE=2 SV=1
+Length=933
+
+ Score = 51.2 bits (121),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 67/339 (20%), Positives = 142/339 (42%), Gaps = 33/339 (10%)
+
+Query  15   TSRHAARDRRSKESDIFDDLKMCVPIVEEGTVTHLDRIALLRVAATICRL-RKT---AGN  70
+            +++ A++ RR + +    +LK  +PI +        R++ L + +  C   RK+   + +
+Sbjct  4    STKGASKARRDQINAEIRNLKDLLPISDADK----SRLSYLHIMSLACMYTRKSVFFSQD  59
+
+Query  71   VLENNLDNEITN--EVWTEDTIAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLT--  126
+            +   +   E T     +  + + + + GF++++  +  +LY+++SV+ +LG +  DL   
+Sbjct  60   ITTASSAEETTGFLSFYELNELIQGMPGFLLLLTGEGKLLYLSDSVSDHLGHSMVDLVAQ  119
+
+Query  127  GRALRDFLHPSDYDEFDKQSKMLHKPRGEDTD---------TTGINMVLRMKTVISPRGR  177
+            G ++ D +  +D+  F  +S ++  P   DTD         +  +        ++  R R
+Sbjct  120  GDSVYDIIDTADH--FIMRSNLV-PPTSPDTDRLFRCRFNTSKSVRRQSAGNKLVLIRAR  176
+
+Query  178  CLNLKSALYKSVSFLVHSKVSTGGHVSF---MQGITIPAGQGTTNANASAMTKYTESPMG  234
+            CL+   +     S+   + V     V F   ++  T   G  +   + SA    +   + 
+Sbjct  177  CLSQTPSESSPGSYWTSNPV----WVCFCAPLEPHTSRGGTASDRESTSASALESSFFLP  232
+
+Query  235  AFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHI  294
+             F ++H+ DMR+    +  +  L   ++ L   S+Y  +HP D+   S     L  +G  
+Sbjct  233  CFRSQHSRDMRLHEAQESVSVYLGLNVEILRSQSWYSFLHPQDLSHASAQHCSLLREGGE  292
+
+Query  295  RTP--YYRLIAANDTLAWIQTEATTITHTTKGQKGQYVI  331
+                   R+  A+ +  W+       T  T      Y+I
+Sbjct  293  GRAEMVVRVETADHSWVWLYMVLQLETGETPIVSNNYII  331
+
+
+>Q9W705 Nuclear receptor coactivator 2 OS=Xenopus laevis OX=8355 GN=ncoa2 
+PE=2 SV=1
+Length=1516
+
+ Score = 50.8 bits (120),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 61/292 (21%), Positives = 113/292 (39%), Gaps = 39/292 (13%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK----Q  145
+            + E LDGF  +V+ + ++++V+E+V  YL   Q +L   ++   LH  D+ EF K    +
+Sbjct  116  MLEALDGFFFVVNREGNVVFVSENVTQYLRYNQEELMNTSVYSILHVGDHSEFIKNLLPK  175
+
+Query  146  SKMLHKPRGEDTDTTGINMVLRMKTVISPRGRCLNLKSALYKSVS-FLVHSKVSTGGHVS  204
+            S +   PR  ++ T    M+++                  Y+S+  F V    S      
+Sbjct  176  SLVNGVPR-RNSHTFNCRMLVKPMMECEEERHDGQETHQKYESMQCFAVSQPKSIKEEGE  234
+
+Query  205  FMQGITIPAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTL  264
+              Q   I   +           +    P  +FTTR     +IT +         + ++ L
+Sbjct  235  DFQSCLICVAR-----RVPVKERPVPPPSESFTTRQDFQGKITSLD-------TTSMRAL  282
+
+Query  265  MGTSFYELV----------HPADMMIVSKSMKELFAKGHIRTPYYRLIAANDTLAWIQTE  314
+            M   + ++V          H  ++    +  +E+  +GH  +P+YR   ++ T    QT+
+Sbjct  283  MRPGWEDMVRRCIQRFHSQHDGEISYSRRHHQEVLRQGHATSPFYRFSLSDGTTVVAQTK  342
+
+Query  315  ATTITHTTKG-----------QKGQYVICVHYVLGIQGAEESLVVCTDSMPA  355
+            +  +   T             Q+ Q V  ++  L  Q   ++L     S PA
+Sbjct  343  SRLMRSQTNNEPPLVLSLHVLQREQNVCGLNQDLAGQAMGKTLNPVQSSSPA  394
+
+
+>Q4PJW2 Nuclear receptor coactivator 1 OS=Sus scrofa OX=9823 GN=NCOA1 
+PE=2 SV=1
+Length=1440
+
+ Score = 50.4 bits (119),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 21/55 (38%), Positives = 33/55 (60%), Gaps = 0/55 (0%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+            + E LDGF  +V+ +  I++V+E+V  YLG  Q +L   ++   LH  D+ EF K
+Sbjct  116  LLEALDGFFFVVNCEGRIVFVSENVTSYLGYNQEELMNTSVYSILHVGDHAEFVK  170
+
+
+>Q15788 Nuclear receptor coactivator 1 OS=Homo sapiens OX=9606 GN=NCOA1 
+PE=1 SV=3
+Length=1441
+
+ Score = 50.1 bits (118),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 21/55 (38%), Positives = 33/55 (60%), Gaps = 0/55 (0%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+            + E LDGF  +V+ +  I++V+E+V  YLG  Q +L   ++   LH  D+ EF K
+Sbjct  116  LLEALDGFFFVVNCEGRIVFVSENVTSYLGYNQEELMNTSVYSILHVGDHAEFVK  170
+
+
+>P70365 Nuclear receptor coactivator 1 OS=Mus musculus OX=10090 GN=Ncoa1 
+PE=1 SV=2
+Length=1447
+
+ Score = 50.1 bits (118),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 21/55 (38%), Positives = 33/55 (60%), Gaps = 0/55 (0%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+            + E LDGF  +V+ +  I++V+E+V  YLG  Q +L   ++   LH  D+ EF K
+Sbjct  116  LLEALDGFFFVVNCEGRIVFVSENVTSYLGYNQEELMNTSVYSILHVGDHAEFVK  170
+
+
+>Q61026 Nuclear receptor coactivator 2 OS=Mus musculus OX=10090 GN=Ncoa2 
+PE=1 SV=3
+Length=1462
+
+ Score = 50.1 bits (118),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 29/106 (27%), Positives = 51/106 (48%), Gaps = 11/106 (10%)
+
+Query  50   DRIALLRVAATICRLRKTAGNVLENNLDNEITNEVWT-------EDTIA----ECLDGFV  98
+            D+ A+L+      R  K        N+D    ++V +       +D +     E LDGF 
+Sbjct  68   DKCAILKETVKQIRQIKEQEKAAAANIDEVQKSDVSSTGQGVIDKDALGPMMLEALDGFF  127
+
+Query  99   MIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+             +V+ + S+++V+E+V  YL   Q +L  +++   LH  D+ EF K
+Sbjct  128  FVVNLEGSVVFVSENVTQYLRYNQEELMNKSVYSILHVGDHTEFVK  173
+
+
+>O57539 Nuclear receptor coactivator 3 OS=Xenopus laevis OX=8355 GN=ncoa3 
+PE=1 SV=1
+Length=1391
+
+ Score = 49.3 bits (116),  Expect = 1e-04, Method: Compositional matrix adjust.
+ Identities = 30/105 (29%), Positives = 50/105 (48%), Gaps = 10/105 (10%)
+
+Query  50   DRIALLRVAATICRLRKTAGNVLENNLD------NEITNEVWTEDTIA----ECLDGFVM  99
+            D+ A+L+      R  K  G    N+ D      +     V  +D++     + LDGF+ 
+Sbjct  69   DKCAILKETVRQIRQIKEQGKASSNDDDVQKADVSSTGQGVIDKDSLGPLLLQALDGFLY  128
+
+Query  100  IVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+            +V+ + SI++V+E+V  YL   Q DL   ++   LH  D  +F K
+Sbjct  129  VVNREGSIVFVSENVTQYLQYKQEDLVNTSVYSILHEEDRKDFLK  173
+
+
+>Q9WUI9 Nuclear receptor coactivator 2 OS=Rattus norvegicus OX=10116 
+GN=Ncoa2 PE=1 SV=1
+Length=1465
+
+ Score = 48.5 bits (114),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 28/106 (26%), Positives = 51/106 (48%), Gaps = 11/106 (10%)
+
+Query  50   DRIALLRVAATICRLRKTAGNVLENNLDNEITNEVWT-------EDTIA----ECLDGFV  98
+            D+ A+L+      R  K        N+D    ++V +       +D +     E LDGF 
+Sbjct  68   DKCAILKETVKQIRQIKEQEKAAAANIDEVQKSDVSSTGQGVIDKDALGPMMLEALDGFF  127
+
+Query  99   MIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+             +V+ + ++++V+E+V  YL   Q +L  +++   LH  D+ EF K
+Sbjct  128  FVVNLEGNVVFVSENVTQYLRYNQEELMNKSVYSILHVGDHTEFVK  173
+
+
+>Q15596 Nuclear receptor coactivator 2 OS=Homo sapiens OX=9606 GN=NCOA2 
+PE=1 SV=2
+Length=1464
+
+ Score = 48.5 bits (114),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 28/106 (26%), Positives = 51/106 (48%), Gaps = 11/106 (10%)
+
+Query  50   DRIALLRVAATICRLRKTAGNVLENNLDNEITNEVWT-------EDTIA----ECLDGFV  98
+            D+ A+L+      R  K        N+D    ++V +       +D +     E LDGF 
+Sbjct  68   DKCAILKETVKQIRQIKEQEKAAAANIDEVQKSDVSSTGQGVIDKDALGPMMLEALDGFF  127
+
+Query  99   MIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+             +V+ + ++++V+E+V  YL   Q +L  +++   LH  D+ EF K
+Sbjct  128  FVVNLEGNVVFVSENVTQYLRYNQEELMNKSVYSILHVGDHTEFVK  173
+
+
+>Q98TW1 Nuclear receptor coactivator 2 OS=Danio rerio OX=7955 GN=ncoa2 
+PE=1 SV=1
+Length=1505
+
+ Score = 47.8 bits (112),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 20/55 (36%), Positives = 33/55 (60%), Gaps = 0/55 (0%)
+
+Query  90   IAECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDK  144
+            + E LDGF  +V+ + +I++V+E+V  YL   Q +L   ++   LH  D+ EF K
+Sbjct  120  MLEALDGFFFVVNMEGNIVFVSENVTQYLRYNQEELMNTSVYSILHVGDHAEFIK  174
+
+
+>O09000 Nuclear receptor coactivator 3 OS=Mus musculus OX=10090 GN=Ncoa3 
+PE=1 SV=2
+Length=1398
+
+ Score = 47.8 bits (112),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 76/359 (21%), Positives = 135/359 (38%), Gaps = 74/359 (21%)
+
+Query  23   RRSKESDIFDDLKMCVPI----VEEGTVTHLDRIALLRVAATICRLRKTAGNVLENNLD-  77
+            RR +ES   ++L   +      ++   V   D+ A+L+      R  K  G  + ++ D 
+Sbjct  38   RREQESKYIEELAELISANLSDIDNFNVKP-DKCAILKETVRQIRQIKEQGKTISSDDDV  96
+
+Query  78   -----NEITNEVWTEDTIA----ECLDGFVMIVDSDSSILYVTESVAMYLGLTQTDLTGR  128
+                 +     V  +D++     + LDGF+ +V+ D +I++V+E+V  YL   Q DL   
+Sbjct  97   QKADVSSTGQGVIDKDSLGPLLLQALDGFLFVVNRDGNIVFVSENVTQYLQYKQEDLVNT  156
+
+Query  129  ALRDFLHPSDYDEF------DKQSKMLHKPRGEDTDTTGINMV-LRMKT-------VISP  174
+            ++   LH     +F       +  + L   R  D     I +V + MKT         SP
+Sbjct  157  SVYSILHEPRRKDFLNTYQNPQLMEFLGLMRTRDKKAPYILIVRMLMKTHDILEDVNASP  216
+
+Query  175  RGR-------CLNLKSALYKSVSFLVHSKVSTGGHVSFMQGITIPAGQGTTNANASAMTK  227
+              R       C     AL +  + L   +      +   + +T P               
+Sbjct  217  ETRQRYETMQCF----ALSQPRAMLEEGEDLQCCMICVARRVTAP---------------  257
+
+Query  228  YTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMIVS-----  282
+            +  SP  +F TRH        +S K   I  + L++ M   F +++        S     
+Sbjct  258  FPSSPE-SFITRHD-------LSGKVVNIDTNSLRSSMRPGFEDIIRRCIQRFFSLNDGQ  309
+
+Query  283  -----KSMKELFAKGHIRTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYV  336
+                 +  +E +  GH  TP YR   A+ T+   QT++    +     +  + I  H++
+Sbjct  310  SWSQKRHYQEAYVHGHAETPVYRFSLADGTIVSAQTKSKLFRNPVTNDRHGF-ISTHFL  367
+
+
+>Q25020 Period circadian protein (Fragment) OS=Hyalophora cecropia OX=7123 
+GN=per PE=2 SV=1
+Length=358
+
+ Score = 43.9 bits (102),  Expect = 0.004, Method: Compositional matrix adjust.
+ Identities = 50/247 (20%), Positives = 102/247 (41%), Gaps = 26/247 (11%)
+
+Query  107  ILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQ-------SKMLH--KPRGEDT  157
+            ++Y T S+   LG  +    GR+  DFLHP D + F  Q        K+++  + + +  
+Sbjct  3    VMYTTSSITATLGFPKDMWIGRSFIDFLHPKDANTFASQITNGLAIPKIVNDTQEKAQIF  62
+
+Query  158  DTTGINMVLRMKTVISPRGRC--LNLKSALYKSVSFLVHSKVST----GGHVSFMQGITI  211
+             T G  MV R++     RG      +K      + FL+  +        G V ++   T+
+Sbjct  63   GTQGSTMVCRIRRY---RGLSSGFGVKDTSVSYMPFLLKFRFRNISDDKGLVVYLVIQTV  119
+
+Query  212  PAGQGTTNANASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYE  271
+            P        N   +T+       +F  RH+ +  + ++       L    + +   +   
+Sbjct  120  PFFSAYKTPN-EILTQEV-----SFIMRHSANGNLEYIDPDCVPYLGYIPQDITNRNALV  173
+
+Query  272  LVHPADMMIVSKSMKELFAKGHI-RTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYV  330
+            L HP D+  + +  + +  +G + R+  YR++  N     ++TE +   +    +K ++V
+Sbjct  174  LYHPGDLPFLQEVYQAIVKEGSVTRSKSYRMVTQNGHFIKVETEWSAFINPW-SRKLEFV  232
+
+Query  331  ICVHYVL  337
+               +Y++
+Sbjct  233  NGKYYII  239
+
+
+>Q25478 Period circadian protein (Fragment) OS=Manduca sexta OX=7130 
+GN=per PE=2 SV=1
+Length=354
+
+ Score = 42.4 bits (98),  Expect = 0.013, Method: Compositional matrix adjust.
+ Identities = 54/238 (23%), Positives = 102/238 (43%), Gaps = 13/238 (5%)
+
+Query  107  ILYVTESVAMYLGLTQTDLTGRALRDFLHPSDYDEFDKQ-SKMLHKPR---GEDTDTTGI  162
+            ++Y T S+   LG  +    GR+  DF+HP D + F  Q +  L  P+   G+       
+Sbjct  3    VMYTTSSLTTTLGFPKDMWIGRSFIDFVHPRDRNTFASQITSGLAVPKIVNGQSPGNPAS  62
+
+Query  163  NMVLRMKTVISPRGRCLNLKSALY-KSVSFLVHSKVSTGGHVSFMQGITI-PAGQGTTNA  220
+             MV R++     R R L     +  + V+F+      T  +VS  +G  I    Q T   
+Sbjct  63   TMVCRIR-----RYRGLTTGFGVKDRVVTFMPFLLKFTFKNVSDEEGKVIYLVIQATQFF  117
+
+Query  221  NASAMTKYTESPMGAFTTRHTCDMRITFVSDKFNYILKSELKTLMGTSFYELVHPADMMI  280
+            +A  +     S    F  RH  +  + ++  +    L    + +      +L HP D+  
+Sbjct  118  SAFRIPSEVVSKAVPFVMRHAANGNLEYIDPESVPYLGYLPQDVTDKDALQLYHPEDLDY  177
+
+Query  281  VSKSMKELFAKGHI-RTPYYRLIAANDTLAWIQTEATTITHTTKGQKGQYVICVHYVL  337
+            + +  + +  +G + RT  YR++A N     ++TE ++  +    ++  +VI  H+++
+Sbjct  178  LQQVYETIVKEGGVPRTKAYRMMAQNGDYLKLETEWSSFINPW-SKRLDFVIGKHHII  234
+
+
+>Q01371 White collar 1 protein OS=Neurospora crassa (strain ATCC 24698 
+/ 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 
+GN=wc-1 PE=1 SV=2
+Length=1167
+
+ Score = 40.0 bits (92),  Expect = 0.086, Method: Compositional matrix adjust.
+ Identities = 23/82 (28%), Positives = 42/82 (51%), Gaps = 7/82 (9%)
+
+Query  248  FVSDKFNYILKSELKTLMGTSFYELVHPADMMIVSKSMKELFAKGHIRTP---YYRLIAA  304
+            ++S     +L+ +   L+GTS   + HP+D++ V++ +KE  A+ H  TP    +R+   
+Sbjct  600  YLSPACKKVLEYDASDLVGTSLSSICHPSDIVPVTRELKE--AQQH--TPVNIVFRIRRK  655
+
+Query  305  NDTLAWIQTEATTITHTTKGQK  326
+            N    W ++  T      KG+K
+Sbjct  656  NSGYTWFESHGTLFNEQGKGRK  677
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 79599325212
+
+
+  Database: uniprot_sprot.fasta
+    Posted date:  Jun 28, 2022  2:18 PM
+  Number of letters in database: 204,940,973
+  Number of sequences in database:  567,483
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,17 @@
+G5EGD2 Hypoxia-inducible factor 1 OS=Caenorhabditis elegans OX=62...  1498    0.0  
+Q0PGG7 Hypoxia-inducible factor 1-alpha OS=Bos mutus grunniens OX...  181     2e-46
+Q9XTA5 Hypoxia-inducible factor 1-alpha OS=Bos taurus OX=9913 GN=...  180     2e-46
+Q61221 Hypoxia-inducible factor 1-alpha OS=Mus musculus OX=10090 ...  179     4e-46
+Q9YIB9 Hypoxia-inducible factor 1-alpha OS=Gallus gallus OX=9031 ...  179     7e-46
+Q16665 Hypoxia-inducible factor 1-alpha OS=Homo sapiens OX=9606 G...  177     3e-45
+Q309Z6 Hypoxia-inducible factor 1-alpha OS=Eospalax fontanierii b...  176     5e-45
+O35800 Hypoxia-inducible factor 1-alpha OS=Rattus norvegicus OX=1...  175     2e-44
+Q9JHS2 Hypoxia-inducible factor 3-alpha OS=Rattus norvegicus OX=1...  173     2e-44
+Q0VBL6 Hypoxia-inducible factor 3-alpha OS=Mus musculus OX=10090 ...  169     6e-43
+Q9Y2N7 Hypoxia-inducible factor 3-alpha OS=Homo sapiens OX=9606 G...  167     1e-42
+Q99814 Endothelial PAS domain-containing protein 1 OS=Homo sapien...  168     3e-42
+Q98SW2 Hypoxia-inducible factor 1-alpha OS=Oncorhynchus mykiss OX...  164     3e-41
+P97481 Endothelial PAS domain-containing protein 1 OS=Mus musculu...  164     5e-41
+Q9JHS1 Endothelial PAS domain-containing protein 1 OS=Rattus norv...  163     1e-40
+Q24167 Protein similar OS=Drosophila melanogaster OX=7227 GN=sima...  163     3e-40
+Q9I8A9 Hypoxia-inducible factor 1-alpha OS=Xenopus laevis OX=8355...  140     4e-33
