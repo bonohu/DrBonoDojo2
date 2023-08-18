@@ -1,0 +1,136 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /hmmer/PF00113.hmm
+# target sequence database:        /hmmer/IACV01.1.fsa_nt.transdecoder.pep
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Enolase_C  [M=296]
+Accession:   PF00113.25
+Description: Enolase, C-terminal TIM barrel domain
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence          Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------          -----------
+      3e-91  306.8   0.0    3.3e-91  306.7   0.0    1.0  1  IACV01121558.1.p2  GENE.IACV01121558.1~~IACV01121558.1.p2  OR
+      3e-91  306.8   0.0    3.3e-91  306.7   0.0    1.0  1  IACV01121559.1.p2  GENE.IACV01121559.1~~IACV01121559.1.p2  OR
+    5.8e-80  269.8   0.1    6.4e-80  269.6   0.1    1.0  1  IACV01093882.1.p2  GENE.IACV01093882.1~~IACV01093882.1.p2  OR
+    5.5e-65  220.6   0.2    7.5e-65  220.2   0.2    1.2  1  IACV01087655.1.p1  GENE.IACV01087655.1~~IACV01087655.1.p1  OR
+      2e-47  163.0   1.3    2.2e-47  162.8   1.3    1.0  1  IACV01121563.1.p1  GENE.IACV01121563.1~~IACV01121563.1.p1  OR
+
+
+Domain annotation for each sequence (and alignments):
+>> IACV01121558.1.p2  GENE.IACV01121558.1~~IACV01121558.1.p2  ORF type:5prime_partial len:179 (+),score=67.93 IACV011215
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  306.7   0.0   4.4e-95   3.3e-91     117     293 ..       1     175 [.       1     178 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 306.7 bits;  conditional E-value: 4.4e-95
+                        EEECTTTTTT--GGCEEEHHHHHHHHHHHHHHS-EEEEES-S-TT-HHHHHHHHHHHTTTSEEEESTTTTT-HHHHHHHHHCT--SEEEE-H CS
+          Enolase_C 117 kydldfkeeesdkskkltseeladlyeelvkkyPivsiedpldeddweawaklteelgdkvqlvGddllvtnvkrlkeaiekkvanalllkv 208
+                        kydldfk+e sdks+++++++l++ly+ ++k++Pivsiedp+d+d+weaw+k+t+ ++  +q+vGddl+vtn+kr+++a+ekk++n+lllkv
+  IACV01121558.1.p2   1 KYDLDFKNEASDKSQWISGDQLTELYQGFIKEFPIVSIEDPFDQDHWEAWSKITAATN--IQIVGDDLTVTNPKRIQTAVEKKACNCLLLKV 90 
+                        7*******************************************************99..******************************** PP
+
+                        HHH-SHHHHHHHHHHHHHTT-EEEEE--SC--S--HHHHHHHHCT-SEEE---S-SHHHHHHHHHHHHHHHHHGCC-EE-GGGCT CS
+          Enolase_C 209 nqiGsltesleavkmakeagygvvvshrsGetedttiadlavglsaGqiktGaparserlakynqllrieeelgeeakyaGkkvr 293
+                        nqiGs+tes+ea+ +ak++g+g++vshrsGetedt+iadl+vgls+GqiktGap+rserlakynq+lrieeelg++akyaGk++r
+  IACV01121558.1.p2  91 NQIGSVTESIEAHLLAKKNGWGTMVSHRSGETEDTFIADLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEELGSAAKYAGKSFR 175
+                        **********************************************************************************997 PP
+
+>> IACV01121559.1.p2  GENE.IACV01121559.1~~IACV01121559.1.p2  ORF type:5prime_partial len:179 (+),score=67.93 IACV011215
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  306.7   0.0   4.4e-95   3.3e-91     117     293 ..       1     175 [.       1     178 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 306.7 bits;  conditional E-value: 4.4e-95
+                        EEECTTTTTT--GGCEEEHHHHHHHHHHHHHHS-EEEEES-S-TT-HHHHHHHHHHHTTTSEEEESTTTTT-HHHHHHHHHCT--SEEEE-H CS
+          Enolase_C 117 kydldfkeeesdkskkltseeladlyeelvkkyPivsiedpldeddweawaklteelgdkvqlvGddllvtnvkrlkeaiekkvanalllkv 208
+                        kydldfk+e sdks+++++++l++ly+ ++k++Pivsiedp+d+d+weaw+k+t+ ++  +q+vGddl+vtn+kr+++a+ekk++n+lllkv
+  IACV01121559.1.p2   1 KYDLDFKNEASDKSQWISGDQLTELYQGFIKEFPIVSIEDPFDQDHWEAWSKITAATN--IQIVGDDLTVTNPKRIQTAVEKKACNCLLLKV 90 
+                        7*******************************************************99..******************************** PP
+
+                        HHH-SHHHHHHHHHHHHHTT-EEEEE--SC--S--HHHHHHHHCT-SEEE---S-SHHHHHHHHHHHHHHHHHGCC-EE-GGGCT CS
+          Enolase_C 209 nqiGsltesleavkmakeagygvvvshrsGetedttiadlavglsaGqiktGaparserlakynqllrieeelgeeakyaGkkvr 293
+                        nqiGs+tes+ea+ +ak++g+g++vshrsGetedt+iadl+vgls+GqiktGap+rserlakynq+lrieeelg++akyaGk++r
+  IACV01121559.1.p2  91 NQIGSVTESIEAHLLAKKNGWGTMVSHRSGETEDTFIADLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEELGSAAKYAGKSFR 175
+                        **********************************************************************************997 PP
+
+>> IACV01093882.1.p2  GENE.IACV01093882.1~~IACV01093882.1.p2  ORF type:5prime_partial len:162 (-),score=40.62 IACV010938
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  269.6   0.1   8.4e-84   6.4e-80     136     295 ..       1     158 [.       1     159 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 269.6 bits;  conditional E-value: 8.4e-84
+                        HHHHHHHHHHHHHS-EEEEES-S-TT-HHHHHHHHHHHTTTSEEEESTTTTT-HHHHHHHHHCT--SEEEE-HHHH-SHHHHHHHHHHHHHT CS
+          Enolase_C 136 eeladlyeelvkkyPivsiedpldeddweawaklteelgdkvqlvGddllvtnvkrlkeaiekkvanalllkvnqiGsltesleavkmakea 227
+                        eela +y++l+kkyPivsiedp++eddweaw+++ ++ +  +q+vGddl+vtn+ r+k+ai+ k++nalllkvnqiG+ltes++a+k++++ 
+  IACV01093882.1.p2   1 EELAAMYSDLCKKYPIVSIEDPFAEDDWEAWSYFYKTQN--IQIVGDDLTVTNPLRIKKAIQLKACNALLLKVNQIGTLTESIQAAKDSYAD 90 
+                        58999******************************9988..*************************************************** PP
+
+                        T-EEEEE--SC--S--HHHHHHHHCT-SEEE---S-SHHHHHHHHHHHHHHHHHGCC-EE-GGGCTTT CS
+          Enolase_C 228 gygvvvshrsGetedttiadlavglsaGqiktGaparserlakynqllrieeelgeeakyaGkkvrkk 295
+                        g+gv+vshrsGeted+tiad++vg+++G iktGap+rserlak+nq+lrieeelg++a+yaG+++rk+
+  IACV01093882.1.p2  91 GWGVMVSHRSGETEDVTIADIVVGIRSGEIKTGAPCRSERLAKLNQILRIEEELGDKAIYAGANFRKS 158
+                        ****************************************************************9985 PP
+
+>> IACV01087655.1.p1  GENE.IACV01087655.1~~IACV01087655.1.p1  ORF type:3prime_partial len:273 (-),score=63.15 IACV010876
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  220.2   0.2   9.9e-69   7.5e-65       2     130 ..     144     272 .]     143     272 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 220.2 bits;  conditional E-value: 9.9e-69
+                        -EE-EE-EEEEE-GGGSSSS--SSEEEEE-TT-SSHHHHHHHHHHHHHHHHHHHHHCC-GGGG-B-TTS-B----SSHHHHHHHHHHHHHHC CS
+          Enolase_C   2 lvlPvPalnvlnGGshadnklalqefmilPvgassfkealrlGaevyhklksvlkkkygqsatnvGdeGGfaPdlqsnkealdliveaieka 93 
+                        +vlPvP++nvlnGGsha+++la+qefmi+P++a++f+ea+r+Gaevy++lks++kkkygqsa+nvGdeGG+aPd+q+++ealdli+eaieka
+  IACV01087655.1.p1 144 YVLPVPFMNVLNGGSHAGGRLAFQEFMIVPSEAPTFSEAMRQGAEVYQQLKSLAKKKYGQSAGNVGDEGGVAPDIQTAAEALDLITEAIEKA 235
+                        89****************************************************************************************** PP
+
+                        T-TCTBEEEEE--GGGCEETCTTEEECTTTTTT--GG CS
+          Enolase_C  94 Gykgkvkialdvassefykekdkkydldfkeeesdks 130
+                        Gy+gk++ia+dvassefyke +kkydldfk+++sd+s
+  IACV01087655.1.p1 236 GYTGKMNIAMDVASSEFYKESEKKYDLDFKNPKSDPS 272
+                        *********************************9975 PP
+
+>> IACV01121563.1.p1  GENE.IACV01121563.1~~IACV01121563.1.p1  ORF type:internal len:113 (+),score=47.18 IACV01121563.1:1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  162.8   1.3   2.9e-51   2.2e-47      73     188 ..       1     112 []       1     112 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 162.8 bits;  conditional E-value: 2.9e-51
+                        ----SSHHHHHHHHHHHHHHCT-TCTBEEEEE--GGGCEETCTTEEECTTTTTT--GGCEEEHHHHHHHHHHHHHHS-EEEEES-S-TT-HH CS
+          Enolase_C  73 aPdlqsnkealdliveaiekaGykgkvkialdvassefykekdkkydldfkeeesdkskkltseeladlyeelvkkyPivsiedpldeddwe 164
+                        aP++ +nke+l li+eai++aGykgkv i++dva+sefy  kd+kydldfk+e sdks+++++++l++ly+ ++k++Pivsiedp+d+d+we
+  IACV01121563.1.p1   1 APNILDNKEGLVLIQEAIANAGYKGKVDIGMDVAASEFY--KDNKYDLDFKNEASDKSQWISGDQLTELYQGFIKEFPIVSIEDPFDQDHWE 90 
+                        8**************************************..778************************************************ PP
+
+                        HHHHHHHHHTTTSEEEESTTTTT- CS
+          Enolase_C 165 awaklteelgdkvqlvGddllvtn 188
+                        aw+k+t+ ++  +q+vGddl+vtn
+  IACV01121563.1.p1  91 AWSKITAATN--IQIVGDDLTVTN 112
+                        ********99..***********9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (296 nodes)
+Target sequences:                      37917  (12791541 residues searched)
+Passed MSV filter:                      1001  (0.0263998); expected 758.3 (0.02)
+Passed bias filter:                      688  (0.0181449); expected 758.3 (0.02)
+Passed Vit filter:                        46  (0.00121318); expected 37.9 (0.001)
+Passed Fwd filter:                         5  (0.000131867); expected 0.4 (1e-05)
+Initial search space (Z):              37917  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 8.44u 0.03s 00:00:08.46 Elapsed: 00:00:02.12
+# Mc/sec: 1783.81
+//
+[ok]
