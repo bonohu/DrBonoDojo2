@@ -9,3 +9,6 @@
 
 P57の `# Dockerコンテナの実行例` 
 誤 `% docker run -rm -t beezu/cmatrix` →　正 `% docker run --rm -t beezu/cmatrix`  
+
+P92の下の囲みのコマンド一行目
+誤 `% fasterq-dump DRR100656/DRR006760.sra` → 正 `% fasterq-dump DRR006760/DRR006760.sra`
